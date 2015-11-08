@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <!-- hin → pan -->
+
+  <mode name="hin-pan" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-pan.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="hin-pan.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-hin-pan.hin-pan.t1x"/>
+        <file name="hin-pan.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-hin-pan.hin-pan.t2x"/>
+        <file name="hin-pan.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-hin-pan.hin-pan.t3x"/>
+        <file name="hin-pan.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="hin-pan.autogen.bin"/>
+      </program>
+
+    </pipeline>
+  </mode>
+
+  <mode name="hin-pan-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-pan.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-hin-pan.hin-pan.t1x"/>
+        <file name="hin-pan.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-hin-pan.hin-pan.t2x"/>
+        <file name="hin-pan.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-hin-pan.hin-pan.t3x"/>
+        <file name="hin-pan.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="hin-pan.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="hin-pan-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="hin-pan-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="hin-pan-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="hin-pan-pretransfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="hin-pan-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-pan.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="hin-pan-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-pan.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t">
+        <file name="hin-pan.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="hin-pan-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-pan.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="hin-pan.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-hin-pan.hin-pan.t1x"/>
+        <file name="hin-pan.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="hin-pan-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-pan.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="hin-pan.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-hin-pan.hin-pan.t1x"/>
+        <file name="hin-pan.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-hin-pan.hin-pan.t2x"/>
+        <file name="hin-pan.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="hin-pan-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-pan.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="hin-pan.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-hin-pan.hin-pan.t1x"/>
+        <file name="hin-pan.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-hin-pan.hin-pan.t2x"/>
+        <file name="hin-pan.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-hin-pan.hin-pan.t3x"/>
+        <file name="hin-pan.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- pan → hin -->
+
+  <mode name="pan-hin" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="pan-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pan-hin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="pan-hin.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="pan-hin.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-hin-pan.pan-hin.t1x"/>
+        <file name="pan-hin.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-hin-pan.pan-hin.t2x"/>
+        <file name="pan-hin.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-hin-pan.pan-hin.t3x"/>
+        <file name="pan-hin.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="pan-hin.autogen.bin"/>
+      </program>
+
+    </pipeline>
+  </mode>
+
+  <mode name="pan-hin-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="pan-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pan-hin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="pan-hin.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-hin-pan.pan-hin.t1x"/>
+        <file name="pan-hin.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-hin-pan.pan-hin.t2x"/>
+        <file name="pan-hin.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-hin-pan.pan-hin.t3x"/>
+        <file name="pan-hin.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="pan-hin.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pan-hin-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pan-hin-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="pan-hin.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pan-hin-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="pan-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pan-hin.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pan-hin-pretransfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="pan-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pan-hin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="pan-hin-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="pan-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pan-hin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="pan-hin.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pan-hin-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="pan-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pan-hin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="pan-hin.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="pan-hin.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pan-hin-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="pan-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pan-hin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="pan-hin.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-hin-pan.pan-hin.t1x"/>
+        <file name="pan-hin.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pan-hin-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="pan-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pan-hin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="pan-hin.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-hin-pan.pan-hin.t1x"/>
+        <file name="pan-hin.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-hin-pan.pan-hin.t2x"/>
+        <file name="pan-hin.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pan-hin-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="pan-hin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="pan-hin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pan-hin.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="pan-hin.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-hin-pan.pan-hin.t1x"/>
+        <file name="pan-hin.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-hin-pan.pan-hin.t2x"/>
+        <file name="pan-hin.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-hin-pan.pan-hin.t3x"/>
+        <file name="pan-hin.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>
+
