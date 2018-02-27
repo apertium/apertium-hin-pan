@@ -12,6 +12,7 @@
     <sdef n="vblex"    c=""/>
     <sdef n="adj"    c=""/>
     <sdef n="adv"    c=""/>
+    <sdef n="sent"    c=""/>
     <sdef n="top"    c=""/>
     <sdef n="org"    c=""/>
     <sdef n="np"    c=""/>
@@ -8378,6 +8379,9 @@
     <e><p><l>हँस<s n="vblex"/></l><r>ਹਸ੍ਸ<s n="vblex"/></r></p></e>
     <e><p><l>हँस<s n="vblex"/></l><r>ਖਿੜਖਿੜਾਉ<s n="vblex"/></r></p></e>
     <e><p><l>हँस<s n="vblex"/></l><r>ਦਂਦ ਕਢ<s n="vblex"/></r></p></e>
+
+    <!-- SECTION: Punctuation -->
+    <e><re>[.\?;:!।॥]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 
    </section>
 </dictionary>
