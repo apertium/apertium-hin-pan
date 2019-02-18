@@ -40,6 +40,42 @@
     </pipeline>
   </mode>
 
+  <mode name="hin-pan_Arab-dgen" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan_Arab.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-pan_Arab.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="hin-pan_Arab.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-hin-pan.hin-pan.t1x"/>
+        <file name="hin-pan.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-hin-pan.hin-pan.t2x"/>
+        <file name="hin-pan.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-hin-pan.hin-pan.t3x"/>
+        <file name="hin-pan.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="hin-pan_Arab.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="hin-pan_Guru" install="yes">
     <pipeline>
       <program name="lt-proc -w">
@@ -76,6 +112,44 @@
 
     </pipeline>
   </mode>
+
+  <mode name="hin-pan_Guru-dgen" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="hin-pan_Guru.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="hin-pan.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="hin-pan.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="hin-pan_Guru.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="hin-pan_Guru.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-hin-pan.hin-pan.t1x"/>
+        <file name="hin-pan.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-hin-pan.hin-pan.t2x"/>
+        <file name="hin-pan.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-hin-pan.hin-pan.t3x"/>
+        <file name="hin-pan.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="hin-pan_Guru.autogen.bin"/>
+      </program>
+
+    </pipeline>
+  </mode>
+
 
 
 </modes>
