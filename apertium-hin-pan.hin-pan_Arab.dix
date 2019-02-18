@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <!-- Define the alphabet below. -->
+  <alphabet></alphabet>
+
+  <sdefs>
+    <!-- Define symbol definitions within <sdef> here. -->
+    <sdef n="n"     c="Noun"/>
+    <sdef n="cnjadv"    c=""/>
+    <sdef n="cnjcoo"    c=""/>
+    <sdef n="cnjsub"    c=""/>
+    <sdef n="vblex"    c=""/>
+    <sdef n="adj"    c=""/>
+    <sdef n="adv"    c=""/>
+    <sdef n="sent"    c=""/>
+    <sdef n="top"    c=""/>
+    <sdef n="org"    c=""/>
+    <sdef n="np"    c=""/>
+    <sdef n="ant"    c=""/>
+    <sdef n="prn"    c=""/>
+    <sdef n="det"    c=""/>
+    <sdef n="post"    c=""/>
+    <sdef n="num"    c=""/>
+    <sdef n="ord"    c=""/>
+    <sdef n="m"    c=""/>
+    <sdef n="f"    c=""/>
+  </sdefs>
+
+   <section id="main" type="standard">
+
+    <!-- SECTION: Nouns -->
+
+    <e><p><l>डाक्टर<s n="n"/><s n="m"/></l><r>حکیم<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>डाक्टर<s n="n"/><s n="m"/></l><r>حکیم<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>दोस्त<s n="n"/><s n="m"/></l><r>یار<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>मित्र<s n="n"/><s n="m"/></l><r>یار<s n="n"/><s n="m"/></r></p></e>
+
+   </section>
+</dictionary>
