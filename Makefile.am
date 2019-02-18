@@ -5,27 +5,45 @@
 VERSION=0.1.0
 LANG1=hin
 LANG2=pan
+VAR1=Arab
+VAR2=Guru
+LANG2a=pan_$(VAR1)
+LANG2b=pan_$(VAR2)
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
+PREFIX1a=$(LANG1)-$(LANG2)_$(VAR1)
+PREFIX1b=$(LANG1)-$(LANG2)_$(VAR2)
+PREFIX2a=$(LANG2)_$(VAR1)-$(LANG1)
+PREFIX2b=$(LANG2)_$(VAR2)-$(LANG1)
 
 BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
-	$(PREFIX1).automorf.bin	\
-	$(PREFIX1).prob		\
+	$(PREFIX1a).automorf.bin	\
+	$(PREFIX1a).autobil.bin	\
+	$(PREFIX1a).autolex.bin	\
+	$(PREFIX1a).autogen.bin	\
+	$(PREFIX1b).automorf.bin	\
+	$(PREFIX1b).autobil.bin	\
+	$(PREFIX1b).autolex.bin	\
+	$(PREFIX1b).autogen.bin	\
 	$(PREFIX1).rlx.bin	\
-	$(PREFIX1).autobil.bin	\
-	$(PREFIX1).autolex.bin	\
-	$(PREFIX1).autogen.bin	\
+	$(PREFIX1).prob		\
 	$(PREFIX1).t1x.bin	\
 	$(PREFIX1).t2x.bin	\
 	$(PREFIX1).t3x.bin	\
-	$(PREFIX2).automorf.bin	\
-	$(PREFIX2).prob		\
-	$(PREFIX2).rlx.bin	\
-	$(PREFIX2).autobil.bin	\
-	$(PREFIX2).autolex.bin	\
-	$(PREFIX2).autogen.bin	\
+	$(PREFIX2a).automorf.bin	\
+	$(PREFIX2a).prob		\
+	$(PREFIX2a).rlx.bin	\
+	$(PREFIX2a).autobil.bin	\
+	$(PREFIX2a).autolex.bin	\
+	$(PREFIX2a).autogen.bin	\
+	$(PREFIX2b).automorf.bin	\
+	$(PREFIX2b).prob		\
+	$(PREFIX2b).rlx.bin	\
+	$(PREFIX2b).autobil.bin	\
+	$(PREFIX2b).autolex.bin	\
+	$(PREFIX2b).autogen.bin	\
 	$(PREFIX2).t1x.bin	\
 	$(PREFIX2).t2x.bin	\
 	$(PREFIX2).t3x.bin
@@ -42,7 +60,11 @@ TARGETS_COMMON =		\
 # Hindi analysis:
 # -------------------
 
-$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
+$(PREFIX1a).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1a).autobil.bin
+	lt-trim $^ $@
+
+
+$(PREFIX1b).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1b).autobil.bin
 	lt-trim $^ $@
 
 # -------------------
@@ -57,7 +79,11 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 # Punjabi analysis:
 # -------------------
 
-$(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
+$(PREFIX2a).automorf.bin: $(AP_SRC2)/$(LANG2a).automorf.bin $(PREFIX2a).autobil.bin
+	lt-trim $^ $@
+
+
+$(PREFIX2b).automorf.bin: $(AP_SRC2)/$(LANG2b).automorf.bin $(PREFIX2b).autobil.bin
 	lt-trim $^ $@
 
 # -------------------
@@ -65,7 +91,11 @@ $(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
 # ---------------------
 
 
-$(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
+$(PREFIX1a).autogen.bin: $(AP_SRC2)/$(LANG2a).autogen.bin
+	cp $< $@
+
+
+$(PREFIX1b).autogen.bin: $(AP_SRC2)/$(LANG2b).autogen.bin
 	cp $< $@
 
 ###############################################################################
@@ -75,7 +105,10 @@ $(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
 $(PREFIX1).prob: $(AP_SRC1)/$(LANG1).prob
 	cp $< $@
 
-$(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
+$(PREFIX2a).prob: $(AP_SRC2)/$(LANG2a).prob
+	cp $< $@
+
+$(PREFIX2b).prob: $(AP_SRC2)/$(LANG2b).prob
 	cp $< $@
 
 ###############################################################################
@@ -85,29 +118,47 @@ $(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
 $(PREFIX1).rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx
 	cg-comp $< $@
 
-$(PREFIX2).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).rlx
+$(PREFIX2a).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2a).rlx
+	cg-comp $< $@
+
+$(PREFIX2b).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2b).rlx
 	cg-comp $< $@
 
 ###############################################################################
 ## Bilingual dictionaries
 ###############################################################################
 
-$(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
+$(PREFIX1a).autobil.bin: $(BASENAME).$(PREFIX1a).dix
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@
 
-$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
+$(PREFIX2a).autobil.bin: $(BASENAME).$(PREFIX1a).dix
 	apertium-validate-dictionary $<
 	lt-comp rl $< $@
+
+$(PREFIX1b).autobil.bin: $(BASENAME).$(PREFIX1b).dix
+	apertium-validate-dictionary $<
+	lt-comp lr $< $@
+
+$(PREFIX2b).autobil.bin: $(BASENAME).$(PREFIX1b).dix
+	apertium-validate-dictionary $<
+	lt-comp rl $< $@
+
 
 ###############################################################################
 ## Lexical selection rules
 ###############################################################################
 
-$(PREFIX1).autolex.bin: $(BASENAME).$(PREFIX1).lrx
+$(PREFIX1a).autolex.bin: $(BASENAME).$(PREFIX1a).lrx
 	lrx-comp $< $@
 
-$(PREFIX2).autolex.bin: $(BASENAME).$(PREFIX2).lrx
+$(PREFIX1b).autolex.bin: $(BASENAME).$(PREFIX1b).lrx
+	lrx-comp $< $@
+
+$(PREFIX2a).autolex.bin: $(BASENAME).$(PREFIX2a).lrx
+	lrx-comp $< $@
+
+$(PREFIX2b).autolex.bin: $(BASENAME).$(PREFIX2b).lrx
 	lrx-comp $< $@
 
 ###############################################################################
@@ -143,11 +194,11 @@ $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
 ## Postgeneration dictionaries
 ###############################################################################
 
-$(PREFIX1).autopgen.bin: $(AP_SRC2)/$(LANG2).autopgen.bin
-	cp $< $@
-
-$(PREFIX2).autopgen.bin: $(AP_SRC1)/$(LANG1).autopgen.bin
-	cp $< $@
+#$(PREFIX1).autopgen.bin: $(AP_SRC2)/$(LANG2).autopgen.bin
+#	cp $< $@
+#
+#$(PREFIX2).autopgen.bin: $(AP_SRC1)/$(LANG1).autopgen.bin
+#	cp $< $@
 
 ###############################################################################
 ## Distribution
