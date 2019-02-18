@@ -8,13 +8,11 @@
       <program name="lt-proc -w">
         <file name="hin-pan_Arab.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
-        <file name="hin-pan_Arab.rlx.bin"/>
+        <file name="hin-pan.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="hin-pan_Arab.prob"/>
+        <file name="hin-pan.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
@@ -47,13 +45,11 @@
       <program name="lt-proc -w">
         <file name="hin-pan_Guru.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
-        <file name="hin-pan_Guru.rlx.bin"/>
+        <file name="hin-pan.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="hin-pan_Guru.prob"/>
+        <file name="hin-pan.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
