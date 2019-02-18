@@ -34,16 +34,14 @@ TARGETS_COMMON =		\
 	$(PREFIX1).t3x.bin	\
 	$(PREFIX2a).automorf.bin	\
 	$(PREFIX2a).prob		\
-	$(PREFIX2a).rlx.bin	\
 	$(PREFIX2a).autobil.bin	\
 	$(PREFIX2a).autolex.bin	\
-	$(PREFIX2a).autogen.bin	\
 	$(PREFIX2b).automorf.bin	\
-	$(PREFIX2b).prob		\
-	$(PREFIX2b).rlx.bin	\
 	$(PREFIX2b).autobil.bin	\
 	$(PREFIX2b).autolex.bin	\
-	$(PREFIX2b).autogen.bin	\
+	$(PREFIX2b).prob		\
+	$(PREFIX2).rlx.bin	\
+	$(PREFIX2).autogen.bin	\
 	$(PREFIX2).t1x.bin	\
 	$(PREFIX2).t2x.bin	\
 	$(PREFIX2).t3x.bin
@@ -118,10 +116,7 @@ $(PREFIX2b).prob: $(AP_SRC2)/$(LANG2b).prob
 $(PREFIX1).rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx
 	cg-comp $< $@
 
-$(PREFIX2a).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2a).rlx
-	cg-comp $< $@
-
-$(PREFIX2b).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2b).rlx
+$(PREFIX2).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).rlx
 	cg-comp $< $@
 
 ###############################################################################
