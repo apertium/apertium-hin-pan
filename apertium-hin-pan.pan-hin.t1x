@@ -7,12 +7,22 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+    <def-cat n="gen-post">
+      <cat-item lemma="का" tags="post.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
+
+    <def-attr n="gen">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="GD"/>
+    </def-attr>
+
   </section-def-attrs>
 
   <section-def-vars>
@@ -25,6 +35,15 @@
             <var n="number"/>
             <lit v=""/>
           </let>
+    </def-macro>
+
+    <def-macro n="f_concord2" npar="2">
+      <choose>
+        <when>
+          <test><not><equal><clip pos="1" side="tl" part="gen"/><lit v=""/></equal></not></test>
+          <let><clip pos="2" side="tl" part="gen"/><clip pos="1" side="tl" part="gen"/></let>
+        </when>
+      </choose>
     </def-macro>
   </section-def-macros>
 
@@ -43,6 +62,28 @@
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule>
+      <pattern>
+        <pattern-item n="gen-post"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord2">
+          <with-param pos="2"/>
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+          <b pos="1"/>
+          <lu>
+            <clip pos="2" side="tl" part="whole"/>
+          </lu>
         </out>
       </action>
     </rule>
