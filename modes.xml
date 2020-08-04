@@ -11,7 +11,7 @@
       <program name="cg-proc -w">
         <file name="hin-pan.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="hin-pan.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -48,7 +48,7 @@
       <program name="cg-proc -w">
         <file name="hin-pan.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="hin-pan.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -84,7 +84,7 @@
       <program name="cg-proc -w">
         <file name="hin-pan.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="hin-pan.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -121,7 +121,7 @@
       <program name="cg-proc -w">
         <file name="hin-pan.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="hin-pan.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -160,7 +160,7 @@
       <program name="cg-proc -w">
         <file name="pan-hin.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="pan_Guru-hin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -197,7 +197,7 @@
       <program name="cg-proc -w">
         <file name="pan-hin.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="pan_Guru-hin.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
