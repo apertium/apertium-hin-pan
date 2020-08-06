@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary type="separable">
+  <alphabet>
+  ॊऀँंःऄअआइईउऊऋऌऍऎएऐऑऒओऔकखगघङचछजझञटठडढणतथदधनऩपफबभमयरऱलळऴवशषसहऺऻ़ऽािीुूृॄॅॆेैॉॊोौ्ॎॏॐ॒॑॓॔ॕॖॗक़ख़ग़ज़ड़ढ़फ़य़ॠॡॢॣॱॲॳॴॵॶॷॸॹॺॻॼॽॾਅਆਇਈਉਊਏਐਓਔਕਚਟਤਪਯ੍ਸ਼ਰਫਥਠਛਖਗਘਙਖ਼ਗ਼ਞਝਜਠਛਠਡਢਣੜਲ਼ਨਧਦਬਭਮਫ਼ਜ਼ੵਵਲਰਸ਼ਸਹੑ਼ਾੀੂੈੌੋੁਿੰੱਁਂਃ੧੨੩੪੫੬੯੮੭੦☬ੴ॥।ੱ
+  </alphabet>
+
+  <sdefs>
+    <sdef n="n"       c="Noun"/>
+  	<sdef n="np"      c="Proper noun"/>
+  	<sdef n="ant"     c="Anthroponym"/>
+  	<sdef n="top"     c="Topological"/>
+  	<sdef n="cog"     c="Cognomen"/>	
+  	<sdef n="org"     c="Organisation"/>
+  	<sdef n="al"     c="Altres"/>
+
+    <sdef n="post"    c="PostPosition"/>
+    <sdef n="prn"     c="Pronoun"/>
+    <sdef n="pers"    c="Personal"/>
+    <sdef n="det"     c="Determiner"/>
+    <sdef n="adj"     c="Adjective"/>
+    <sdef n="adv"     c="Adverb"/>
+    <sdef n="gna"     c="verbal adverb"/>
+    <sdef n="inj"     c="Interjection"/>
+    <sdef n="agnt"    c="agentive"/>
+    <sdef n="inf"     c="Infinitive"/>     
+  	<sdef n="frm"	    c="formal"/>
+    <sdef n="pri"     c="present indicative"/>	 	 
+
+    <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>     
+    <sdef n="cnjsub"  c="Sub-ordinating conjunction"/>        
+    <sdef n="cnjun"   c="Undecided conjunction"/>  
+    <sdef n="cnjadv"  c="Adverbial conjunction"/>  
+
+    <sdef n="mf"      c="Both Genders"/>
+    <sdef n="m"       c="Masculine"/>
+    <sdef n="f"       c="Feminine"/>
+    <sdef n="sg"      c="Singular"/>
+    <sdef n="pl"      c="Plural"/>
+
+    <sdef n="nom"     c="Direct/Nominative"/>
+    <sdef n="obl"     c="Oblique"/>
+    <sdef n="dat"     c="Dative"/>
+    <sdef n="abl"     c="Ablative"/>
+    <sdef n="voc"     c="Vocative"/>
+    <sdef n="loc"     c="Locative"/>
+    <sdef n="erg"     c="Ergative"/>        
+    <sdef n="gen"     c="Genitive"/> 
+    <sdef n="pos"     c="Possessive"/> 
+
+    <sdef n="p1"      c=""/>
+    <sdef n="p2"      c=""/>
+    <sdef n="p3"      c=""/>
+  
+    <sdef n="ord"     c="ordinal"/>
+    <sdef n="num"     c="number/cardinal"/>
+
+    <sdef n="vblex"   c="Verb"/>
+    <sdef n="vaux"    c=""/>     
+    <sdef n="vbser"   c="Verb 'to be'"/>     
+
+    <sdef n="perf"    c="Perfective participle"/> 
+    <sdef n="impf"    c="Imperfective participle"/>
+
+    <sdef n="pres"    c="Present tense"/> 
+    <sdef n="fut"     c="Future"/>
+
+    <sdef n="iv"      c="intransitive"/>
+    <sdef n="tv"      c="transitive"/> 	
+
+    <sdef n="prs"     c="Subjunctive"/>
+
+    <sdef n="aa"      c="Animate"/>
+    <sdef n="nn"      c="Inanimate"/>       
+    <sdef n="itg"     c="Interrogative"/>     
+    <sdef n="imp"     c="Imperative"/>
+
+    <sdef n="cm"      c="Comma"/>
+    <sdef n="sent"    c="Sentence marker"/>
+    <sdef n="lpar"    c="Left parenthesis"/>
+    <sdef n="rpar"    c="Right parenthesis"/>
+    <sdef n="lquot"   c="Left quote"/>
+    <sdef n="rquot"   c="Right quote"/>
+    <sdef n="guio"    c="Hyphen"/>
+
+    <sdef n="prox"    c="Proximate"/>
+    <sdef n="dist"    c="Distant"/>  
+
+    <sdef n="dem"     c="Demonstrative"/>
+    <sdef n="ins"     c="instrumental"/>
+    <sdef n="rel"     c="Relative"/>    
+    <sdef n="ind"     c="Indefinite"/>  
+    <sdef n="qnt"     c=""/>              
+    <sdef n="stem"    c="stem"/>
+
+    <sdef n="mfn"/>
+    <sdef n="sp"      c=""/>        
+    <sdef n="percent"  c="Percent"/>
+    <sdef n="abbr"/>
+  </sdefs>
+
+  <pardefs>
+        <pardef n="adj"> <!-- to represent all adjectives -->
+            <e><i><w/><s n="adj"/><j/></i></e> <!-- word only has the adj tag -->
+            <e><i><w/><s n="adj"/><t/><j/></i></e> <!-- word has the adj tag followed by one or more other tags -->
+        </pardef>
+        <pardef n="n"> #to represent all nouns
+            <e><i><w/><s n="n"/><t/><j/></i></e> <!-- word has the n tag followed by one or more other tags -->
+        </pardef>
+        <pardef n="SN"> #to represent all noun phrases
+            <e><par n="n"/></e>
+            <e><par n="adj"/><par n="n"/></e> <!-- word phrase is comprised of an adjective word followed by a noun word -->
+            <e><par n="adj"/><par n="adj"/><par n="n"/></e> <!-- word phrase is comprised of two adjectives followed by a noun -->
+        </pardef>
+        <pardef n="post-adv">
+            <e><i>के<s n="adv"/><j/></i></e> <!-- i.e. ^के<adv>$ -->
+        </pardef>
+        <pardef n="adv">
+            <e><i><w/><s n="adv"/><j/></i></e>
+        </pardef>
+        <pardef n="SAdv">
+            <e><par n="adv"/></e>
+        </pardef>
+  </pardefs>
+
+  <section id="main" type="standard">
+    <e lm="के पास">
+        <p><l>का<s n="post"/><s n="gen"/><s n="mf"/><s n="sg"/><b/>पास<s n="adv"/></l>
+            <r>के<b/>पास<s n="post"/></r></p><i><t/><j/></i>
+        </e>
+  </section>
+
+</dictionary>
+
+<!-- के लिये
+के लिए
+के द्वारा
+के सामने
+के नीचे
+के पीछे
+के पश्चात
+के पश्चात्
+के साथ
+के साथ
+के पास
+के आसपास
+के मुताबिक़
+के मुताबिक
+के अनुसार
+के बारे
+के समय
+के दौरान
+के कारन
+के कारण
+के समक्ष -->
