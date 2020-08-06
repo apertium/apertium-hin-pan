@@ -15,6 +15,9 @@
         <file name="hin-pan.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="lsx-proc">
+        <file name="hin-pan.autoseq.bin"/>
+      </program>
       <program name="lt-proc -b">
         <file name="hin-pan_Arab.autobil.bin"/>
       </program>
@@ -52,6 +55,9 @@
         <file name="hin-pan.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="lsx-proc">
+        <file name="hin-pan.autoseq.bin"/>
+      </program>
       <program name="lt-proc -b">
         <file name="hin-pan_Arab.autobil.bin"/>
       </program>
@@ -88,6 +94,9 @@
         <file name="hin-pan.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="lsx-proc">
+        <file name="hin-pan.autoseq.bin"/>
+      </program>
       <program name="lt-proc -b">
         <file name="hin-pan_Guru.autobil.bin"/>
       </program>
@@ -125,6 +134,9 @@
         <file name="hin-pan.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="lsx-proc">
+        <file name="hin-pan.autoseq.bin"/>
+      </program>
       <program name="lt-proc -b">
         <file name="hin-pan_Guru.autobil.bin"/>
       </program>
