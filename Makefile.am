@@ -26,6 +26,7 @@ TARGETS_COMMON =		\
 	$(PREFIX1b).automorf.bin	\
 	$(PREFIX1b).autobil.bin	\
 	$(PREFIX1b).autolex.bin	\
+	$(PREFIX1b).autoseq.bin	\
 	$(PREFIX1b).autogen.bin	\
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1).prob		\
@@ -118,6 +119,10 @@ $(PREFIX1).rlx.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).rlx
 
 $(PREFIX2).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).rlx
 	cg-comp $< $@
+
+
+$(PREFIX1b).autoseq.bin: $(BASENAME).$(PREFIX1b).dix
+	lsx-comp lr $< $@
 
 ###############################################################################
 ## Bilingual dictionaries
