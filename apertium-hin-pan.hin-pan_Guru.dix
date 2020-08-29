@@ -16,6 +16,7 @@
     <sdef n="adv"    c=""/>
     <sdef n="sent"    c=""/>
     <sdef n="top"    c=""/>
+    <sdef n="al"    c=""/>
     <sdef n="cog"     c="Cognomen"/>	
     <sdef n="org"    c=""/>
     <sdef n="np"    c=""/>
@@ -243,6 +244,7 @@
     <e c="paccIsa"><p><l>पच्चीस<s n="num"/></l><r>ਪੱਚੀ<s n="num"/></r></p></e>
     <e c="pahalA"><p><l>पहला<s n="num"/><s n="ord"/></l><r>ਪਹਿਲਾ<s n="num"/><s n="ord"/></r></p></e>
     <e c="pAMca"><p><l>पांच<s n="num"/></l><r>ਪੰਜ<s n="num"/></r></p></e>
+    <e c="pAMca"><p><l>पाँच<s n="num"/></l><r>ਪੰਜ<s n="num"/></r></p></e>
     <e c="piccAsI"><p><l>पिच्चासी<s n="num"/></l><r>ਪੱਚਾਸੀ<s n="num"/></r></p></e>
     <e c="pEMwAlIsa"><p><l>पैंतालीस<s n="num"/></l><r>ਪੰਤਾਲੀ<s n="num"/></r></p></e>
     <e c="pEMwIsa"><p><l>पैंतीस<s n="num"/></l><r>ਪੈਂਤੀ<s n="num"/></r></p></e>
@@ -814,8 +816,8 @@
     <e c="kRewra" w="1.0"><p><l>क्षेत्र<s n="n"/><s n="m"/></l><r>ਦੇਸ਼<s n="n"/><s n="m"/></r></p></e>
     <e c="kRewra" w="1.0"><p><l>क्षेत्र<s n="n"/><s n="m"/></l><r>ਮੁਲਖ<s n="n"/><s n="m"/></r></p></e>
     <e c="kRewra" w="1.0"><p><l>क्षेत्र<s n="n"/><s n="m"/></l><r>ਲੋਕ<s n="n"/><s n="m"/></r></p></e>
-    <e c="kRewraPala"><p><l>क्षेत्रफल<s n="n"/><s n="m"/></l><r>ਖੇਤਰਫਲ<s n="n"/><s n="m"/></r></p></e>
-    <e c="kRewraPala"><p><l>क्षेत्रफल<s n="n"/><s n="m"/></l><r>ਰਕਬਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="kRewraPala" w="0.0"><p><l>क्षेत्रफल<s n="n"/><s n="m"/></l><r>ਖੇਤਰਫਲ<s n="n"/><s n="m"/></r></p></e>
+    <e c="kRewraPala" w="1.0"><p><l>क्षेत्रफल<s n="n"/><s n="m"/></l><r>ਰਕਬਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="Kagola"><p><l>खगोल<s n="n"/><s n="m"/></l><r>ਖਗੋਲ<s n="n"/><s n="m"/></r></p></e>
     <e c="KatolA"><p><l>खटोला<s n="n"/><s n="m"/></l><r>ਖਟੋਲਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="KawarA"><p><l>खतरा<s n="n"/><s n="m"/></l><r>ਖਤਰਾ<s n="n"/><s n="m"/></r></p></e>
@@ -1213,6 +1215,7 @@
     <e c="wIrWayAwrI"><p><l>तीर्थयात्री<s n="n"/><s n="m"/></l><r>ਤੀਰਥ ਯਾਤਰੀ<s n="n"/><s n="m"/></r></p></e>
     <e c="wurka"><p><l>तुर्क<s n="n"/><s n="m"/></l><r>ਤੁਰਕ<s n="n"/><s n="m"/></r></p></e>
     <e c="wUPa़Ana"><p><l>तूफ़ान<s n="n"/><s n="m"/></l><r>ਤੂਫ਼ਾਨ<s n="n"/><s n="m"/></r></p></e>
+    <e c="anw"><p><l>अन्त<s n="n"/><s n="m"/></l><r>ਅੰਤ<s n="n"/><s n="m"/></r></p></e>
     <e c="wUla"><p><l>तूल<s n="n"/><s n="m"/></l><r>ਤੂਲ<s n="n"/><s n="m"/></r></p></e>
     <e c="wela"><p><l>तेल<s n="n"/><s n="m"/></l><r>ਤੇਲ<s n="n"/><s n="m"/></r></p></e>
     <e c="wErAka"><p><l>तैराक<s n="n"/><s n="m"/></l><r>ਤਰਾਕ<s n="n"/><s n="m"/></r></p></e>
@@ -1426,7 +1429,8 @@
     <e c="niyama" w="1.0"><p><l>नियम<s n="n"/><s n="m"/></l><r>ਰੂਲ<s n="n"/><s n="m"/></r></p></e>
     <e c="niyaMwraNa" w="1.0"><p><l>नियंत्रण<s n="n"/><s n="m"/></l><r>ਜ਼ਾਬਤਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="niyaMwraNa" w="1.0"><p><l>नियंत्रण<s n="n"/><s n="m"/></l><r>ਕਾਬੂ<s n="n"/><s n="m"/></r></p></e>
-    <e c="niyaMwraNa" w="0.0"><p><l>नियंत्रण<s n="n"/><s n="m"/></l><r>ਨਿਯਾਂਤਰਣ<s n="n"/><s n="m"/></r></p></e>
+    <e c="niyaMwraNa" w="1.0"><p><l>नियंत्रण<s n="n"/><s n="m"/></l><r>ਨਿਯਾਂਤਰਣ<s n="n"/><s n="m"/></r></p></e>
+    <e c="niyaMwraNa" w="0.0"><p><l>नियंत्रण<s n="n"/><s n="m"/></l><r>ਨਿਯੰਤਰਣ<s n="n"/><s n="m"/></r></p></e>
     <e c="niyaMwraNa" w="1.0"><p><l>नियंत्रण<s n="n"/><s n="m"/></l><r>ਵਸੀਖਾਰ<s n="n"/><s n="m"/></r></p></e>
     <e c="nirNaya" w="0.0"><p><l>निर्णय<s n="n"/><s n="m"/></l><r>ਫ਼ੈਸਲਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="nirNaya" w="1.0"><p><l>निर्णय<s n="n"/><s n="m"/></l><r>ਨਬੇੜਾ<s n="n"/><s n="m"/></r></p></e>
@@ -1806,7 +1810,8 @@
     <e c="prabaMXaka" w="1.0"><p><l>प्रबंधक<s n="n"/><s n="m"/></l><r>ਮੁੰਤਜ਼ਿਮ<s n="n"/><s n="m"/></r></p></e>
     <e c="prabaMXaka" w="1.0"><p><l>प्रबंधक<s n="n"/><s n="m"/></l><r>ਮੈਨੇਜਰ<s n="n"/><s n="m"/></r></p></e>
     <e c="praBu"><p><l>प्रभु<s n="n"/><s n="m"/></l><r>ਪ੍ਰਭੂ<s n="n"/><s n="m"/></r></p></e>
-    <e c="praBuwva"><p><l>प्रभुत्व<s n="n"/><s n="m"/></l><r>ਦਾਬਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="praBuwva" w="1.0"><p><l>प्रभुत्व<s n="n"/><s n="m"/></l><r>ਦਾਬਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="praBuwva" w="0.0"><p><l>प्रभुत्व<s n="n"/><s n="m"/></l><r>ਦਬਦਬਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="pravAha"><p><l>प्रवाह<s n="n"/><s n="m"/></l><r>ਪ੍ਰਵਾਹ<s n="n"/><s n="m"/></r></p></e>
     <e c="pravAha"><p><l>प्रवाह<s n="n"/><s n="m"/></l><r>ਰੇੜ੍ਹ<s n="n"/><s n="m"/></r></p></e>
     <e c="praSAsana"><p><l>प्रशासन<s n="n"/><s n="m"/></l><r>ਪ੍ਰਸ਼ਾਸਨ<s n="n"/><s n="m"/></r></p></e>
@@ -2399,24 +2404,24 @@
     <e c="leKa"><p><l>लेख<s n="n"/><s n="m"/></l><r>ਮਜ਼ਮੂਨ<s n="n"/><s n="m"/></r></p></e>
     <e c="leKa"><p><l>लेख<s n="n"/><s n="m"/></l><r>ਲਿਖਤਮ<s n="n"/><s n="m"/></r></p></e>
     <e c="leKa"><p><l>लेख<s n="n"/><s n="m"/></l><r>ਲੇਖ<s n="n"/><s n="m"/></r></p></e>
-    <e c="leKaka"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਕਰਤਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="leKaka"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਕਾਤਬ<s n="n"/><s n="m"/></r></p></e>
-    <e c="leKaka"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਗ੍ਰਂਥਕਰਤਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="leKaka"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਮਜ਼ਮੂਨ ਨਵੀਸ<s n="n"/><s n="m"/></r></p></e>
-    <e c="leKaka"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਮਹਿਤਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="leKaka"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਮੁਹਰਰ<s n="n"/><s n="m"/></r></p></e>
-    <e c="leKaka"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਮੁਨਸ਼ੀ<s n="n"/><s n="m"/></r></p></e>
-    <e c="leKaka"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਰਾਈਟਰ<s n="n"/><s n="m"/></r></p></e>
-    <e c="leKaka"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਲਿਖਾਰੀ<s n="n"/><s n="m"/></r></p></e>
-    <e c="leKaka"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਲੇਖਕ<s n="n"/><s n="m"/></r></p></e>
+    <e c="leKaka" w="1.0"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਕਰਤਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="leKaka" w="1.0"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਕਾਤਬ<s n="n"/><s n="m"/></r></p></e>
+    <e c="leKaka" w="1.0"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਗ੍ਰਂਥਕਰਤਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="leKaka" w="1.0"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਮਜ਼ਮੂਨ ਨਵੀਸ<s n="n"/><s n="m"/></r></p></e>
+    <e c="leKaka" w="1.0"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਮਹਿਤਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="leKaka" w="1.0"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਮੁਹਰਰ<s n="n"/><s n="m"/></r></p></e>
+    <e c="leKaka" w="1.0"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਮੁਨਸ਼ੀ<s n="n"/><s n="m"/></r></p></e>
+    <e c="leKaka" w="1.0"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਰਾਈਟਰ<s n="n"/><s n="m"/></r></p></e>
+    <e c="leKaka" w="1.0"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਲਿਖਾਰੀ<s n="n"/><s n="m"/></r></p></e>
+    <e c="leKaka" w="0.0"><p><l>लेखक<s n="n"/><s n="m"/></l><r>ਲੇਖਕ<s n="n"/><s n="m"/></r></p></e>
     <e c="lEMda"><p><l>लैंड<s n="n"/><s n="m"/></l><r>ਲੈਂਡ<s n="n"/><s n="m"/></r></p></e>
     <e c="laॉ"><p><l>लॉ<s n="n"/><s n="m"/></l><r>ਲੌ<s n="n"/><s n="m"/></r></p></e>
     <e c="laॉketa"><p><l>लॉकेट<s n="n"/><s n="m"/></l><r>ਲੌਕੇਟ<s n="n"/><s n="m"/></r></p></e>
     <e c="loka"><p><l>लोक<s n="n"/><s n="m"/></l><r>ਲੋਕ<s n="n"/><s n="m"/></r></p></e>
     <e c="loka"><p><l>लोक<s n="n"/><s n="m"/></l><r>ਲੋਕਾਈ<s n="n"/><s n="m"/></r></p></e>
-    <e c="lokawaMwra"><p><l>लोकतंत्र<s n="n"/><s n="m"/></l><r>ਲੋਕ ਹਿਤ੍ਤ ਗਨਰਾਜ<s n="n"/><s n="m"/></r></p></e>
-    <e c="lokawaMwra"><p><l>लोकतंत्र<s n="n"/><s n="m"/></l><r>ਲੋਕਤੰਤਰ<s n="n"/><s n="m"/></r></p></e>
-    <e c="lokawaMwra"><p><l>लोकतंत्र<s n="n"/><s n="m"/></l><r>ਲੋਕ ਰਾਜ<s n="n"/><s n="m"/></r></p></e>
+    <e c="lokawaMwra" w="1.0"><p><l>लोकतंत्र<s n="n"/><s n="m"/></l><r>ਲੋਕ ਹਿਤ੍ਤ ਗਨਰਾਜ<s n="n"/><s n="m"/></r></p></e>
+    <e c="lokawaMwra" w="0.0"><p><l>लोकतंत्र<s n="n"/><s n="m"/></l><r>ਲੋਕਤੰਤਰ<s n="n"/><s n="m"/></r></p></e>
+    <e c="lokawaMwra" w="1.0"><p><l>लोकतंत्र<s n="n"/><s n="m"/></l><r>ਲੋਕ ਰਾਜ<s n="n"/><s n="m"/></r></p></e>
     <e c="loga"><p><l>लोग<s n="n"/><s n="m"/></l><r>ਅਵਾਮ<s n="n"/><s n="m"/></r></p></e>
     <e c="loga"><p><l>लोग<s n="n"/><s n="m"/></l><r>ਚਾਰ ਆਦਮੀ<s n="n"/><s n="m"/></r></p></e>
     <e c="loga"><p><l>लोग<s n="n"/><s n="m"/></l><r>ਲੋਕ<s n="n"/><s n="m"/></r></p></e>
@@ -2481,11 +2486,11 @@
     <e c="viBAga"><p><l>विभाग<s n="n"/><s n="m"/></l><r>ਸੀਗਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="viBAga"><p><l>विभाग<s n="n"/><s n="m"/></l><r>ਮਹਿਕਮਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="viBAga"><p><l>विभाग<s n="n"/><s n="m"/></l><r>ਵਿਭਾਗ<s n="n"/><s n="m"/></r></p></e>
-    <e c="viBAjana"><p><l>विभाजन<s n="n"/><s n="m"/></l><r>ਨਖੇੜ<s n="n"/><s n="m"/></r></p></e>
-    <e c="viBAjana"><p><l>विभाजन<s n="n"/><s n="m"/></l><r>ਨਖੇੜਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="viBAjana"><p><l>विभाजन<s n="n"/><s n="m"/></l><r>ਪਾੜਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="viBAjana"><p><l>विभाजन<s n="n"/><s n="m"/></l><r>ਬਟਵਾਰਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="viBAjana"><p><l>विभाजन<s n="n"/><s n="m"/></l><r>ਵਿਭਾਜਨ<s n="n"/><s n="m"/></r></p></e>
+    <e c="viBAjana" w="1.0"><p><l>विभाजन<s n="n"/><s n="m"/></l><r>ਨਖੇੜ<s n="n"/><s n="m"/></r></p></e>
+    <e c="viBAjana" w="1.0"><p><l>विभाजन<s n="n"/><s n="m"/></l><r>ਨਖੇੜਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="viBAjana" w="1.0"><p><l>विभाजन<s n="n"/><s n="m"/></l><r>ਪਾੜਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="viBAjana" w="1.0"><p><l>विभाजन<s n="n"/><s n="m"/></l><r>ਬਟਵਾਰਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="viBAjana" w="0.0"><p><l>विभाजन<s n="n"/><s n="m"/></l><r>ਵਿਭਾਜਨ<s n="n"/><s n="m"/></r></p></e>
     <e c="vimAna"><p><l>विमान<s n="n"/><s n="m"/></l><r>ਵਿਮਾਨ<s n="n"/><s n="m"/></r></p></e>
     <e c="viyojana"><p><l>वियोजन<s n="n"/><s n="m"/></l><r>ਵਿਯੋਜਨ<s n="n"/><s n="m"/></r></p></e>
     <e c="viroXa" w="1.0"><p><l>विरोध<s n="n"/><s n="m"/></l><r>ਟਕਰਾ<s n="n"/><s n="m"/></r></p></e>
@@ -2530,11 +2535,11 @@
     <e c="vIdiyo"><p><l>वीडियो<s n="n"/><s n="m"/></l><r>ਵੀਡੀਓ<s n="n"/><s n="m"/></r></p></e>
     <e c="veba"><p><l>वेब<s n="n"/><s n="m"/></l><r>ਵੈੱਬ<s n="n"/><s n="m"/></r></p></e>
     <e c="vota"><p><l>वोट<s n="n"/><s n="m"/></l><r>ਵੋਟ<s n="n"/><s n="m"/></r></p></e>
-    <e c="vaMSa"><p><l>वंश<s n="n"/><s n="m"/></l><r>ਖ਼ਾਨਦਾਨ<s n="n"/><s n="m"/></r></p></e>
-    <e c="vaMSa"><p><l>वंश<s n="n"/><s n="m"/></l><r>ਵੰਸ਼<s n="n"/><s n="m"/></r></p></e>
-    <e c="vaMSa"><p><l>वंश<s n="n"/><s n="m"/></l><r>ਖਲ੍ਲਣਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="vaMSa"><p><l>वंश<s n="n"/><s n="m"/></l><r>ਖਾਨਦਾਨ<s n="n"/><s n="m"/></r></p></e>
-    <e c="vaMSa"><p><l>वंश<s n="n"/><s n="m"/></l><r>ਬੰਸ<s n="n"/><s n="m"/></r></p></e>
+    <e c="vaMSa" w="1.0"><p><l>वंश<s n="n"/><s n="m"/></l><r>ਖ਼ਾਨਦਾਨ<s n="n"/><s n="m"/></r></p></e>
+    <e c="vaMSa" w="0.0"><p><l>वंश<s n="n"/><s n="m"/></l><r>ਵੰਸ਼<s n="n"/><s n="m"/></r></p></e>
+    <e c="vaMSa" w="1.0"><p><l>वंश<s n="n"/><s n="m"/></l><r>ਖਲ੍ਲਣਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="vaMSa" w="1.0"><p><l>वंश<s n="n"/><s n="m"/></l><r>ਖਾਨਦਾਨ<s n="n"/><s n="m"/></r></p></e>
+    <e c="vaMSa" w="1.0"><p><l>वंश<s n="n"/><s n="m"/></l><r>ਬੰਸ<s n="n"/><s n="m"/></r></p></e>
     <e c="vyakwi"><p><l>व्यक्ति<s n="n"/><s n="m"/></l><r>ਸ਼ਖਸ<s n="n"/><s n="m"/></r></p></e>
     <e c="vyakwi"><p><l>व्यक्ति<s n="n"/><s n="m"/></l><r>ਜਣਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="vyakwi"><p><l>व्यक्ति<s n="n"/><s n="m"/></l><r>ਜਨ<s n="n"/><s n="m"/></r></p></e>
@@ -2731,11 +2736,11 @@
     <e c="sahAyaka"><p><l>सहायक<s n="n"/><s n="m"/></l><r>ਮੁਖ਼ਤਾਰ<s n="n"/><s n="m"/></r></p></e>
     <e c="sahAyaka"><p><l>सहायक<s n="n"/><s n="m"/></l><r>ਮੁਖ਼ਤਿਆਰ<s n="n"/><s n="m"/></r></p></e>
     <e c="sAIMsa"><p><l>साईंस<s n="n"/><s n="m"/></l><r>ਸਾਇੰਸ<s n="n"/><s n="m"/></r></p></e>
-    <e c="sAgara"><p><l>सागर<s n="n"/><s n="m"/></l><r>ਸਮੁਂਦ<s n="n"/><s n="m"/></r></p></e>
-    <e c="sAgara"><p><l>सागर<s n="n"/><s n="m"/></l><r>ਸਮੁੰਦਰ<s n="n"/><s n="m"/></r></p></e>
-    <e c="sAgara"><p><l>सागर<s n="n"/><s n="m"/></l><r>ਸਾਗਰ<s n="n"/><s n="m"/></r></p></e>
-    <e c="sAgara"><p><l>सागर<s n="n"/><s n="m"/></l><r>ਗਂਗਧਰ<s n="n"/><s n="m"/></r></p></e>
-    <e c="sAgara"><p><l>सागर<s n="n"/><s n="m"/></l><r>ਰਤਨਾਕਰ<s n="n"/><s n="m"/></r></p></e>
+    <e c="sAgara" w="1.0"><p><l>सागर<s n="n"/><s n="m"/></l><r>ਸਮੁਂਦ<s n="n"/><s n="m"/></r></p></e>
+    <e c="sAgara" w="0.0"><p><l>सागर<s n="n"/><s n="m"/></l><r>ਸਮੁੰਦਰ<s n="n"/><s n="m"/></r></p></e>
+    <e c="sAgara" w="1.0"><p><l>सागर<s n="n"/><s n="m"/></l><r>ਸਾਗਰ<s n="n"/><s n="m"/></r></p></e>
+    <e c="sAgara" w="1.0"><p><l>सागर<s n="n"/><s n="m"/></l><r>ਗਂਗਧਰ<s n="n"/><s n="m"/></r></p></e>
+    <e c="sAgara" w="1.0"><p><l>सागर<s n="n"/><s n="m"/></l><r>ਰਤਨਾਕਰ<s n="n"/><s n="m"/></r></p></e>
     <e c="sAWI"><p><l>साथी<s n="n"/><s n="m"/></l><r>ਆੜੀ<s n="n"/><s n="m"/></r></p></e>
     <e c="sAWI"><p><l>साथी<s n="n"/><s n="m"/></l><r>ਸਾਥੀ<s n="n"/><s n="m"/></r></p></e>
     <e c="sAWI"><p><l>साथी<s n="n"/><s n="m"/></l><r>ਸੰਗੀ<s n="n"/><s n="m"/></r></p></e>
@@ -4199,7 +4204,8 @@
     <e c="Sarwa"><p><l>शर्त<s n="n"/><s n="f"/></l><r>ਫੜ੍ਹ<s n="n"/><s n="f"/></r></p></e>
     <e c="SahAxawa"><p><l>शहादत<s n="n"/><s n="f"/></l><r>ਸ਼ਹਾਦਤ<s n="n"/><s n="f"/></r></p></e>
     <e c="SahAxawa"><p><l>शहादत<s n="n"/><s n="f"/></l><r>ਸ਼ਹੀਦੀ<s n="n"/><s n="f"/></r></p></e>
-    <e c="SAKA"><p><l>शाखा<s n="n"/><s n="f"/></l><r>ਡਲੀ<s n="n"/><s n="f"/></r></p></e>
+    <e c="SAKA" w="0.0"><p><l>शाखा<s n="n"/><s n="f"/></l><r>ਸ਼ਾਖਾ<s n="n"/><s n="f"/></r></p></e>
+    <e c="SAKA" w="1.0"><p><l>शाखा<s n="n"/><s n="f"/></l><r>ਡਲੀ<s n="n"/><s n="f"/></r></p></e>
     <e c="SAxI"><p><l>शादी<s n="n"/><s n="f"/></l><r>ਸ਼ਾਦੀ<s n="n"/><s n="f"/></r></p></e>
     <e c="SAnwi"><p><l>शान्ति<s n="n"/><s n="f"/></l><r>ਸ਼ਾਂਤੀ<s n="n"/><s n="f"/></r></p></e>
     <e c="SAma"><p><l>शाम<s n="n"/><s n="f"/></l><r>ਸ਼ਾਮ<s n="n"/><s n="f"/></r></p></e>
@@ -4593,12 +4599,12 @@
     <e c="xila"><p><l>दिल<s n="n"/><s n="m"/></l><r>ਕਾਲਜਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="xila"><p><l>दिल<s n="n"/><s n="m"/></l><r>ਹਿਰਦਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="xila"><p><l>दिल<s n="n"/><s n="m"/></l><r>ਦਿਲ<s n="n"/><s n="m"/></r></p></e>
-    <e c="JukAva"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਸ਼ੌਕ<s n="n"/><s n="m"/></r></p></e>
-    <e c="JukAva"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਮਰਜੀ<s n="n"/><s n="f"/></r></p></e>
-    <e c="JukAva"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਮਰਜ਼ੀ<s n="n"/><s n="f"/></r></p></e>
-    <e c="JukAva"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਦਿਲ<s n="n"/><s n="m"/></r></p></e>
-    <e c="JukAva"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਝੁਕਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="JukAva"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਝੁਕਾਉ<s n="n"/><s n="m"/></r></p></e>
+    <e c="JukAva" w="1.0"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਸ਼ੌਕ<s n="n"/><s n="m"/></r></p></e>
+    <e c="JukAva" w="1.0"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਮਰਜੀ<s n="n"/><s n="f"/></r></p></e>
+    <e c="JukAva" w="1.0"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਮਰਜ਼ੀ<s n="n"/><s n="f"/></r></p></e>
+    <e c="JukAva" w="1.0"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਦਿਲ<s n="n"/><s n="m"/></r></p></e>
+    <e c="JukAva" w="1.0"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਝੁਕਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="JukAva" w="0.0"><p><l>झुकाव<s n="n"/><s n="m"/></l><r>ਝੁਕਾਓ<s n="n"/><s n="m"/></r></p></e>
     <e c="malAla"><p><l>मलाल<s n="n"/><s n="m"/></l><r>ਮਲਾਲ<s n="n"/><s n="m"/></r></p></e>
     <e c="Kexa" w="1.0"><p><l>खेद<s n="n"/><s n="m"/></l><r>ਅਰਮਾਨ<s n="n"/><s n="m"/></r></p></e>
     <e c="Kexa" w="1.0"><p><l>खेद<s n="n"/><s n="m"/></l><r>ਮਲਾਲ<s n="n"/><s n="m"/></r></p></e>
@@ -5723,17 +5729,18 @@
     <e c="lalAta"><p><l>ललाट<s n="n"/><s n="m"/></l><r>ਲਿਲਾਟ<s n="n"/><s n="m"/></r></p></e>
     <e c="lalAta"><p><l>ललाट<s n="n"/><s n="m"/></l><r>ਲਲਾਟ<s n="n"/><s n="m"/></r></p></e>
     <e c="uwsava"><p><l>उत्सव<s n="n"/><s n="m"/></l><r>ਉਤਸਵ<s n="n"/><s n="m"/></r></p></e>
-    <e c="KalanAyaka"><p><l>खलनायक<s n="n"/><s n="m"/></l><r>ਧੂਰਤ<s n="n"/><s n="m"/></r></p></e>
-    <e c="KalanAyaka"><p><l>खलनायक<s n="n"/><s n="m"/></l><r>ਪ੍ਰਤਿਨਾਇਕ<s n="n"/><s n="m"/></r></p></e>
-    <e c="KalanAyaka"><p><l>खलनायक<s n="n"/><s n="m"/></l><r>ਖਲਨਇਕ<s n="n"/><s n="m"/></r></p></e>
+    <e c="KalanAyaka" w="1.0"><p><l>खलनायक<s n="n"/><s n="m"/></l><r>ਧੂਰਤ<s n="n"/><s n="m"/></r></p></e>
+    <e c="KalanAyaka" w="1.0"><p><l>खलनायक<s n="n"/><s n="m"/></l><r>ਪ੍ਰਤਿਨਾਇਕ<s n="n"/><s n="m"/></r></p></e>
+    <e c="KalanAyaka" w="0.0"><p><l>खलनायक<s n="n"/><s n="m"/></l><r>ਖਲਨਇਕ<s n="n"/><s n="m"/></r></p></e>
     <e c="aspawAla"><p><l>अस्पताल<s n="n"/><s n="m"/></l><r>ਅਸ੍ਪਤਾਲ<s n="n"/><s n="m"/></r></p></e>
     <e c="Gola"><p><l>घोल<s n="n"/><s n="m"/></l><r>ਘੋਲ<s n="n"/><s n="m"/></r></p></e>
     <e c="mehamAna"><p><l>मेहमान<s n="n"/><s n="m"/></l><r>ਮਿਜਮਾਨ<s n="n"/><s n="m"/></r></p></e>
     <e c="SahawUwa"><p><l>शहतूत<s n="n"/><s n="m"/></l><r>ਤੂਤ<s n="n"/><s n="m"/></r></p></e>
     <e c="SahawUwa"><p><l>शहतूत<s n="n"/><s n="m"/></l><r>ਸ਼ਤੂਤ<s n="n"/><s n="m"/></r></p></e>
     <e c="SahawUwa"><p><l>शहतूत<s n="n"/><s n="m"/></l><r>ਸ਼ਹਿਤੂਤ<s n="n"/><s n="m"/></r></p></e>
-    <e c="avaSeRa"><p><l>अवशेष<s n="n"/><s n="m"/></l><r>ਰਹਿਂਦ<s n="n"/><s n="m"/></r></p></e>
-    <e c="avaSeRa"><p><l>अवशेष<s n="n"/><s n="m"/></l><r>ਰਹਿਂਦ ਖੁਂਦ<s n="n"/><s n="m"/></r></p></e>
+    <e c="avaSeRa" w="0.0"><p><l>अवशेष<s n="n"/><s n="m"/></l><r>ਅਵਸ਼ੇਸ਼<s n="n"/><s n="m"/></r></p></e>
+    <e c="avaSeRa" w="1.0"><p><l>अवशेष<s n="n"/><s n="m"/></l><r>ਰਹਿਂਦ<s n="n"/><s n="m"/></r></p></e>
+    <e c="avaSeRa" w="1.0"><p><l>अवशेष<s n="n"/><s n="m"/></l><r>ਰਹਿਂਦ ਖੁਂਦ<s n="n"/><s n="m"/></r></p></e>
     <e c="uwwara"><p><l>उत्तर<s n="n"/><s n="m"/></l><r>ਜੁਆਬ<s n="n"/><s n="m"/></r></p></e>
     <e c="uwwara"><p><l>उत्तर<s n="n"/><s n="m"/></l><r>ਉਤ੍ਤਰ<s n="n"/><s n="m"/></r></p></e>
     <e c="Cixra"><p><l>छिद्र<s n="n"/><s n="m"/></l><r>ਛਿਦ੍ਦਰ<s n="n"/><s n="m"/></r></p></e>
@@ -6600,7 +6607,8 @@
     <e c="kAyara"><p><l>कायर<s n="n"/><s n="m"/></l><r>ਭਗੌੜਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="aBileKAgAra"><p><l>अभिलेखागार<s n="n"/><s n="m"/></l><r>ਦਸਤਾਵੇਜ਼ ਖ਼ਾਨਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="SapaWapawra"><p><l>शपथपत्र<s n="n"/><s n="m"/></l><r>ਹਲਫ਼ਨਾਮਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="vijaya"><p><l>विजय<s n="n"/><s n="m"/></l><r>ਜੈ<s n="n"/><s n="m"/></r></p></e>
+    <e c="vijaya" w="1.0"><p><l>विजय<s n="n"/><s n="m"/></l><r>ਜੈ<s n="n"/><s n="m"/></r></p></e>
+    <e c="vijaya" w="0.0"><p><l>विजय<s n="n"/><s n="m"/></l><r>ਜਿੱਤ<s n="n"/><s n="m"/></r></p></e>
     <e c="nAma"><p><l>नाम<s n="n"/><s n="m"/></l><r>ਨਾਵਾਂ<s n="n"/><s n="m"/></r></p></e>
     <e c="Alocaka"><p><l>आलोचक<s n="n"/><s n="m"/></l><r>ਪਾਰਖੂ<s n="n"/><s n="m"/></r></p></e>
     <e c="pAgala"><p><l>पागल<s n="n"/><s n="m"/></l><r>ਕਮਲਾ<s n="n"/><s n="m"/></r></p></e>
@@ -6999,7 +7007,7 @@
     <e c="xabAva"><p><l>दबाव<s n="n"/><s n="m"/></l><r>ਦਬਾਅ<s n="n"/><s n="m"/></r></p></e>
     <e c="xabAva"><p><l>दबाव<s n="n"/><s n="m"/></l><r>ਦਬ੍ਬਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="xabAva"><p><l>दबाव<s n="n"/><s n="m"/></l><r>ਦਾਬਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="xabAva"><p><l>दबाव<s n="n"/><s n="m"/></l><r>ਦਬਾਉ<s n="n"/><s n="m"/></r></p></e>
+    <e c="xabAva"><p><l>दबाव<s n="n"/><s n="m"/></l><r>ਦਬਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="SravaNa"><p><l>श्रवण<s n="n"/><s n="m"/></l><r>ਸਰਵਨ<s n="n"/><s n="m"/></r></p></e>
     <e c="SravaNa"><p><l>श्रवण<s n="n"/><s n="m"/></l><r>ਸ੍ਰਵਨ<s n="n"/><s n="m"/></r></p></e>
     <e c="vaMcana"><p><l>वंचन<s n="n"/><s n="m"/></l><r>ਵਂਚਨ<s n="n"/><s n="m"/></r></p></e>
@@ -7204,9 +7212,10 @@
     <e c="bama"><p><l>बम<s n="n"/><s n="m"/></l><r>ਬਂਬ<s n="n"/><s n="m"/></r></p></e>
     <e c="xUna"><p><l>दून<s n="n"/><s n="m"/></l><r>ਦੂਣ<s n="n"/><s n="m"/></r></p></e>
     <e c="saMkalana"><p><l>संकलन<s n="n"/><s n="m"/></l><r>ਸਂਕਲਨ<s n="n"/><s n="m"/></r></p></e>
-    <e c="kRewra"><p><l>क्षेत्र<s n="n"/><s n="m"/></l><r>ਕ੍ਸ਼ੇਤ੍ਰ<s n="n"/><s n="m"/></r></p></e>
-    <e c="kRewra"><p><l>क्षेत्र<s n="n"/><s n="m"/></l><r>ਖਿਤ੍ਤਾ<s n="n"/><s n="m"/></r></p></e>
-    <e c="kRewra"><p><l>क्षेत्र<s n="n"/><s n="m"/></l><r>ਦੇਸ਼<s n="n"/><s n="m"/></r></p></e>
+    <e c="kRewra" w="0.0"><p><l>क्षेत्र<s n="n"/><s n="m"/></l><r>ਖੇਤਰ<s n="n"/><s n="m"/></r></p></e>
+    <e c="kRewra" w="1.0"><p><l>क्षेत्र<s n="n"/><s n="m"/></l><r>ਕ੍ਸ਼ੇਤ੍ਰ<s n="n"/><s n="m"/></r></p></e>
+    <e c="kRewra" w="1.0"><p><l>क्षेत्र<s n="n"/><s n="m"/></l><r>ਖਿਤ੍ਤਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="kRewra" w="1.0"><p><l>क्षेत्र<s n="n"/><s n="m"/></l><r>ਦੇਸ਼<s n="n"/><s n="m"/></r></p></e>
     <e c="hukma"><p><l>हुक्म<s n="n"/><s n="m"/></l><r>ਫ਼ਰਮਾਨ<s n="n"/><s n="m"/></r></p></e>
     <e c="manoraWa"><p><l>मनोरथ<s n="n"/><s n="m"/></l><r>ਮਨੋਰਥ<s n="n"/><s n="m"/></r></p></e>
     <e c="manoraWa"><p><l>मनोरथ<s n="n"/><s n="m"/></l><r>ਮਨੋਰਥ<s n="n"/><s n="m"/></r></p></e>
@@ -9727,9 +9736,10 @@
     <e c="kulhAda़I"><p><l>कुल्हाड़ी<s n="n"/><s n="f"/></l><r>ਕਾਂਧਲੀ<s n="n"/><s n="f"/></r></p></e>
     <e c="kulhAda़I"><p><l>कुल्हाड़ी<s n="n"/><s n="f"/></l><r>ਗੈਂਤੀ<s n="n"/><s n="f"/></r></p></e>
     <e c="dAyarI"><p><l>डायरी<s n="n"/><s n="f"/></l><r>ਡਾਇਰੀ<s n="n"/><s n="f"/></r></p></e>
-    <e c="cotI"><p><l>चोटी<s n="n"/><s n="f"/></l><r>ਚੁਟੀਆ<s n="n"/><s n="f"/></r></p></e>
-    <e c="cotI"><p><l>चोटी<s n="n"/><s n="f"/></l><r>ਟੀਸੀ<s n="n"/><s n="f"/></r></p></e>
-    <e c="cotI"><p><l>चोटी<s n="n"/><s n="f"/></l><r>ਸ਼ਿਖਾ<s n="n"/><s n="f"/></r></p></e>
+    <e c="cotI" w="1.0"><p><l>चोटी<s n="n"/><s n="f"/></l><r>ਚੁਟੀਆ<s n="n"/><s n="f"/></r></p></e>
+    <e c="cotI" w="1.0"><p><l>चोटी<s n="n"/><s n="f"/></l><r>ਟੀਸੀ<s n="n"/><s n="f"/></r></p></e>
+    <e c="cotI" w="0.0"><p><l>चोटी<s n="n"/><s n="f"/></l><r>ਚੋਟੀ<s n="n"/><s n="f"/></r></p></e>
+    <e c="cotI" w="1.0"><p><l>चोटी<s n="n"/><s n="f"/></l><r>ਸ਼ਿਖਾ<s n="n"/><s n="f"/></r></p></e>
     <e c="ubAsI"><p><l>उबासी<s n="n"/><s n="f"/></l><r>ਉਬਾਸੀ<s n="n"/><s n="f"/></r></p></e>
     <e c="XamanI"><p><l>धमनी<s n="n"/><s n="f"/></l><r>ਧਮਣੀ<s n="n"/><s n="f"/></r></p></e>
     <e c="XamanI"><p><l>धमनी<s n="n"/><s n="f"/></l><r>ਰਗ<s n="n"/><s n="f"/></r></p></e>
@@ -11227,6 +11237,18 @@
     <e c="wagamA"><p><l>तगमा<s n="n"/><s n="m"/></l><r>ਤਗਮਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="praveSa"><p><l>प्रवेश<s n="n"/><s n="m"/></l><r>ਦਾਖਲਾ<s n="n"/><s n="m"/></r></p></e>
     <e c="xAKilA"><p><l>दाखिला<s n="n"/><s n="m"/></l><r>ਦਾਖਲਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="afgAn"><p><l>अफ़गान<s n="n"/><s n="m"/></l><r>ਅਫਗਾਨ<s n="n"/><s n="m"/></r></p></e>
+    <e c="vivDwA"><p><l>विविधता<s n="n"/><s n="f"/></l><r>ਵਿਭਿੰਨਤਾ<s n="n"/><s n="f"/></r></p></e>
+    <e c="BUBAg"><p><l>भूभाग<s n="n"/><s n="m"/></l><r>ਇਲਾਕਾ<s n="n"/><s n="m"/></r></p></e>
+    <e c="mawBed"><p><l>मतभेद<s n="n"/><s n="m"/></l><r>ਮਤਭੇਦ<s n="n"/><s n="m"/></r></p></e>
+    <e c="sWal"><p><l>स्थल<s n="n"/><s n="m"/></l><r>ਸਥਲ<s n="n"/><s n="m"/></r></p></e>
+    <e c="ityadi"><p><l>इत्यादि<s n="n"/><s n="m"/></l><r>ਇਤਆਦਿ<s n="n"/><s n="m"/></r></p></e>
+    <e c="saByatA"><p><l>सभ्यता<s n="n"/><s n="f"/></l><r>ਸਭਿਅਤਾ<s n="n"/><s n="f"/></r></p></e>
+    <e c="matEkya"><p><l>मतैक्य<s n="n"/><s n="m"/></l><r>ਸਹਿਮਤੀ<s n="n"/><s n="f"/></r></p></e>
+    <e c="senApawI"><p><l>सेनापति<s n="n"/><s n="m"/></l><r>ਸੇਨਾਪਤੀ<s n="n"/><s n="m"/></r></p></e>
+    <e c="aDikAnS"><p><l>अधिकांश<s n="n"/><s n="m"/></l><r>ਅਧਿਕਾਂਸ਼<s n="n"/><s n="m"/></r></p></e>
+    <e c="sImAreKA"><p><l>सीमारेखा<s n="n"/><s n="f"/></l><r>ਸੀਮਾਰੇਖਾ<s n="n"/><s n="f"/></r></p></e>
+    <e c="IsApUrav"><p><l>ईसापूर्व<s n="n"/><s n="m"/></l><r>ਬੀ.ਸੀ.<s n="n"/><s n="m"/></r></p></e>
 
 
     <!-- SECTION: Proper nouns -->
@@ -11417,6 +11439,7 @@
     <e c="sahArA"><p><l>सहारा<s n="np"/><s n="top"/></l><r>ਸਹਾਰਾ<s n="np"/><s n="top"/></r></p></e>
     <e c="sAxikAbAxa"><p><l>सादिकाबाद<s n="np"/><s n="top"/></l><r>ਸਾਦਿਕਾਬਾਦ<s n="np"/><s n="top"/></r></p></e>
     <e c="sinXa"><p><l>सिन्ध<s n="np"/><s n="top"/></l><r>ਸਿੰਧ<s n="np"/><s n="top"/></r></p></e>
+    <e c="sinXu"><p><l>सिन्धु<s n="np"/><s n="top"/></l><r>ਸਿੰਧ<s n="np"/><s n="top"/></r></p></e>
     <e c="siyAlakota"><p><l>सियालकोट<s n="np"/><s n="top"/></l><r>ਸਿਆਲਕੋਟ<s n="np"/><s n="top"/></r></p></e>
     <e c="siMXa"><p><l>सिंध<s n="np"/><s n="top"/></l><r>ਸਿੰਧ<s n="np"/><s n="top"/></r></p></e>
     <e c="sIswAna"><p><l>सीस्तान<s n="np"/><s n="top"/></l><r>ਸੀਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
@@ -11484,6 +11507,9 @@
     <e c="PawehagaDa़"><p><l>फतेहगढ़<s n="np"/><s n="top"/></l><r>ਫ਼ਤਹਿਗੜ੍ਹ<s n="np"/><s n="top"/></r></p></e>
     <e c="irAka"><p><l>इराक<s n="np"/><s n="top"/></l><r>ਇਰਾਕ<s n="np"/><s n="top"/></r></p></e>
     <e c="hariyANA"><p><l>हरियाणा<s n="np"/><s n="top"/></l><r>ਹਰਿਆਣਾ<s n="np"/><s n="top"/></r></p></e>
+    <e c="pAkiswAn"><p><l>पाकिस्तान<s n="np"/><s n="top"/></l><r>ਪਾਕਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e c="afghAniswAn"><p><l>अफगानिस्तान<s n="np"/><s n="top"/></l><r>ਅਫਗਾਨਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e c="afghAniswAn"><p><l>अफ़ग़ानिस्तान<s n="np"/><s n="top"/></l><r>ਅਫਗਾਨਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
     <e c="gUgala"><p><l>गूगल<s n="np"/><s n="org"/></l><r>ਗੂਗਲ<s n="np"/><s n="org"/></r></p></e>
     <e c="vikipIdiyA"><p><l>विकिपीडिया<s n="np"/><s n="org"/></l><r>ਵਿਕੀਪੀਡੀਆ<s n="np"/><s n="org"/></r></p></e>
     <e c="akabara"><p><l>अकबर<s n="np"/><s n="ant"/><s n="m"/></l><r>ਅਕਬਰ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -12042,6 +12068,8 @@
     <e c="XqwarARtra"><p><l>धृतराष्ट्र<s n="np"/><s n="ant"/><s n="m"/></l><r>ਧृਤਰਾਸ਼਼੍ਟ੍ਰ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="hErI"><p><l>हैरी<s n="np"/><s n="ant"/><s n="m"/></l><r>ਹੈਰੀ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="xAuxa"><p><l>दाउद<s n="np"/><s n="ant"/><s n="m"/></l><r>ਦਾਉਦ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c="sikandar"><p><l>सिकन्दर<s n="np"/><s n="ant"/><s n="m"/></l><r>ਸਿਕੰਦਰ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e c="ikbAl"><p><l>इक़बाल<s n="np"/><s n="ant"/><s n="m"/></l><r>ਇਕਬਾਲ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
     <e c="unesimusa"><p><l>उनेसिमुस<s n="np"/><s n="ant"/></l><r>ਉਨੇਸਿਮੁਸ<s n="np"/><s n="ant"/></r></p></e>
     <e c="yahovA"><p><l>यहोवा<s n="np"/><s n="ant"/></l><r>ਯਹੋਵਾਹ<s n="np"/><s n="ant"/></r></p></e>
@@ -12128,6 +12156,14 @@
     <e c="slima"><p><l>स्लिम<s n="np"/><s n="cog"/></l><r>ਸ੍ਲਿਮ<s n="np"/><s n="cog"/></r></p></e>
     <e c="hitalara"><p><l>हिटलर<s n="np"/><s n="cog"/></l><r>ਹਿਟਲਰ<s n="np"/><s n="cog"/></r></p></e>
     <e c="homsa"><p><l>होम्स<s n="np"/><s n="cog"/></l><r>ਹੋਮ੍ਸ<s n="np"/><s n="cog"/></r></p></e>
+
+    <e c="uwar" w="0.0"><p><l>उत्तर<s n="np"/><s n="al"/></l><r>ਉੱਤਰ<s n="np"/><s n="al"/></r></p></e>
+    <e c="uwar" w="1.0"><p><l>उत्तर<s n="np"/><s n="al"/></l><r>ਉਤ੍ਤਰ<s n="np"/><s n="al"/></r></p></e>
+    <e c="dakshiN" w="0.0"><p><l>दक्षिण<s n="np"/><s n="al"/></l><r>ਦੱਖਣ<s n="np"/><s n="al"/></r></p></e>
+    <e c="dakshiN" w="1.0"><p><l>दक्षिण<s n="np"/><s n="al"/></l><r>ਦਕ੍ਸ਼ਿਣ<s n="np"/><s n="al"/></r></p></e>
+    <e c="pashchim" w="0.0"><p><l>पश्चिम<s n="np"/><s n="al"/></l><r>ਪੱਛਮ<s n="np"/><s n="al"/></r></p></e>
+    <e c="pashchim" w="1.0"><p><l>पश्चिम<s n="np"/><s n="al"/></l><r>ਪਸ਼੍ਚਿਮ<s n="np"/><s n="al"/></r></p></e>
+    <e c="Ist"><p><l>ईस्ट<s n="np"/><s n="al"/></l><r>ਈਸ੍ਟ<s n="np"/><s n="al"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
 
@@ -12730,7 +12766,8 @@
     <e c="U~cA" w="1.0"><p><l>ऊँचा<s n="adj"/></l><r>ਉਚਾ<s n="adj"/></r></p></e>
     <e c="U~cA" w="1.0"><p><l>ऊँचा<s n="adj"/></l><r>ਉਚੇਰਾ<s n="adj"/></r></p></e>
     <e c="U~cA" w="1.0"><p><l>ऊँचा<s n="adj"/></l><r>ਉਚ੍ਚ<s n="adj"/></r></p></e>
-    <e c="U~cA" w="0.0"><p><l>ऊँचा<s n="adj"/></l><r>ਉਚ੍ਚਾ<s n="adj"/></r></p></e>
+    <e c="U~cA" w="1.0"><p><l>ऊँचा<s n="adj"/></l><r>ਉਚ੍ਚਾ<s n="adj"/></r></p></e>
+    <e c="U~cA" w="0.0"><p><l>ऊँचा<s n="adj"/></l><r>ਉੱਚਾ<s n="adj"/></r></p></e>
     <e c="U~cA" w="1.0"><p><l>ऊँचा<s n="adj"/></l><r>ਬੁਲਂਦ<s n="adj"/></r></p></e>
     <e c="qNI"><p><l>ऋणी<s n="adj"/></l><r>ਰਿਣੀ<s n="adj"/></r></p></e>
     <e c="qNI"><p><l>ऋणी<s n="adj"/></l><r>ਰਿਣੀ<s n="adj"/></r></p></e>
@@ -15440,6 +15477,15 @@
     <e c="jisakA"><p><l>जिसका<s n="adj"/></l><r>ਜਿਸਦਾ<s n="adj"/></r></p></e>
     <e c="paxArWaka"><p><l>पदार्थक<s n="adj"/></l><r>ਪਦਾਰਥਕ<s n="adj"/></r></p></e>
     <e c="bAyA~"><p><l>बायाँ<s n="adj"/></l><r>ਖੱਬਾ<s n="adj"/></r></p></e>
+    <e c="mOsamI"><p><l>मौसमी<s n="adj"/></l><r>ਮੌਸਮੀ<s n="adj"/></r></p></e>
+    <e c="sampuraN"><p><l>सम्पूर्ण<s n="adj"/></l><r>ਸੰਪੂਰਣ<s n="adj"/></r></p></e>
+    <e c="sammiliw"><p><l>सम्मिलित<s n="adj"/></l><r>ਸ਼ਾਮਲ<s n="adj"/></r></p></e>
+    <e c="barfIlA"><p><l>बर्फ़ीला<s n="adj"/></l><r>ਬਰਫੀਲਾ<s n="adj"/></r></p></e>
+    <e c="krishiyogya"><p><l>कृषियोग्य<s n="adj"/></l><r>ਕਾਸ਼ਤ ਯੋਗ<s n="adj"/></r></p></e>
+    <e c="lambI"><p><l>लम्बा<s n="adj"/></l><r>ਲੰਮਾ<s n="adj"/></r></p></e>
+    <e c="lambI"><p><l>अवस्थित<s n="adj"/></l><r>ਮੌਜੂਦ<s n="adj"/></r></p></e>
+    <e c="sAmundrik"><p><l>सामुद्रिक<s n="adj"/></l><r>ਸਮੁੰਦਰੀ<s n="adj"/></r></p></e>
+    <e c="pUravvarwI"><p><l>पूर्ववर्ती<s n="adj"/></l><r>ਪੂਰਵ ਮੌਜੂਦ<s n="adj"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
@@ -15499,8 +15545,8 @@
     <e c="Amane sAmane"><p><l>आमने सामने<s n="adv"/></l><r>ਰੂਬਰੂ<s n="adv"/></r></p></e>
     <e c="AvaSyaka"><p><l>आवश्यक<s n="adv"/></l><r>ਜਰੂਰ<s n="adv"/></r></p></e>
     <e c="AvaSyaka"><p><l>आवश्यक<s n="adv"/></l><r>ਜ਼ਰੂਰ<s n="adv"/></r></p></e>
-    <e c="AsapAsa"><p><l>आसपास<s n="adv"/></l><r>ਦੁਆਲੇ<s n="adv"/></r></p></e>
-    <e c="AsapAsa"><p><l>आसपास<s n="adv"/></l><r>ਉਦਾਲੇ<s n="adv"/></r></p></e>
+    <e c="AsapAsa" w="0.0"><p><l>आसपास<s n="adv"/></l><r>ਨੇੜੇ<s n="adv"/></r></p></e>
+    <e c="AsapAsa" w="1.0"><p><l>आसपास<s n="adv"/></l><r>ਉਦਾਲੇ<s n="adv"/></r></p></e>
     <e c="Asa pAsa"><p><l>आस पास<s n="adv"/></l><r>ਆਲੇ ਦੁਆਲੇ<s n="adv"/></r></p></e>
     <e c="Asa-pAsa"><p><l>आस-पास<s n="adv"/></l><r>ਆਲੇ-ਦੁਆਲੇ<s n="adv"/></r></p></e>
     <e c="Asa - pAsa"><p><l>आस - पास<s n="adv"/></l><r>ਆਲੇ - ਦੁਆਲੇ<s n="adv"/></r></p></e>
@@ -15689,9 +15735,9 @@
     <e c="ja़rUra"><p><l>ज़रूर<s n="adv"/></l><r>ਜਰੂਰ<s n="adv"/></r></p></e>
     <e c="jalxI"><p><l>जल्दी<s n="adv"/></l><r>ਤੁਰਤ<s n="adv"/></r></p></e>
     <e c="jalxI"><p><l>जल्दी<s n="adv"/></l><r>ਤੁਰਂਤ<s n="adv"/></r></p></e>
-    <e c="jahA~"><p><l>जहाँ<s n="adv"/></l><r>ਜਿਸ ਥਾਂ<s n="adv"/></r></p></e>
-    <e c="jahA~"><p><l>जहाँ<s n="adv"/></l><r>ਜਿੱਥੇ<s n="adv"/></r></p></e>
-    <e c="jahA~"><p><l>जहाँ<s n="adv"/></l><r>ਜਿਥੇ<s n="adv"/></r></p></e>
+    <e c="jahA~" w="1.0"><p><l>जहाँ<s n="adv"/></l><r>ਜਿਸ ਥਾਂ<s n="adv"/></r></p></e>
+    <e c="jahA~" w="0.0"><p><l>जहाँ<s n="adv"/></l><r>ਜਿੱਥੇ<s n="adv"/></r></p></e>
+    <e c="jahA~" w="1.0"><p><l>जहाँ<s n="adv"/></l><r>ਜਿਥੇ<s n="adv"/></r></p></e>
     <e c="jahA~ BI"><p><l>जहाँ भी<s n="adv"/></l><r>ਜਿਧਰ<s n="adv"/></r></p></e>
     <e c="jAna se"><p><l>जान से<s n="adv"/></l><r>ਜਾਨੋਂ<s n="adv"/></r></p></e>
     <e c="jiwanA ki"><p><l>जितना कि<s n="adv"/></l><r>ਇਤਨਾ<s n="adv"/></r></p></e>
@@ -15969,6 +16015,10 @@
     <e c="kI waraPa se"><p><l>की तरफ से<s n="adv"/></l><r>ਵੱਲੋਂ<s n="adv"/></r></p></e>
     <e c="upara"><p><l>उपर<s n="adv"/></l><r>ਉੱਪਰ<s n="adv"/></r></p></e>
     <e c="Upara"><p><l>ऊपर<s n="adv"/></l><r>ਉੱਪਰ<s n="adv"/></r></p></e>
+    <e c="khAskar"><p><l>ख़ासकर<s n="adv"/></l><r>ਖ਼ਾਸਕਰ<s n="adv"/></r></p></e>
+    <e c="khAskar"><p><l>खासकर<s n="adv"/></l><r>ਖ਼ਾਸਕਰ<s n="adv"/></r></p></e>
+    <e c="Osawann"><p><l>औसतन<s n="adv"/></l><r>ਔਸਤ<s n="adv"/></r></p></e>
+    <e c="apekyakriw"><p><l>अपेक्षाकृत<s n="adv"/></l><r>ਤੁਲਨਾਤਮਕ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
 
     <!-- SECTION: Verbs -->
 
@@ -16023,7 +16073,7 @@
     <e c="uwAra"><p><l>उतार<s n="vblex"/></l><r>ਲਹਾਉ<s n="vblex"/></r></p></e>
     <e c="upaja"><p><l>उपज<s n="vblex"/></l><r>ਉਪਜ<s n="vblex"/></r></p></e>
     <e c="upajA"><p><l>उपजा<s n="vblex"/></l><r>ਉਪ<s n="vblex"/></r></p></e>
-    <e c="upajA"><p><l>उपजा<s n="vblex"/></l><r>ਉਪਜਾਉ<s n="vblex"/></r></p></e>
+    <e c="upajA"><p><l>उपजा<s n="vblex"/></l><r>ਉਪਜਾ<s n="vblex"/></r></p></e>
     <e c="ubala"><p><l>उबल<s n="vblex"/></l><r>ਉਬਲ<s n="vblex"/></r></p></e>
     <e c="ubala"><p><l>उबल<s n="vblex"/></l><r>ਕੜ<s n="vblex"/></r></p></e>
     <e c="ubala"><p><l>उबल<s n="vblex"/></l><r>ਗੜ੍ਹਕ<s n="vblex"/></r></p></e>
@@ -16494,25 +16544,25 @@
     <e c="CA~ta"><p><l>छाँट<s n="vblex"/></l><r>ਸਾਫ ਕਰ<s n="vblex"/></r></p></e>
     <e c="CA~ta"><p><l>छाँट<s n="vblex"/></l><r>ਛਾਂਟ<s n="vblex"/></r></p></e>
     <e c="Cina"><p><l>छिन<s n="vblex"/></l><r>ਖੁਸ<s n="vblex"/></r></p></e>
-    <e c="Cipa"><p><l>छिप<s n="vblex"/></l><r>ਅਸਤ ਹੋ<s n="vblex"/></r></p></e>
-    <e c="Cipa"><p><l>छिप<s n="vblex"/></l><r>ਛਪ<s n="vblex"/></r></p></e>
-    <e c="Cipa"><p><l>छिप<s n="vblex"/></l><r>ਛਪਨ ਹੋ<s n="vblex"/></r></p></e>
-    <e c="Cipa"><p><l>छिप<s n="vblex"/></l><r>ਛਿਪ<s n="vblex"/></r></p></e>
-    <e c="Cipa"><p><l>छिप<s n="vblex"/></l><r>ਛੁਪ<s n="vblex"/></r></p></e>
-    <e c="Cipa"><p><l>छिप<s n="vblex"/></l><r>ਟਅਕ<s n="vblex"/></r></p></e>
-    <e c="Cipa"><p><l>छिप<s n="vblex"/></l><r>ਦੜ<s n="vblex"/></r></p></e>
-    <e c="Cipa"><p><l>छिप<s n="vblex"/></l><r>ਦਬ<s n="vblex"/></r></p></e>
-    <e c="Cipa"><p><l>छिप<s n="vblex"/></l><r>ਲੁਕ<s n="vblex"/></r></p></e>
-    <e c="CipA"><p><l>छिपा<s n="vblex"/></l><r>ਉਹਲੇ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="CipA"><p><l>छिपा<s n="vblex"/></l><r>ਓਹਲਾ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="CipA"><p><l>छिपा<s n="vblex"/></l><r>ਛਪਾਉ<s n="vblex"/></r></p></e>
-    <e c="CipA"><p><l>छिपा<s n="vblex"/></l><r>ਛਿਪਾਉ<s n="vblex"/></r></p></e>
-    <e c="CipA"><p><l>छिपा<s n="vblex"/></l><r>ਛੁਪਾਉ<s n="vblex"/></r></p></e>
-    <e c="CipA"><p><l>छिपा<s n="vblex"/></l><r>ਢਕ੍ਕ<s n="vblex"/></r></p></e>
-    <e c="CipA"><p><l>छिपा<s n="vblex"/></l><r>ਦਬਕ<s n="vblex"/></r></p></e>
-    <e c="CipA"><p><l>छिपा<s n="vblex"/></l><r>ਦਬਾਉ ਰਖ<s n="vblex"/></r></p></e>
-    <e c="CipA"><p><l>छिपा<s n="vblex"/></l><r>ਪਰਦਾ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="CipA"><p><l>छिपा<s n="vblex"/></l><r>ਲੁਕਾਉ<s n="vblex"/></r></p></e>
+    <e c="Cipa" w="1.0"><p><l>छिप<s n="vblex"/></l><r>ਅਸਤ ਹੋ<s n="vblex"/></r></p></e>
+    <e c="Cipa" w="1.0"><p><l>छिप<s n="vblex"/></l><r>ਛਪ<s n="vblex"/></r></p></e>
+    <e c="Cipa" w="1.0"><p><l>छिप<s n="vblex"/></l><r>ਛਪਨ ਹੋ<s n="vblex"/></r></p></e>
+    <e c="Cipa" w="1.0"><p><l>छिप<s n="vblex"/></l><r>ਛਿਪ<s n="vblex"/></r></p></e>
+    <e c="Cipa" w="1.0"><p><l>छिप<s n="vblex"/></l><r>ਛੁਪ<s n="vblex"/></r></p></e>
+    <e c="Cipa" w="1.0"><p><l>छिप<s n="vblex"/></l><r>ਟਅਕ<s n="vblex"/></r></p></e>
+    <e c="Cipa" w="1.0"><p><l>छिप<s n="vblex"/></l><r>ਦੜ<s n="vblex"/></r></p></e>
+    <e c="Cipa" w="1.0"><p><l>छिप<s n="vblex"/></l><r>ਦਬ<s n="vblex"/></r></p></e>
+    <e c="Cipa" w="0.0"><p><l>छिप<s n="vblex"/></l><r>ਲੁਕ<s n="vblex"/></r></p></e>
+    <e c="CipA" w="1.0"><p><l>छिपा<s n="vblex"/></l><r>ਉਹਲੇ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="CipA" w="1.0"><p><l>छिपा<s n="vblex"/></l><r>ਓਹਲਾ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="CipA" w="1.0"><p><l>छिपा<s n="vblex"/></l><r>ਛਪਾ<s n="vblex"/></r></p></e>
+    <e c="CipA" w="1.0"><p><l>छिपा<s n="vblex"/></l><r>ਛਿਪਾ<s n="vblex"/></r></p></e>
+    <e c="CipA" w="1.0"><p><l>छिपा<s n="vblex"/></l><r>ਛੁਪਾ<s n="vblex"/></r></p></e>
+    <e c="CipA" w="1.0"><p><l>छिपा<s n="vblex"/></l><r>ਢਕ੍ਕ<s n="vblex"/></r></p></e>
+    <e c="CipA" w="1.0"><p><l>छिपा<s n="vblex"/></l><r>ਦਬਕ<s n="vblex"/></r></p></e>
+    <e c="CipA" w="1.0"><p><l>छिपा<s n="vblex"/></l><r>ਦਬਾ ਰਖ<s n="vblex"/></r></p></e>
+    <e c="CipA" w="1.0"><p><l>छिपा<s n="vblex"/></l><r>ਪਰਦਾ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="CipA" w="1.0"><p><l>छिपा<s n="vblex"/></l><r>ਲੁਕਾ<s n="vblex"/></r></p></e>
     <e c="CIna"><p><l>छीन<s n="vblex"/></l><r>ਖਸ<s n="vblex"/></r></p></e>
     <e c="CIna"><p><l>छीन<s n="vblex"/></l><r>ਖੋਹ<s n="vblex"/></r></p></e>
     <e c="CIna"><p><l>छीन<s n="vblex"/></l><r>ਝਪ<s n="vblex"/></r></p></e>
@@ -16722,14 +16772,14 @@
     <e c="Waka"><p><l>थक<s n="vblex"/></l><r>ਹਂਭ<s n="vblex"/></r></p></e>
     <e c="Waka"><p><l>थक<s n="vblex"/></l><r>ਖੁਸ<s n="vblex"/></r></p></e>
     <e c="Waka"><p><l>थक<s n="vblex"/></l><r>ਥਕ<s n="vblex"/></r></p></e>
-    <e c="WapaWapA"><p><l>थपथपा<s n="vblex"/></l><r>ਕੰਡ ਤੇ ਹਥ ਫੇਰ<s n="vblex"/></r></p></e>
-    <e c="WapaWapA"><p><l>थपथपा<s n="vblex"/></l><r>ਥਪਕ<s n="vblex"/></r></p></e>
-    <e c="WapaWapA"><p><l>थपथपा<s n="vblex"/></l><r>ਥਪ ਥਪ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="WapaWapA"><p><l>थपथपा<s n="vblex"/></l><r>ਥਬਿਕ<s n="vblex"/></r></p></e>
-    <e c="WapaWapA"><p><l>थपथपा<s n="vblex"/></l><r>ਥਾਪੜ<s n="vblex"/></r></p></e>
-    <e c="WaraWarA"><p><l>थरथरा<s n="vblex"/></l><r>ਥਰਥਰਾਉ<s n="vblex"/></r></p></e>
-    <e c="WaraWarA"><p><l>थरथरा<s n="vblex"/></l><r>ਥਰ੍ਰਾਉ<s n="vblex"/></r></p></e>
-    <e c="WaraWarA"><p><l>थरथरा<s n="vblex"/></l><r>ਲਰਜ਼<s n="vblex"/></r></p></e>
+    <e c="WapaWapA" w="1.0"><p><l>थपथपा<s n="vblex"/></l><r>ਕੰਡ ਤੇ ਹਥ ਫੇਰ<s n="vblex"/></r></p></e>
+    <e c="WapaWapA" w="1.0"><p><l>थपथपा<s n="vblex"/></l><r>ਥਪਕ<s n="vblex"/></r></p></e>
+    <e c="WapaWapA" w="1.0"><p><l>थपथपा<s n="vblex"/></l><r>ਥਪ ਥਪ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="WapaWapA" w="1.0"><p><l>थपथपा<s n="vblex"/></l><r>ਥਬਿਕ<s n="vblex"/></r></p></e>
+    <e c="WapaWapA" w="1.0"><p><l>थपथपा<s n="vblex"/></l><r>ਥਾਪੜ<s n="vblex"/></r></p></e>
+    <e c="WaraWarA" w="0.0"><p><l>थरथरा<s n="vblex"/></l><r>ਥਰਥਰਾ<s n="vblex"/></r></p></e>
+    <e c="WaraWarA" w="1.0"><p><l>थरथरा<s n="vblex"/></l><r>ਥਰ੍ਰਾ<s n="vblex"/></r></p></e>
+    <e c="WaraWarA" w="1.0"><p><l>थरथरा<s n="vblex"/></l><r>ਲਰਜ਼<s n="vblex"/></r></p></e>
     <e c="WAma"><p><l>थाम<s n="vblex"/></l><r>ਗਹਿ<s n="vblex"/></r></p></e>
     <e c="WUka"><p><l>थूक<s n="vblex"/></l><r>ਸੁਟ<s n="vblex"/></r></p></e>
     <e c="WUka"><p><l>थूक<s n="vblex"/></l><r>ਥੁਕ ਸੁਟਣਾ<s n="vblex"/></r></p></e>
@@ -16758,10 +16808,10 @@
     <e c="xahAड़"><p><l>दहाड़<s n="vblex"/></l><r>ਧਾੜ<s n="vblex"/></r></p></e>
     <e c="xiKa"><p><l>दिख<s n="vblex"/></l><r>ਦਿਸ<s n="vblex"/></r></p></e>
     <e c="xiKa"><p><l>दिख<s n="vblex"/></l><r>ਦਿਖਾਈ ਦੇ<s n="vblex"/></r></p></e>
-    <e c="xiKA"><p><l>दिखा<s n="vblex"/></l><r>ਦਰਸਾਉ<s n="vblex"/></r></p></e>
-    <e c="xiKA"><p><l>दिखा<s n="vblex"/></l><r>ਦਿਖਾਉ<s n="vblex"/></r></p></e>
-    <e c="xiKA"><p><l>दिखा<s n="vblex"/></l><r>ਵਿਖਾਉ<s n="vblex"/></r></p></e>
-    <e c="xilA"><p><l>दिला<s n="vblex"/></l><r>ਦਿਵਾਉ<s n="vblex"/></r></p></e>
+    <e c="xiKA"><p><l>दिखा<s n="vblex"/></l><r>ਦਰਸਾ<s n="vblex"/></r></p></e>
+    <e c="xiKA"><p><l>दिखा<s n="vblex"/></l><r>ਦਿਖਾ<s n="vblex"/></r></p></e>
+    <e c="xiKA"><p><l>दिखा<s n="vblex"/></l><r>ਵਿਖਾ<s n="vblex"/></r></p></e>
+    <e c="xilA"><p><l>दिला<s n="vblex"/></l><r>ਦਿਵਾ<s n="vblex"/></r></p></e>
     <e c="xubaka"><p><l>दुबक<s n="vblex"/></l><r>ਦਬਕ<s n="vblex"/></r></p></e>
     <e c="xuha"><p><l>दुह<s n="vblex"/></l><r>ਚੋ<s n="vblex"/></r></p></e>
     <e c="xuha"><p><l>दुह<s n="vblex"/></l><r>ਦੁਹ<s n="vblex"/></r></p></e>
@@ -16779,11 +16829,11 @@
     <e c="xeKa" w="1.0"><p><l>देख<s n="vblex"/></l><r>ਪਰਸ<s n="vblex"/></r></p></e>
     <e c="xeKa" w="1.0"><p><l>देख<s n="vblex"/></l><r>ਭਾਲ<s n="vblex"/></r></p></e>
     <e c="xeKa" w="0.0"><p><l>देख<s n="vblex"/></l><r>ਵੇਖ<s n="vblex"/></r></p></e>
-    <e c="xoharA" w="1.0"><p><l>दोहरा<s n="vblex"/></l><r>ਸੁਣਾਉ<s n="vblex"/></r></p></e>
+    <e c="xoharA" w="1.0"><p><l>दोहरा<s n="vblex"/></l><r>ਸੁਣਾ<s n="vblex"/></r></p></e>
     <e c="xoharA" w="1.0"><p><l>दोहरा<s n="vblex"/></l><r>ਸੁਨ<s n="vblex"/></r></p></e>
-    <e c="xoharA" w="1.0"><p><l>दोहरा<s n="vblex"/></l><r>ਸੁਨਾਉ<s n="vblex"/></r></p></e>
+    <e c="xoharA" w="1.0"><p><l>दोहरा<s n="vblex"/></l><r>ਸੁਨਾ<s n="vblex"/></r></p></e>
     <e c="xoharA" w="1.0"><p><l>दोहरा<s n="vblex"/></l><r>ਘੋਟ<s n="vblex"/></r></p></e>
-    <e c="xoharA" w="0.0"><p><l>दोहरा<s n="vblex"/></l><r>ਦੁਹਰਾਉ<s n="vblex"/></r></p></e>
+    <e c="xoharA" w="0.0"><p><l>दोहरा<s n="vblex"/></l><r>ਦੁਹਰਾ<s n="vblex"/></r></p></e>
     <e c="xoharA" w="1.0"><p><l>दोहरा<s n="vblex"/></l><r>ਨਜ਼ਰ ਮਾਰ<s n="vblex"/></r></p></e>
     <e c="xoharA" w="1.0"><p><l>दोहरा<s n="vblex"/></l><r>ਬਾਰ ਬਾਰ ਆਖ<s n="vblex"/></r></p></e>
     <e c="xoharA" w="1.0"><p><l>दोहरा<s n="vblex"/></l><r>ਮੁਹਾਰਨੀ ਪੜ੍ਹ<s n="vblex"/></r></p></e>
@@ -16798,14 +16848,14 @@
     <e c="Xakela" w="0.0"><p><l>धकेल<s n="vblex"/></l><r>ਧਕ੍ਕੇਲ<s n="vblex"/></r></p></e>
     <e c="Xakela" w="1.0"><p><l>धकेल<s n="vblex"/></l><r>ਰਗੇਦ<s n="vblex"/></r></p></e>
     <e c="Xakela"><p><l>धकेल<s n="vblex"/></l><r>ਰੇੜ੍ਹ<s n="vblex"/></r></p></e>
-    <e c="XamakA"><p><l>धमका<s n="vblex"/></l><r>ਉਘਰ<s n="vblex"/></r></p></e>
-    <e c="XamakA"><p><l>धमका<s n="vblex"/></l><r>ਡਰਾਉ<s n="vblex"/></r></p></e>
-    <e c="XamakA"><p><l>धमका<s n="vblex"/></l><r>ਤ੍ਰਾਹ੍<s n="vblex"/></r></p></e>
-    <e c="XamakA"><p><l>धमका<s n="vblex"/></l><r>ਦਬਕਾਉ<s n="vblex"/></r></p></e>
-    <e c="XamakA"><p><l>धमका<s n="vblex"/></l><r>ਦਬ੍ਬਲ<s n="vblex"/></r></p></e>
-    <e c="XamakA"><p><l>धमका<s n="vblex"/></l><r>ਧਮਕਾਉ<s n="vblex"/></r></p></e>
-    <e c="XamakA"><p><l>धमका<s n="vblex"/></l><r>ਪਦਾਉ<s n="vblex"/></r></p></e>
-    <e c="XamakA"><p><l>धमका<s n="vblex"/></l><r>ਭਬਕੀ ਦੇ<s n="vblex"/></r></p></e>
+    <e c="XamakA" w="1.0"><p><l>धमका<s n="vblex"/></l><r>ਉਘਰ<s n="vblex"/></r></p></e>
+    <e c="XamakA" w="1.0"><p><l>धमका<s n="vblex"/></l><r>ਡਰਾ<s n="vblex"/></r></p></e>
+    <e c="XamakA" w="1.0"><p><l>धमका<s n="vblex"/></l><r>ਤ੍ਰਾਹ੍<s n="vblex"/></r></p></e>
+    <e c="XamakA" w="1.0"><p><l>धमका<s n="vblex"/></l><r>ਦਬਕਾ<s n="vblex"/></r></p></e>
+    <e c="XamakA" w="1.0"><p><l>धमका<s n="vblex"/></l><r>ਦਬ੍ਬਲ<s n="vblex"/></r></p></e>
+    <e c="XamakA" w="0.0"><p><l>धमका<s n="vblex"/></l><r>ਧਮਕਾ<s n="vblex"/></r></p></e>
+    <e c="XamakA" w="1.0"><p><l>धमका<s n="vblex"/></l><r>ਪਦਾ<s n="vblex"/></r></p></e>
+    <e c="XamakA" w="1.0"><p><l>धमका<s n="vblex"/></l><r>ਭਬਕੀ ਦੇ<s n="vblex"/></r></p></e>
     <e c="XikkAra"><p><l>धिक्कार<s n="vblex"/></l><r>ਧਿਕਾਰ<s n="vblex"/></r></p></e>
     <e c="XikkAra"><p><l>धिक्कार<s n="vblex"/></l><r>ਧਿਰਕਾਰ<s n="vblex"/></r></p></e>
     <e c="Xuna"><p><l>धुन<s n="vblex"/></l><r>ਤੁਂਬ<s n="vblex"/></r></p></e>
@@ -16820,25 +16870,25 @@
     <e c="Xa~sa"><p><l>धँस<s n="vblex"/></l><r>ਧਸ<s n="vblex"/></r></p></e>
     <e c="nakAra"><p><l>नकार<s n="vblex"/></l><r>ਨਕਾਰ<s n="vblex"/></r></p></e>
     <e c="nakAra"><p><l>नकार<s n="vblex"/></l><r>ਨਨ੍ਨਾ ਪੜ<s n="vblex"/></r></p></e>
-    <e c="nacA"><p><l>नचा<s n="vblex"/></l><r>ਨਚਾਉ<s n="vblex"/></r></p></e>
+    <e c="nacA"><p><l>नचा<s n="vblex"/></l><r>ਨਚਾ<s n="vblex"/></r></p></e>
     <e c="nahA"><p><l>नहा<s n="vblex"/></l><r>ਇਸ਼ਨਾਨ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="nahA"><p><l>नहा<s n="vblex"/></l><r>ਨਹਾਉ<s n="vblex"/></r></p></e>
+    <e c="nahA"><p><l>नहा<s n="vblex"/></l><r>ਨਹਾ<s n="vblex"/></r></p></e>
     <e c="nAca"><p><l>नाच<s n="vblex"/></l><r>ਨਚ੍ਚ<s n="vblex"/></r></p></e>
     <e c="nAca"><p><l>नाच<s n="vblex"/></l><r>ਨਾਚ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="nAca"><p><l>नाच<s n="vblex"/></l><r>ਪੈਲਾਂ ਪਾਉ<s n="vblex"/></r></p></e>
+    <e c="nAca"><p><l>नाच<s n="vblex"/></l><r>ਪੈਲਾਂ ਪਾ<s n="vblex"/></r></p></e>
     <e c="nApa"><p><l>नाप<s n="vblex"/></l><r>ਕਚ੍ਛ<s n="vblex"/></r></p></e>
     <e c="nApa"><p><l>नाप<s n="vblex"/></l><r>ਜੋਖ<s n="vblex"/></r></p></e>
     <e c="nApa"><p><l>नाप<s n="vblex"/></l><r>ਨਪ<s n="vblex"/></r></p></e>
     <e c="nApa"><p><l>नाप<s n="vblex"/></l><r>ਨਾਪ<s n="vblex"/></r></p></e>
-    <e c="nikala"><p><l>निकल<s n="vblex"/></l><r>ਕਟਕ ਚੜ੍ਹ<s n="vblex"/></r></p></e>
-    <e c="nikala"><p><l>निकल<s n="vblex"/></l><r>ਛੁਟ<s n="vblex"/></r></p></e>
-    <e c="nikala"><p><l>निकल<s n="vblex"/></l><r>ਤੂਸ ਨਿਕਲਣੀ<s n="vblex"/></r></p></e>
-    <e c="nikala"><p><l>निकल<s n="vblex"/></l><r>ਨਿਕਲ<s n="vblex"/></r></p></e>
-    <e c="nikala"><p><l>निकल<s n="vblex"/></l><r>ਨਿਕਲ ਆ<s n="vblex"/></r></p></e>
-    <e c="nikala"><p><l>निकल<s n="vblex"/></l><r>ਬਾਹਰ ਆ<s n="vblex"/></r></p></e>
-    <e c="nikAla"><p><l>निकाल<s n="vblex"/></l><r>ਕਡ੍ਢ<s n="vblex"/></r></p></e>
-    <e c="nikAla"><p><l>निकाल<s n="vblex"/></l><r>ਕਢ<s n="vblex"/></r></p></e>
-    <e c="nikAla"><p><l>निकाल<s n="vblex"/></l><r>ਖੋਲ੍ਹ<s n="vblex"/></r></p></e>
+    <e c="nikala" w="1.0"><p><l>निकल<s n="vblex"/></l><r>ਕਟਕ ਚੜ੍ਹ<s n="vblex"/></r></p></e>
+    <e c="nikala" w="1.0"><p><l>निकल<s n="vblex"/></l><r>ਛੁਟ<s n="vblex"/></r></p></e>
+    <e c="nikala" w="1.0"><p><l>निकल<s n="vblex"/></l><r>ਤੂਸ ਨਿਕਲਣੀ<s n="vblex"/></r></p></e>
+    <e c="nikala" w="0.0"><p><l>निकल<s n="vblex"/></l><r>ਨਿਕਲ<s n="vblex"/></r></p></e>
+    <e c="nikala" w="1.0"><p><l>निकल<s n="vblex"/></l><r>ਨਿਕਲ ਆ<s n="vblex"/></r></p></e>
+    <e c="nikala" w="1.0"><p><l>निकल<s n="vblex"/></l><r>ਬਾਹਰ ਆ<s n="vblex"/></r></p></e>
+    <e c="nikAla" w="1.0"><p><l>निकाल<s n="vblex"/></l><r>ਕਡ੍ਢ<s n="vblex"/></r></p></e>
+    <e c="nikAla" w="0.0"><p><l>निकाल<s n="vblex"/></l><r>ਕਢ<s n="vblex"/></r></p></e>
+    <e c="nikAla" w="1.0"><p><l>निकाल<s n="vblex"/></l><r>ਖੋਲ੍ਹ<s n="vblex"/></r></p></e>
     <e c="nigala"><p><l>निगल<s n="vblex"/></l><r>ਹਪ<s n="vblex"/></r></p></e>
     <e c="nigala"><p><l>निगल<s n="vblex"/></l><r>ਗੜਪ<s n="vblex"/></r></p></e>
     <e c="nigala"><p><l>निगल<s n="vblex"/></l><r>ਗਟਕ<s n="vblex"/></r></p></e>
@@ -16848,15 +16898,15 @@
     <e c="nipata"><p><l>निपट<s n="vblex"/></l><r>ਨਿਪਟ<s n="vblex"/></r></p></e>
     <e c="nipata"><p><l>निपट<s n="vblex"/></l><r>ਨਿਬੜ<s n="vblex"/></r></p></e>
     <e c="nipata"><p><l>निपट<s n="vblex"/></l><r>ਨਿਭ<s n="vblex"/></r></p></e>
-    <e c="nipatA"><p><l>निपटा<s n="vblex"/></l><r>ਸੁਲਝ<s n="vblex"/></r></p></e>
-    <e c="nipatA"><p><l>निपटा<s n="vblex"/></l><r>ਟਿਪਸ ਹਲਾਉ<s n="vblex"/></r></p></e>
-    <e c="nipatA"><p><l>निपटा<s n="vblex"/></l><r>ਤੈ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="nipatA"><p><l>निपटा<s n="vblex"/></l><r>ਨਬੇੜਾ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="nipatA"><p><l>निपटा<s n="vblex"/></l><r>ਨਬੇੜ੍ਹ<s n="vblex"/></r></p></e>
-    <e c="nipatA"><p><l>निपटा<s n="vblex"/></l><r>ਨਿਪਟਾਉ<s n="vblex"/></r></p></e>
-    <e c="nipatA"><p><l>निपटा<s n="vblex"/></l><r>ਨਿਬੇੜ<s n="vblex"/></r></p></e>
-    <e c="nipatA"><p><l>निपटा<s n="vblex"/></l><r>ਰਫਾ ਦਫਾ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="nipatA"><p><l>निपटा<s n="vblex"/></l><r>ਲਿਬੇੜ<s n="vblex"/></r></p></e>
+    <e c="nipatA" w="1.0"><p><l>निपटा<s n="vblex"/></l><r>ਸੁਲਝ<s n="vblex"/></r></p></e>
+    <e c="nipatA" w="1.0"><p><l>निपटा<s n="vblex"/></l><r>ਟਿਪਸ ਹਲਾਉ<s n="vblex"/></r></p></e>
+    <e c="nipatA" w="1.0"><p><l>निपटा<s n="vblex"/></l><r>ਤੈ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="nipatA" w="1.0"><p><l>निपटा<s n="vblex"/></l><r>ਨਬੇੜਾ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="nipatA" w="1.0"><p><l>निपटा<s n="vblex"/></l><r>ਨਬੇੜ੍ਹ<s n="vblex"/></r></p></e>
+    <e c="nipatA" w="0.0"><p><l>निपटा<s n="vblex"/></l><r>ਨਿਪਟਾ<s n="vblex"/></r></p></e>
+    <e c="nipatA" w="1.0"><p><l>निपटा<s n="vblex"/></l><r>ਨਿਬੇੜ<s n="vblex"/></r></p></e>
+    <e c="nipatA" w="1.0"><p><l>निपटा<s n="vblex"/></l><r>ਰਫਾ ਦਫਾ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="nipatA" w="1.0"><p><l>निपटा<s n="vblex"/></l><r>ਲਿਬੇੜ<s n="vblex"/></r></p></e>
     <e c="niBA"><p><l>निभा<s n="vblex"/></l><r>ਨਿਭਾ<s n="vblex"/></r></p></e>
     <e c="paka"><p><l>पक<s n="vblex"/></l><r>ਸਿਕ<s n="vblex"/></r></p></e>
     <e c="paka"><p><l>पक<s n="vblex"/></l><r>ਪਕ<s n="vblex"/></r></p></e>
@@ -16865,49 +16915,50 @@
     <e c="paka"><p><l>पक<s n="vblex"/></l><r>ਰਸ ਪੈ<s n="vblex"/></r></p></e>
     <e c="paka"><p><l>पक<s n="vblex"/></l><r>ਰਿਝ<s n="vblex"/></r></p></e>
     <e c="pakA"><p><l>पका<s n="vblex"/></l><r>ਚਾੜ੍ਹ<s n="vblex"/></r></p></e>
-    <e c="pakA"><p><l>पका<s n="vblex"/></l><r>ਪਕਾਉ<s n="vblex"/></r></p></e>
-    <e c="pakA"><p><l>पका<s n="vblex"/></l><r>ਰਿਝਾਉ<s n="vblex"/></r></p></e>
+    <e c="pakA"><p><l>पका<s n="vblex"/></l><r>ਪਕਾ<s n="vblex"/></r></p></e>
+    <e c="pakA"><p><l>पका<s n="vblex"/></l><r>ਰਿਝਾ<s n="vblex"/></r></p></e>
     <e c="pakA"><p><l>पका<s n="vblex"/></l><r>ਰਿਨ੍ਨ੍ਹਣ<s n="vblex"/></r></p></e>
     <e c="pacA"><p><l>पचा<s n="vblex"/></l><r>ਹਜ਼ਮ ਕਰ<s n="vblex"/></r></p></e>
     <e c="pacA"><p><l>पचा<s n="vblex"/></l><r>ਗੁੜ੍ਹ<s n="vblex"/></r></p></e>
     <e c="pacA"><p><l>पचा<s n="vblex"/></l><r>ਡਕਾਰ<s n="vblex"/></r></p></e>
-    <e c="pacA"><p><l>पचा<s n="vblex"/></l><r>ਪਚਾਉ<s n="vblex"/></r></p></e>
-    <e c="paCawA"><p><l>पछता<s n="vblex"/></l><r>ਹਥ ਮਲ<s n="vblex"/></r></p></e>
-    <e c="paCawA"><p><l>पछता<s n="vblex"/></l><r>ਹੋਠ ਦਬ<s n="vblex"/></r></p></e>
-    <e c="paCawA"><p><l>पछता<s n="vblex"/></l><r>ਝੀਖ<s n="vblex"/></r></p></e>
-    <e c="paCawA"><p><l>पछता<s n="vblex"/></l><r>ਪਛਤਾਉ<s n="vblex"/></r></p></e>
-    <e c="paCawA"><p><l>पछता<s n="vblex"/></l><r>ਪਛਤਾਵਾ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="pacA"><p><l>पचा<s n="vblex"/></l><r>ਪਚਾ<s n="vblex"/></r></p></e>
+    <e c="paCawA" w="1.0"><p><l>पछता<s n="vblex"/></l><r>ਹਥ ਮਲ<s n="vblex"/></r></p></e>
+    <e c="paCawA" w="1.0"><p><l>पछता<s n="vblex"/></l><r>ਹੋਠ ਦਬ<s n="vblex"/></r></p></e>
+    <e c="paCawA" w="1.0"><p><l>पछता<s n="vblex"/></l><r>ਝੀਖ<s n="vblex"/></r></p></e>
+    <e c="paCawA" w="0.0"><p><l>पछता<s n="vblex"/></l><r>ਪਛਤਾ<s n="vblex"/></r></p></e>
+    <e c="paCawA" w="1.0"><p><l>पछता<s n="vblex"/></l><r>ਪਛਤਾਵਾ ਕਰ<s n="vblex"/></r></p></e>
     <e c="pataka"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕ<s n="vblex"/></r></p></e>
-    <e c="pataka"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕਾਉ<s n="vblex"/></r></p></e>
-    <e c="pataka"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕਾਉਣਾਉ<s n="vblex"/></r></p></e>
+    <e c="pataka"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕਾ<s n="vblex"/></r></p></e>
+    <e c="pataka"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕਾਉਣਾ<s n="vblex"/></r></p></e>
     <e c="pataka"><p><l>पटक<s n="vblex"/></l><r>ਲੈ ਮਾਰ<s n="vblex"/></r></p></e>
     <e c="paraKa"><p><l>परख<s n="vblex"/></l><r>ਪਰਖ<s n="vblex"/></r></p></e>
     <e c="parosa"><p><l>परोस<s n="vblex"/></l><r>ਪ੍ਰੋਸ<s n="vblex"/></r></p></e>
     <e c="palata"><p><l>पलट<s n="vblex"/></l><r>ਪਲਟ<s n="vblex"/></r></p></e>
-    <e c="pahacAna"><p><l>पहचान<s n="vblex"/></l><r>ਸਿਆਣ<s n="vblex"/></r></p></e>
-    <e c="pahacAna"><p><l>पहचान<s n="vblex"/></l><r>ਸਿਂਵਾਣ<s n="vblex"/></r></p></e>
-    <e c="pahacAna"><p><l>पहचान<s n="vblex"/></l><r>ਸੰਵਾਣ<s n="vblex"/></r></p></e>
-    <e c="pahacAna"><p><l>पहचान<s n="vblex"/></l><r>ਪਛਾਣ<s n="vblex"/></r></p></e>
-    <e c="pahana"><p><l>पहन<s n="vblex"/></l><r>ਧਾਰਨ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="pahana"><p><l>पहन<s n="vblex"/></l><r>ਪਹਿਨ<s n="vblex"/></r></p></e>
-    <e c="pahana"><p><l>पहन<s n="vblex"/></l><r>ਪਾ<s n="vblex"/></r></p></e>
-    <e c="pahana"><p><l>पहन<s n="vblex"/></l><r>ਪਾਣਾਉ<s n="vblex"/></r></p></e>
-    <e c="pahana"><p><l>पहन<s n="vblex"/></l><r>ਪਾ ਦੇ<s n="vblex"/></r></p></e>
-    <e c="pahu~ca"><p><l>पहुँच<s n="vblex"/></l><r>ਅਪ੍ਪੜ<s n="vblex"/></r></p></e>
-    <e c="pahu~ca"><p><l>पहुँच<s n="vblex"/></l><r>ਕਟਕ ਚੜ੍ਹ<s n="vblex"/></r></p></e>
-    <e c="pahu~ca"><p><l>पहुँच<s n="vblex"/></l><r>ਧੁਰ ਤਕ ਜਾ<s n="vblex"/></r></p></e>
-    <e c="pahu~cA"><p><l>पहुँचा<s n="vblex"/></l><r>ਅਪ੍ਪੜਾਉ<s n="vblex"/></r></p></e>
+    <e c="pahacAna" w="1.0"><p><l>पहचान<s n="vblex"/></l><r>ਸਿਆਣ<s n="vblex"/></r></p></e>
+    <e c="pahacAna" w="1.0"><p><l>पहचान<s n="vblex"/></l><r>ਸਿਂਵਾਣ<s n="vblex"/></r></p></e>
+    <e c="pahacAna" w="1.0"><p><l>पहचान<s n="vblex"/></l><r>ਸੰਵਾਣ<s n="vblex"/></r></p></e>
+    <e c="pahacAna" w="0.0"><p><l>पहचान<s n="vblex"/></l><r>ਪਛਾਣ<s n="vblex"/></r></p></e>
+    <e c="pahana" w="1.0"><p><l>पहन<s n="vblex"/></l><r>ਧਾਰਨ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="pahana" w="0.0"><p><l>पहन<s n="vblex"/></l><r>ਪਹਿਨ<s n="vblex"/></r></p></e>
+    <e c="pahana" w="1.0"><p><l>पहन<s n="vblex"/></l><r>ਪਾ<s n="vblex"/></r></p></e>
+    <e c="pahana" w="1.0"><p><l>पहन<s n="vblex"/></l><r>ਪਾਣਾ<s n="vblex"/></r></p></e>
+    <e c="pahana" w="1.0"><p><l>पहन<s n="vblex"/></l><r>ਪਾ ਦੇ<s n="vblex"/></r></p></e>
+    <e c="pahu~ca" w="1.0"><p><l>पहुँच<s n="vblex"/></l><r>ਅਪ੍ਪੜ<s n="vblex"/></r></p></e>
+    <e c="pahu~ca" w="0.0"><p><l>पहुँच<s n="vblex"/></l><r>ਪਹੁੰਚ<s n="vblex"/></r></p></e>
+    <e c="pahu~ca" w="1.0"><p><l>पहुँच<s n="vblex"/></l><r>ਕਟਕ ਚੜ੍ਹ<s n="vblex"/></r></p></e>
+    <e c="pahu~ca" w="1.0"><p><l>पहुँच<s n="vblex"/></l><r>ਧੁਰ ਤਕ ਜਾ<s n="vblex"/></r></p></e>
+    <e c="pahu~cA" w="1.0"><p><l>पहुँचा<s n="vblex"/></l><r>ਅਪ੍ਪੜਾਉ<s n="vblex"/></r></p></e>
     <e c="pA"><p><l>पा<s n="vblex"/></l><r>ਪਾ<s n="vblex"/></r></p></e>
     <e c="pA"><p><l>पा<s n="vblex"/></l><r>ਪਾਣਾਉ<s n="vblex"/></r></p></e>
     <e c="pAla"><p><l>पाल<s n="vblex"/></l><r>ਦਬੇਲ ਕਰ<s n="vblex"/></r></p></e>
     <e c="pAla"><p><l>पाल<s n="vblex"/></l><r>ਪਾਲ<s n="vblex"/></r></p></e>
-    <e c="piGalA"><p><l>पिघला<s n="vblex"/></l><r>ਗਲਾਉ<s n="vblex"/></r></p></e>
-    <e c="piGalA"><p><l>पिघला<s n="vblex"/></l><r>ਗਾਲ<s n="vblex"/></r></p></e>
-    <e c="piGalA"><p><l>पिघला<s n="vblex"/></l><r>ਦ੍ਰਵਤ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="piGalA"><p><l>पिघला<s n="vblex"/></l><r>ਪਿਘਲਾਉ<s n="vblex"/></r></p></e>
-    <e c="piGalA"><p><l>पिघला<s n="vblex"/></l><r>ਪੰਘਰਾਉ<s n="vblex"/></r></p></e>
+    <e c="piGalA" w="1.0"><p><l>पिघला<s n="vblex"/></l><r>ਗਲਾ<s n="vblex"/></r></p></e>
+    <e c="piGalA" w="1.0"><p><l>पिघला<s n="vblex"/></l><r>ਗਾਲ<s n="vblex"/></r></p></e>
+    <e c="piGalA" w="1.0"><p><l>पिघला<s n="vblex"/></l><r>ਦ੍ਰਵਤ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="piGalA" w="0.0"><p><l>पिघला<s n="vblex"/></l><r>ਪਿਘਲਾ<s n="vblex"/></r></p></e>
+    <e c="piGalA" w="1.0"><p><l>पिघला<s n="vblex"/></l><r>ਪੰਘਰਾ<s n="vblex"/></r></p></e>
     <e c="pilA"><p><l>पिला<s n="vblex"/></l><r>ਪਿਆਲ<s n="vblex"/></r></p></e>
-    <e c="pilA"><p><l>पिला<s n="vblex"/></l><r>ਪਿਲਾਉ<s n="vblex"/></r></p></e>
+    <e c="pilA"><p><l>पिला<s n="vblex"/></l><r>ਪਿਲਾ<s n="vblex"/></r></p></e>
     <e c="pisa"><p><l>पिस<s n="vblex"/></l><r>ਦਬ<s n="vblex"/></r></p></e>
     <e c="pisa"><p><l>पिस<s n="vblex"/></l><r>ਪਿਸ<s n="vblex"/></r></p></e>
     <e c="pisa"><p><l>पिस<s n="vblex"/></l><r>ਪੀਸਿਆ ਜਾ<s n="vblex"/></r></p></e>
@@ -17043,13 +17094,13 @@
     <e c="bana"><p><l>बन<s n="vblex"/></l><r>ਉਸਰ<s n="vblex"/></r></p></e>
     <e c="bana"><p><l>बन<s n="vblex"/></l><r>ਉਸ੍ਸਰ<s n="vblex"/></r></p></e>
     <e c="bana"><p><l>बन<s n="vblex"/></l><r>ਬਣ<s n="vblex"/></r></p></e>
-    <e c="banA"><p><l>बना<s n="vblex"/></l><r>ਉਸਾਰ<s n="vblex"/></r></p></e>
-    <e c="banA"><p><l>बना<s n="vblex"/></l><r>ਸਾਜ<s n="vblex"/></r></p></e>
-    <e c="banA"><p><l>बना<s n="vblex"/></l><r>ਘੜ<s n="vblex"/></r></p></e>
-    <e c="banA"><p><l>बना<s n="vblex"/></l><r>ਚਾੜ੍ਹ<s n="vblex"/></r></p></e>
-    <e c="banA"><p><l>बना<s n="vblex"/></l><r>ਢਾਲ<s n="vblex"/></r></p></e>
-    <e c="banA"><p><l>बना<s n="vblex"/></l><r>ਬਣਾਉ<s n="vblex"/></r></p></e>
-    <e c="banA"><p><l>बना<s n="vblex"/></l><r>ਬਣਾ<s n="vblex"/></r></p></e>
+    <e c="banA" w="1.0"><p><l>बना<s n="vblex"/></l><r>ਉਸਾਰ<s n="vblex"/></r></p></e>
+    <e c="banA" w="1.0"><p><l>बना<s n="vblex"/></l><r>ਸਾਜ<s n="vblex"/></r></p></e>
+    <e c="banA" w="1.0"><p><l>बना<s n="vblex"/></l><r>ਘੜ<s n="vblex"/></r></p></e>
+    <e c="banA" w="1.0"><p><l>बना<s n="vblex"/></l><r>ਚਾੜ੍ਹ<s n="vblex"/></r></p></e>
+    <e c="banA" w="1.0"><p><l>बना<s n="vblex"/></l><r>ਢਾਲ<s n="vblex"/></r></p></e>
+    <e c="banA" w="1.0"><p><l>बना<s n="vblex"/></l><r>ਬਣਾਉ<s n="vblex"/></r></p></e>
+    <e c="banA" w="0.0"><p><l>बना<s n="vblex"/></l><r>ਬਣਾ<s n="vblex"/></r></p></e>
     <e c="barawa"><p><l>बरत<s n="vblex"/></l><r>ਵਰਤ<s n="vblex"/></r></p></e>
     <e c="barawa"><p><l>बरत<s n="vblex"/></l><r>ਵਰਤੋਂ ਕਰ<s n="vblex"/></r></p></e>
     <e c="barasa"><p><l>बरस<s n="vblex"/></l><r>ਬਰਸ<s n="vblex"/></r></p></e>
@@ -17151,11 +17202,12 @@
     <e c="Bara" w="1.0"><p><l>भर<s n="vblex"/></l><r>ਪੂਰ<s n="vblex"/></r></p></e>
     <e c="Bara" w="0.0"><p><l>भर<s n="vblex"/></l><r>ਭਰ<s n="vblex"/></r></p></e>
     <e c="Bara" w="1.0"><p><l>भर<s n="vblex"/></l><r>ਮੰਡ<s n="vblex"/></r></p></e>
-    <e c="BAga"><p><l>भाग<s n="vblex"/></l><r>ਕੰਡ ਵਿਖਾਉ<s n="vblex"/></r></p></e>
-    <e c="BAga"><p><l>भाग<s n="vblex"/></l><r>ਟਅਕ<s n="vblex"/></r></p></e>
-    <e c="BAga"><p><l>भाग<s n="vblex"/></l><r>ਨਸ<s n="vblex"/></r></p></e>
-    <e c="BAga"><p><l>भाग<s n="vblex"/></l><r>ਨਠ<s n="vblex"/></r></p></e>
-    <e c="BAga"><p><l>भाग<s n="vblex"/></l><r>ਭਜਣਾਉ<s n="vblex"/></r></p></e>
+    <e c="BAga" w="1.0"><p><l>भाग<s n="vblex"/></l><r>ਕੰਡ ਵਿਖਾਉ<s n="vblex"/></r></p></e>
+    <e c="BAga" w="1.0"><p><l>भाग<s n="vblex"/></l><r>ਟਅਕ<s n="vblex"/></r></p></e>
+    <e c="BAga" w="1.0"><p><l>भाग<s n="vblex"/></l><r>ਨਸ<s n="vblex"/></r></p></e>
+    <e c="BAga" w="1.0"><p><l>भाग<s n="vblex"/></l><r>ਨਠ<s n="vblex"/></r></p></e>
+    <e c="BAga" w="1.0"><p><l>भाग<s n="vblex"/></l><r>ਭਜ<s n="vblex"/></r></p></e>
+    <e c="BAga" w="0.0"><p><l>भाग<s n="vblex"/></l><r>ਭੱਜ<s n="vblex"/></r></p></e>
     <e c="BA~pa"><p><l>भाँप<s n="vblex"/></l><r>ਦਾਲ ਵਿਚ ਕਾਲਾ ਕਾਲਾ ਸਮਝ<s n="vblex"/></r></p></e>
     <e c="BA~pa"><p><l>भाँप<s n="vblex"/></l><r>ਭਾਂਪ<s n="vblex"/></r></p></e>
     <e c="Bigo"><p><l>भिगो<s n="vblex"/></l><r>ਤਰੇੜਾ ਦੇ<s n="vblex"/></r></p></e>
@@ -17478,6 +17530,7 @@
     <e c="muda़"><p><l>मुड़<s n="vblex"/></l><r>ਮੁੜ<s n="vblex"/></r></p></e>
     <e c="klika"><p><l>क्लिक<s n="vblex"/></l><r>ਕਲਿੱਕ<s n="vblex"/></r></p></e>
     <e c="raha"><p><l>रह<s n="vaux"/></l><r>ਰਹ<s n="vaux"/></r></p></e>
+    <e c="paDhA"><p><l>पढ़ा<s n="vblex"/></l><r>ਪੜ੍ਹਾ<s n="vblex"/></r></p></e>
 
     <e c="ho"><p><l>हो<s n="vbser"/></l><r>ਹੋ<s n="vbser"/></r></p></e>
     <e c="honA"><p><l>होना<s n="vblex"/></l><r>ਹੋਣਾ<s n="vblex"/></r></p></e>
