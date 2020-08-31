@@ -11249,6 +11249,11 @@
     <e c="aDikAnS"><p><l>अधिकांश<s n="n"/><s n="m"/></l><r>ਅਧਿਕਾਂਸ਼<s n="n"/><s n="m"/></r></p></e>
     <e c="sImAreKA"><p><l>सीमारेखा<s n="n"/><s n="f"/></l><r>ਸੀਮਾਰੇਖਾ<s n="n"/><s n="f"/></r></p></e>
     <e c="IsApUrav"><p><l>ईसापूर्व<s n="n"/><s n="m"/></l><r>ਬੀ.ਸੀ.<s n="n"/><s n="m"/></r></p></e>
+    <e c="aguAI"><p><l>अगुआई<s n="n"/><s n="f"/></l><r>ਅਗਵਾਈ<s n="n"/><s n="f"/></r></p></e>
+    <e c="yojnA"><p><l>योजना<s n="n"/><s n="f"/></l><r>ਵਿਓਂਤਬੰਦੀ<s n="n"/><s n="f"/></r></p></e>
+    <e c="sAmagrI"><p><l>सामग्री<s n="n"/><s n="f"/></l><r>ਸਮੱਗਰੀ<s n="n"/><s n="f"/></r></p></e>
+    <e c="varg"><p><l>वर्ग<s n="n"/><s n="m"/></l><r>ਸ਼੍ਰੇਣੀ<s n="n"/><s n="f"/></r></p></e>
+    <e c="Ganwatva"><p><l>घनत्व<s n="n"/><s n="m"/></l><r>ਡੈਂਸਟੀ<s n="n"/><s n="f"/></r></p></e>
 
 
     <!-- SECTION: Proper nouns -->
@@ -11508,10 +11513,368 @@
     <e c="irAka"><p><l>इराक<s n="np"/><s n="top"/></l><r>ਇਰਾਕ<s n="np"/><s n="top"/></r></p></e>
     <e c="hariyANA"><p><l>हरियाणा<s n="np"/><s n="top"/></l><r>ਹਰਿਆਣਾ<s n="np"/><s n="top"/></r></p></e>
     <e c="pAkiswAn"><p><l>पाकिस्तान<s n="np"/><s n="top"/></l><r>ਪਾਕਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
-    <e c="afghAniswAn"><p><l>अफगानिस्तान<s n="np"/><s n="top"/></l><r>ਅਫਗਾਨਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
-    <e c="afghAniswAn"><p><l>अफ़ग़ानिस्तान<s n="np"/><s n="top"/></l><r>ਅਫਗਾਨਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अफगानिस्तान<s n="np"/><s n="top"/></l><r>ਅਫਗਾਨਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अफ़ग़ानिस्तान<s n="np"/><s n="top"/></l><r>ਅਫਗਾਨਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>चित्रकूट<s n="np"/><s n="top"/></l><r>ਚਿੱਤਰਕੁੱਟ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पोलैंड<s n="np"/><s n="top"/></l><r>ਪੋਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अलवर<s n="np"/><s n="top"/></l><r>ਅਲਵਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>काठमांडु<s n="np"/><s n="top"/></l><r>ਕਾਠਮੰਡੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>इंडीज<s n="np"/><s n="top"/></l><r>ਇੰਡੀਜ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मुजफ्फरपुर<s n="np"/><s n="top"/></l><r>ਮੁਜ਼ੱਫਰਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बूंदी<s n="np"/><s n="top"/></l><r>ਬੁੰਡੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>काठमांडू<s n="np"/><s n="top"/></l><r>ਕਾਠਮੰਡੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ताइवान<s n="np"/><s n="top"/></l><r>ਤਾਈਵਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सिरोही<s n="np"/><s n="top"/></l><r>ਸਿਰੋਹੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>हाजीपुर<s n="np"/><s n="top"/></l><r>ਹਾਜੀਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नालंदा<s n="np"/><s n="top"/></l><r>ਨਾਲੰਦਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>हस्तिनापुर<s n="np"/><s n="top"/></l><r>ਹਸਟੀਨਾਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पोखरण<s n="np"/><s n="top"/></l><r>ਪੋਖਰਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ठाणे<s n="np"/><s n="top"/></l><r>ਠਾਣੇ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>उत्तराखंड<s n="np"/><s n="top"/></l><r>ਉਤਰਾਖੰਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>चम्बल<s n="np"/><s n="top"/></l><r>ਚੰਬਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पानीपत<s n="np"/><s n="top"/></l><r>ਪਾਣੀਪਤ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मुरादाबाद<s n="np"/><s n="top"/></l><r>ਮੁਰਾਦਾਬਾਦ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मेवाड़<s n="np"/><s n="top"/></l><r>ਮੇਵਾੜ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गंगोलीहाट<s n="np"/><s n="top"/></l><r>ਗੰਗੋਲੀਹਾਟ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>छिबरामऊ<s n="np"/><s n="top"/></l><r>ਛੀਬਰਮਾਉ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>थराली<s n="np"/><s n="top"/></l><r>ਥਰਾਲੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कांडा<s n="np"/><s n="top"/></l><r>ਕੰਡਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फ्लोरिडा<s n="np"/><s n="top"/></l><r>ਫਲੋਰਿਡਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>शिकागो<s n="np"/><s n="top"/></l><r>ਸ਼ਿਕਾਗੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कानपुर<s n="np"/><s n="top"/></l><r>ਕਾਨਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बर्मा<s n="np"/><s n="top"/></l><r>ਬਰਮਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ब्राजील<s n="np"/><s n="top"/></l><r>ਬ੍ਰਾਜ਼ੀਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ग्वालियर<s n="np"/><s n="top"/></l><r>ਗਵਾਲੀਅਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गोवा<s n="np"/><s n="top"/></l><r>ਗੋਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बनारस<s n="np"/><s n="top"/></l><r>ਬਨਾਰਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बेल्जियम<s n="np"/><s n="top"/></l><r>ਬੈਲਜੀਅਮ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नागपुर<s n="np"/><s n="top"/></l><r>ਨਾਗਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फ़्रांस<s n="np"/><s n="top"/></l><r>ਫਰਾਂਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>भनोली<s n="np"/><s n="top"/></l><r>ਭਨੌਲੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अहमदाबाद<s n="np"/><s n="top"/></l><r>ਅਹਿਮਦਾਬਾਦ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>रामनगर<s n="np"/><s n="top"/></l><r>ਰਾਮਨਗਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मध्यप्रदेश<s n="np"/><s n="top"/></l><r>ਮੱਧ ਪ੍ਰਦੇਸ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>इंग्लैण्ड<s n="np"/><s n="top"/></l><r>ਇੰਗਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>हरिद्वार<s n="np"/><s n="top"/></l><r>ਹਰਿਦੁਆਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>उज्जैन<s n="np"/><s n="top"/></l><r>ਉਜੈਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सिडनी<s n="np"/><s n="top"/></l><r>ਸਿਡਨੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नीदरलैंड<s n="np"/><s n="top"/></l><r>ਨੀਦਰਲੈਂਡਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मैनचेस्टर<s n="np"/><s n="top"/></l><r>ਮੈਨਚੇਸਟਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>आस्ट्रेलिया<s n="np"/><s n="top"/></l><r>ਆਸਟਰੇਲੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>रामपुर<s n="np"/><s n="top"/></l><r>ਰਾਮਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>इमामगंज<s n="np"/><s n="top"/></l><r>ਇਮਾਮਗੰਜ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पोखरी<s n="np"/><s n="top"/></l><r>ਪੋਖਾਰੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पुर्तगाल<s n="np"/><s n="top"/></l><r>ਪੁਰਤਗਾਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बुंदेलखंड<s n="np"/><s n="top"/></l><r>ਬੁੰਦੇਲਖੰਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>किरौली<s n="np"/><s n="top"/></l><r>ਕਿਰੋਲੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>रायगढ<s n="np"/><s n="top"/></l><r>ਰਾਏਗੜ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अजमेर<s n="np"/><s n="top"/></l><r>ਅਜਮੇਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मेरठ<s n="np"/><s n="top"/></l><r>ਮੇਰਠ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>श्रीनगर<s n="np"/><s n="top"/></l><r>ਸ੍ਰੀਨਗਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सैन<s n="np"/><s n="top"/></l><r>ਸਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लॉस<s n="np"/><s n="top"/></l><r>ਨੁਕਸਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लॉस एंजलिस<s n="np"/><s n="top"/></l><r>ਲੌਸ ਐਂਜਲਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लन्दन<s n="np"/><s n="top"/></l><r>ਲੰਡਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सीकरी<s n="np"/><s n="top"/></l><r>ਸੀਕਰੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मगध<s n="np"/><s n="top"/></l><r>ਮਗਧ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पिथोरागढ<s n="np"/><s n="top"/></l><r>ਪਿਥੌਰਾਗੜ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पुणे<s n="np"/><s n="top"/></l><r>ਪੁਣੇ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कर्नूलु<s n="np"/><s n="top"/></l><r>ਕੇਰਨੂਲੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पिथौरागढ<s n="np"/><s n="top"/></l><r>ਪਿਥੌਰਾਗੜ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>चौबटाखाल<s n="np"/><s n="top"/></l><r>ਚੌਬਤਖਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अतरौली<s n="np"/><s n="top"/></l><r>ਅਤਰੌਲੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मियामी<s n="np"/><s n="top"/></l><r>ਮਿਆਮੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>स्कॉटलैंड<s n="np"/><s n="top"/></l><r>ਸਕਾਟਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बेरीनाग<s n="np"/><s n="top"/></l><r>ਬੇਰੀਨਾਗ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>न्यूजीलैंड<s n="np"/><s n="top"/></l><r>ਨਿਊਜ਼ੀਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अरावली<s n="np"/><s n="top"/></l><r>ਅਰਾਵਾਲੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बॉम्बे<s n="np"/><s n="top"/></l><r>ਬੰਬੇ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गोरखपुर<s n="np"/><s n="top"/></l><r>ਗੋਰਖਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गुना<s n="np"/><s n="top"/></l><r>ਗੁਣਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>तिब्बत<s n="np"/><s n="top"/></l><r>ਤਿੱਬਤ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सिंगापुर<s n="np"/><s n="top"/></l><r>ਸਿੰਗਾਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बंबई<s n="np"/><s n="top"/></l><r>ਬੰਬੇ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बीकानेर<s n="np"/><s n="top"/></l><r>ਬੀਕਾਨੇਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अल्मोडा<s n="np"/><s n="top"/></l><r>ਅਲਮੋਡਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कायमगंज<s n="np"/><s n="top"/></l><r>ਕਿਆਮਗੰਜ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>हिन्दुस्तान<s n="np"/><s n="top"/></l><r>ਹਿੰਦੁਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>यमुना<s n="np"/><s n="top"/></l><r>ਯਮੁਨਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पौडी<s n="np"/><s n="top"/></l><r>ਪਉੜੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पौड़ी<s n="np"/><s n="top"/></l><r>ਪਉੜੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>जैसलमेर<s n="np"/><s n="top"/></l><r>ਜੈਸਲਮੇਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>उदयपुर<s n="np"/><s n="top"/></l><r>ਉਦੈਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अयोध्या<s n="np"/><s n="top"/></l><r>ਅਯੁੱਧਿਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>जोधपुर<s n="np"/><s n="top"/></l><r>ਜੋਧਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>भरतपुर<s n="np"/><s n="top"/></l><r>ਭਰਤਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>वाराणसी<s n="np"/><s n="top"/></l><r>ਵਾਰਾਣਸੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फतेहपुर<s n="np"/><s n="top"/></l><r>ਫਤਿਹਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अनंतपुर<s n="np"/><s n="top"/></l><r>ਅਨੰਤਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कलकत्ता<s n="np"/><s n="top"/></l><r>ਕਲਕੱਤਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>चम्पावत<s n="np"/><s n="top"/></l><r>ਚਾਂਪਾਵਤ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कुमाऊँ<s n="np"/><s n="top"/></l><r>ਕੁਮਾਉਂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>यमकेश्वर<s n="np"/><s n="top"/></l><r>ਯਮਕੇਸ਼ਵਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बागेश्वर<s n="np"/><s n="top"/></l><r>ਬਾਗੇਸ਼ਵਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>चमोली<s n="np"/><s n="top"/></l><r>ਚਮੋਲੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कन्नौज<s n="np"/><s n="top"/></l><r>ਕੰਨਜ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अल्मोड़ा<s n="np"/><s n="top"/></l><r>ਅਲਮੋੜਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>भिकियासैण<s n="np"/><s n="top"/></l><r>ਭਿਕਿਆਸੈਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गढ़वाल<s n="np"/><s n="top"/></l><r>ਗੜ੍ਹਵਾਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नैनीताल<s n="np"/><s n="top"/></l><r>ਨੈਨੀਤਾਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मथुरा<s n="np"/><s n="top"/></l><r>ਮਥੁਰਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>काशी<s n="np"/><s n="top"/></l><r>ਕਾਸ਼ੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लखीसराय<s n="np"/><s n="top"/></l><r>ਲਖਿਸਾਰਾਏ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>हिमालय<s n="np"/><s n="top"/></l><r>ਹਿਮਾਲਿਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मुंगेर<s n="np"/><s n="top"/></l><r>ਮੁੰਜਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फूलपुर<s n="np"/><s n="top"/></l><r>ਫੂਲਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>आलैंड‌ द्वीप‌<s n="np"/><s n="top"/></l><r>‌ਆਲੰਡ ਟਾਪੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>न्यू ज़ीलैंड<s n="np"/><s n="top"/></l><r>ਨਿਊਜ਼ੀਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>स्वाज़ीलैंड<s n="np"/><s n="top"/></l><r>ਸਵਾਜ਼ੀਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अफ़्ग़ानिस्तान<s n="np"/><s n="top"/></l><r>ਅਫਗਾਨਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अमरीकी स‌मोआ<s n="np"/><s n="top"/></l><r>ਅਮਰੀਕੀ ਸਮੋਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अंडोरा<s n="np"/><s n="top"/></l><r>ਅੰਡੋਰਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अंगोला<s n="np"/><s n="top"/></l><r>ਅੰਗੋਲਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अंग्विला<s n="np"/><s n="top"/></l><r>ਅੰਗਵਿਲਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अंटार्क‌टिका<s n="np"/><s n="top"/></l><r>ਅੰਟਾਰਕਟਿਕਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अंटिग्वा और‌ बार‌बुडा<s n="np"/><s n="top"/></l><r>ਐਂਟੀਗੁਆ ਅਤੇ ਬਾਰਬੂਡਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>आर्जेंटीना<s n="np"/><s n="top"/></l><r>ਅਰਜਨਟੀਨਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>आर्मीनिया<s n="np"/><s n="top"/></l><r>ਅਰਮੇਨੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अरूबा<s n="np"/><s n="top"/></l><r>ਅਰੂਬਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>आज़र‌बायजान‌<s n="np"/><s n="top"/></l><r>ਅਜ਼ਰਬਾਈਜਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ब‌हामाज़<s n="np"/><s n="top"/></l><r>ਬਹਾਮਾਜ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बाहरैन<s n="np"/><s n="top"/></l><r>ਬਹਿਰੀਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बारबेडॉस<s n="np"/><s n="top"/></l><r>ਬਾਰਬਾਡੋਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बेलारूस‌<s n="np"/><s n="top"/></l><r>ਬੇਲਾਰੂਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बेल्जिय‌म‌<s n="np"/><s n="top"/></l><r>ਬੈਲਜੀਅਮ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बेलीज़<s n="np"/><s n="top"/></l><r>ਬੇਲੀਜ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बेनिन‌<s n="np"/><s n="top"/></l><r>ਬੇਨਿਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ब‌र‌मुडा<s n="np"/><s n="top"/></l><r>ਬਰਮੁਡਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>भूटान‌<s n="np"/><s n="top"/></l><r>ਭੂਟਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बोलिविया<s n="np"/><s n="top"/></l><r>ਬੋਲੀਵੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बोस‌निया और‌ ह‌र्ज़ेगोविना<s n="np"/><s n="top"/></l><r>ਬੋਸਨੀਆ ਅਤੇ ਹਰਜ਼ੇਗੋਵਿਨਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बल्गारिया<s n="np"/><s n="top"/></l><r>ਬੁਲਗਾਰੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बुरुंडी<s n="np"/><s n="top"/></l><r>ਬੁਰੂੰਡੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कंबोडिया<s n="np"/><s n="top"/></l><r>ਕੰਬੋਡੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कैम‌रून‌<s n="np"/><s n="top"/></l><r>ਕੈਮਰੂਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>चाड‌<s n="np"/><s n="top"/></l><r>ਚਾਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>चिली<s n="np"/><s n="top"/></l><r>ਚਿਲੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कोलंबिया<s n="np"/><s n="top"/></l><r>ਕੋਲੰਬੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कोमोरोस‌<s n="np"/><s n="top"/></l><r>ਕੋਮੋਰੋਜ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कोस्टारीका<s n="np"/><s n="top"/></l><r>ਕੋਸਟਾਰੀਕਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>साइप्रस‌<s n="np"/><s n="top"/></l><r>ਸਾਈਪ੍ਰਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>डेन‌मार्क‌<s n="np"/><s n="top"/></l><r>ਡੈਨਮਾਰਕ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>जिबूती<s n="np"/><s n="top"/></l><r>ਜਾਇਬੂਟੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>डोमिनिका<s n="np"/><s n="top"/></l><r>ਡੋਮਿਨਿਕਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>एरिट्रिया<s n="np"/><s n="top"/></l><r>ਏਰੀਟਰੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ईथियोपिया<s n="np"/><s n="top"/></l><r>ਈਥੋਪੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फ़ीजी<s n="np"/><s n="top"/></l><r>ਫਿਜੀਅਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गाबों<s n="np"/><s n="top"/></l><r>ਗੈਬਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गाम्बिया<s n="np"/><s n="top"/></l><r>ਗੈਂਬੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>जिब्रॉल्टर‌<s n="np"/><s n="top"/></l><r>ਜਿਬਰਾਲਟਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ग्रेनाडा<s n="np"/><s n="top"/></l><r>ਗ੍ਰੇਨਾਡਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ग्वादलूप‌<s n="np"/><s n="top"/></l><r>ਗੁਆਡਾਲੂਪ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ग्वाम<s n="np"/><s n="top"/></l><r>ਗੁਆਮ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ग्वातेमाला<s n="np"/><s n="top"/></l><r>ਗੁਆਟੇਮਾਲਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गिनी<s n="np"/><s n="top"/></l><r>ਗਿੰਨੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गिनी बीसो<s n="np"/><s n="top"/></l><r>ਗਿੰਨੀ ਬੇਸੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ग‌याना<s n="np"/><s n="top"/></l><r>ਗੁਆਨਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>हाईती<s n="np"/><s n="top"/></l><r>ਹੈਤੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>होंदूरास‌<s n="np"/><s n="top"/></l><r>ਹੌਂਡੂਰਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>हाँग‌ काँग‌<s n="np"/><s n="top"/></l><r>ਹੋੰਗਕੋੰਗ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>हंग‌री<s n="np"/><s n="top"/></l><r>ਹੰਗਰੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>इस्राईल‌<s n="np"/><s n="top"/></l><r>ਇਜ਼ਰਾਈਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>इट‌ली<s n="np"/><s n="top"/></l><r>ਇਤਾਲਵੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>जमाइका<s n="np"/><s n="top"/></l><r>ਜਮਾਏਕਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>जोर्ड‌न‌<s n="np"/><s n="top"/></l><r>ਜਾਰਡਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>क‌ज़ाक‌स्तान‌<s n="np"/><s n="top"/></l><r>ਕਜ਼ਾਕਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कीनिया<s n="np"/><s n="top"/></l><r>ਕੀਨੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>किरिबास<s n="np"/><s n="top"/></l><r>ਕਿਰੀਬਾਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कुवैत‌<s n="np"/><s n="top"/></l><r>ਕੁਵੈਤ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>किर्गिज‌़स्तान‌<s n="np"/><s n="top"/></l><r>ਕਿਰਗਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लातविया<s n="np"/><s n="top"/></l><r>ਲਾਤਵੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लेब‌नान‌<s n="np"/><s n="top"/></l><r>ਲੇਬਨਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लेसुटू<s n="np"/><s n="top"/></l><r>ਲਸੂਤੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लाइबीरिया<s n="np"/><s n="top"/></l><r>ਲਾਇਬੇਰੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लीक्टेनस्टाइन<s n="np"/><s n="top"/></l><r>ਲਿਚਟੇਨਸਟਾਈਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लिथुआनिया<s n="np"/><s n="top"/></l><r>ਲਿਥੁਆਨੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ल‌ग्ज़मबर्ग‌<s n="np"/><s n="top"/></l><r>ਲਕਸਮਬਰਗ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>म‌काऊ<s n="np"/><s n="top"/></l><r>ਮਕਾਉ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मैडागास्क‌र‌<s n="np"/><s n="top"/></l><r>ਮੈਡਾਗਾਸਕਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>म‌लावी<s n="np"/><s n="top"/></l><r>ਮਾਲਾਵੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>माल‌दीव‌<s n="np"/><s n="top"/></l><r>ਮਾਲਦੀਵ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>माली<s n="np"/><s n="top"/></l><r>ਮਾਲੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>माल्टा<s n="np"/><s n="top"/></l><r>ਮਾਲਟਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मार्टीनीक‌<s n="np"/><s n="top"/></l><r>ਮਾਰਟਿਨਿਕ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मोरीतानिया<s n="np"/><s n="top"/></l><r>ਮੌਰੀਟਾਨੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मोरिशिय‌स‌<s n="np"/><s n="top"/></l><r>ਮਾਰੀਸ਼ਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मायोत‌<s n="np"/><s n="top"/></l><r>ਮੇਯੋਟ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मैक्सिको<s n="np"/><s n="top"/></l><r>ਮੈਕਸੀਕੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मोनाको<s n="np"/><s n="top"/></l><r>ਮੋਨੈਕੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मंगोलिया<s n="np"/><s n="top"/></l><r>ਮੰਗੋਲੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मोंत‌सेरात‌<s n="np"/><s n="top"/></l><r>ਮਾਂਟਸੇਰੇਟ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मोर‌क्को<s n="np"/><s n="top"/></l><r>ਮੋਰੋਕੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मोजा़म्बीक‌<s n="np"/><s n="top"/></l><r>ਮੋਜ਼ਾਮਬੀਕ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>म्यांमार‌<s n="np"/><s n="top"/></l><r>ਮਿਆਂਮਾਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नामीबिया<s n="np"/><s n="top"/></l><r>ਨਾਮੀਬੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नाउरू<s n="np"/><s n="top"/></l><r>ਨੌਰੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नेपाल‌<s n="np"/><s n="top"/></l><r>ਨੇਪਾਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नीकाराग्वा<s n="np"/><s n="top"/></l><r>ਨਿਕਾਰਾਗੁਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नीजेर<s n="np"/><s n="top"/></l><r>ਨੇਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नाइजीरिया<s n="np"/><s n="top"/></l><r>ਨਾਈਜੀਰੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>निउए<s n="np"/><s n="top"/></l><r>ਨੀਯੁ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नॉर्वे<s n="np"/><s n="top"/></l><r>ਨਾਰਵੇ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ओमान‌<s n="np"/><s n="top"/></l><r>ਓਮਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पालाऊ<s n="np"/><s n="top"/></l><r>ਪਲਾਉ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पानामा<s n="np"/><s n="top"/></l><r>ਪਨਾਮਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पाराग्वे<s n="np"/><s n="top"/></l><r>ਪੈਰਾਗੁਏ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फ़िलीपीन‌<s n="np"/><s n="top"/></l><r>ਫਿਲੀਪੀਨਜ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पिट‌कैर्न‌<s n="np"/><s n="top"/></l><r>ਪਿਟਕੇਰਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पुर्त‌गाल‌<s n="np"/><s n="top"/></l><r>ਪੁਰਤਗਾਲੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>क‌त‌र‌<s n="np"/><s n="top"/></l><r>ਕਤਾਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>रीयूनिय‌न‌<s n="np"/><s n="top"/></l><r>ਰੀਯੂਨੀਅਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>रुमानिया<s n="np"/><s n="top"/></l><r>ਰੁਮਾਨੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>रवांडा<s n="np"/><s n="top"/></l><r>ਰਵਾਂਡਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सैमोआ<s n="np"/><s n="top"/></l><r>ਸਮੋਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सेनेग‌ाल‌<s n="np"/><s n="top"/></l><r>ਸੇਨੇਗਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सेशेल्स‌<s n="np"/><s n="top"/></l><r>ਸੇਚੇਲਜ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सिंगापुर‌<s n="np"/><s n="top"/></l><r>ਸਿੰਗਾਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>स्लोवेनिया<s n="np"/><s n="top"/></l><r>ਸਲੋਵੇਨੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>स्पेन‌<s n="np"/><s n="top"/></l><r>ਸਪੇਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सुदान<s n="np"/><s n="top"/></l><r>ਸੁਡਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सूरीनाम‌<s n="np"/><s n="top"/></l><r>ਸੂਰੀਨਾਮ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>स्वीड‌न‌<s n="np"/><s n="top"/></l><r>ਸਵੀਡਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ताईवान‌<s n="np"/><s n="top"/></l><r>ਤਾਈਵਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ताजीकिस्तान‌<s n="np"/><s n="top"/></l><r>ਤਾਜਿਕਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>तीमोर‌<s n="np"/><s n="top"/></l><r>ਤਿਮੋਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>टोगो<s n="np"/><s n="top"/></l><r>ਟੋਗੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>टोक‌लाऊ<s n="np"/><s n="top"/></l><r>ਟੋਕੇਲਾਓ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>तुर्क‌मेनिस्तान‌<s n="np"/><s n="top"/></l><r>ਤੁਰਕਮੇਨਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>तुवालू<s n="np"/><s n="top"/></l><r>ਤੁਵਾਲੁ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>युगांडा<s n="np"/><s n="top"/></l><r>ਯੂਗਾਂਡਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>यूक्रेन‌<s n="np"/><s n="top"/></l><r>ਯੂਕ੍ਰੇਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>इंगलैंड<s n="np"/><s n="top"/></l><r>ਇੰਗਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>उरुग्वाय<s n="np"/><s n="top"/></l><r>ਉਰੂਗਵੇ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>उज़्बेकिस्तान‌<s n="np"/><s n="top"/></l><r>ਉਜ਼ਬੇਕਿਸਤਾਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>वानुआतु<s n="np"/><s n="top"/></l><r>ਵੈਨੂਆਟੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>वेनेज़्वेला<s n="np"/><s n="top"/></l><r>ਵੈਨਜ਼ੂਏਲਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>विय‌त‌नाम‌<s n="np"/><s n="top"/></l><r>ਵੀਅਤਨਾਮ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>य‌म‌न‌<s n="np"/><s n="top"/></l><r>ਯਮਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ज़ाम्बीया<s n="np"/><s n="top"/></l><r>ਜ਼ੈਂਬੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ज़िम्बाब्वे<s n="np"/><s n="top"/></l><r>ਜ਼ਿੰਬਾਬਵੇ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>दिसपुर<s n="np"/><s n="top"/></l><r>ਡਿਸਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बिहार<s n="np"/><s n="top"/></l><r>ਬਿਹਾਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पटना<s n="np"/><s n="top"/></l><r>ਪਟਨਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>छत्तीसगढ़<s n="np"/><s n="top"/></l><r>ਛੱਤੀਸਗੜ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>रायपुर<s n="np"/><s n="top"/></l><r>ਰਾਏਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गोआ<s n="np"/><s n="top"/></l><r>ਗੋਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पणजी<s n="np"/><s n="top"/></l><r>ਪਣਜੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गांधीनगर<s n="np"/><s n="top"/></l><r>ਗਾਂਧੀਨਗਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>झारखंड<s n="np"/><s n="top"/></l><r>ਝਾਰਖੰਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>रांची<s n="np"/><s n="top"/></l><r>ਰਾਂਚੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बैंगलोर<s n="np"/><s n="top"/></l><r>ਬੰਗਲੌਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>केरल<s n="np"/><s n="top"/></l><r>ਕੇਰਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>तिरुवनंतपुरम<s n="np"/><s n="top"/></l><r>ਤਿਰੂਵਨੰਤਪੁਰਮ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>उत्तराखण्ड<s n="np"/><s n="top"/></l><r>ਉਤਰਾਖੰਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>भोपाल<s n="np"/><s n="top"/></l><r>ਭੋਪਾਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मुम्बई<s n="np"/><s n="top"/></l><r>ਮੁੰਬਈ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मणिपुर<s n="np"/><s n="top"/></l><r>ਮਨੀਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>इम्फाल<s n="np"/><s n="top"/></l><r>ਇੰਫਾਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मेघालय<s n="np"/><s n="top"/></l><r>ਮੇਘਾਲਿਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>शिलांग<s n="np"/><s n="top"/></l><r>ਸ਼ਿਲਾਂਗ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मिज़ोरम<s n="np"/><s n="top"/></l><r>ਮਿਜ਼ੋਰਮ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कोहिमा<s n="np"/><s n="top"/></l><r>ਕੋਹਿਮਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>उड़ीसा<s n="np"/><s n="top"/></l><r>ਉੜੀਸਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>भुवनेश्वर<s n="np"/><s n="top"/></l><r>ਭੁਵਨੇਸ਼ਵਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>जयपुर<s n="np"/><s n="top"/></l><r>ਜੈਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सिक्किम<s n="np"/><s n="top"/></l><r>ਸਿੱਕਮ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गंगटोक<s n="np"/><s n="top"/></l><r>ਗੰਗਟੋਕ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>तमिलनाडु<s n="np"/><s n="top"/></l><r>ਤਾਮਿਲਨਾਡੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>चेन्नई<s n="np"/><s n="top"/></l><r>ਚੇਨਈ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>त्रिपुरा<s n="np"/><s n="top"/></l><r>ਤ੍ਰਿਪੁਰਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अगरतला<s n="np"/><s n="top"/></l><r>ਅਗਰਤਲਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>उत्तरांचल<s n="np"/><s n="top"/></l><r>ਉੱਤਰਾਂਚਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>देहरादून<s n="np"/><s n="top"/></l><r>ਦੇਹਰਾਦੂਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लखनऊ<s n="np"/><s n="top"/></l><r>ਲਖਨਊ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सिल्वासा<s n="np"/><s n="top"/></l><r>ਸਿਲਵਾਸਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>दमन<s n="np"/><s n="top"/></l><r>ਦਮਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>इलाहाबाद<s n="np"/><s n="top"/></l><r>ਇਲਾਹਾਬਾਦ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>आगरा<s n="np"/><s n="top"/></l><r>ਆਗਰਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अलीगढ़<s n="np"/><s n="top"/></l><r>ਅਲੀਗੜ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>भागलपुर<s n="np"/><s n="top"/></l><r>ਭਾਗਲਪੁਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फर्रुखाबाद<s n="np"/><s n="top"/></l><r>ਫਰੂਖਾਬਾਦ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बेगूसराय<s n="np"/><s n="top"/></l><r>ਬੇਗੁਸਾਰੈ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कोइल<s n="np"/><s n="top"/></l><r>ਤਾਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लक्षद्वीप<s n="np"/><s n="top"/></l><r>ਲਕਸ਼ਦਵੀਪ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कवरेटी<s n="np"/><s n="top"/></l><r>ਕਵਿਤਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पॉन्डीचैरी<s n="np"/><s n="top"/></l><r>ਪਾਂਡਿਚਰੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फ़रवरी<s n="np"/><s n="top"/></l><r>ਫਰਵਰੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अप्रेल<s n="np"/><s n="top"/></l><r>ਅਪ੍ਰੈਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लो<s n="np"/><s n="top"/></l><r>ਲਓ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कैलिस्टो<s n="np"/><s n="top"/></l><r>ਕਾਲਿਸਟੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>गेनीमेड<s n="np"/><s n="top"/></l><r>ਗੈਨੀਮੇਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बुख़ारा<s n="np"/><s n="top"/></l><r>ਬੁਖਾਰਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नीकोपॉलिस<s n="np"/><s n="top"/></l><r>ਨੇਕੋਪੋਲਿਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मोहाच<s n="np"/><s n="top"/></l><r>ਮੋਹਚ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बोत्स्वाना<s n="np"/><s n="top"/></l><r>ਬੋਤਸਵਾਨਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बूवे द्वीप‌<s n="np"/><s n="top"/></l><r>ਬੋਵ ਆਈਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ब्रूनई दारुस्सलाम‌<s n="np"/><s n="top"/></l><r>ਬ੍ਰੂਨੇਈ ਦਾਰੂਸਲਮ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>म‌ध्य‌ अफ़्रीकी ग‌ण‌राज्य‌<s n="np"/><s n="top"/></l><r>ਮੱਧ ਅਫਰੀਕੀ ਗਣਤੰਤਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>कुक‌ द्वीप‌<s n="np"/><s n="top"/></l><r>ਕੁੱਕ ਆਈਲੈਂਡਜ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>केमैन‌ द्वीप‌<s n="np"/><s n="top"/></l><r>ਕੇਮੈਨ ਆਈਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>केप‌ व‌र्द<s n="np"/><s n="top"/></l><r>ਕੇਪ ਵਰੱਦ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>चेक‌ ग‌ण‌राज्य‌<s n="np"/><s n="top"/></l><r>ਚੇਕ ਗਣਤੰਤਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>डोमिनिक‌न‌ ग‌ण‌राज्य‌<s n="np"/><s n="top"/></l><r>ਡੋਮਿਨਿੱਕ ਰਿਪਬਲਿਕ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>इक्वटोरियल गिनी<s n="np"/><s n="top"/></l><r>ਇਕੂਟੇਰੀਅਲ ਗਿੰਨੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>आइव‌री कोस्ट‌<s n="np"/><s n="top"/></l><r>ਆਈਵਰੀ ਕੋਸਟ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>क्रिस‌म‌स‌ द्वीप‌<s n="np"/><s n="top"/></l><r>ਕ੍ਰਿਸਮਸ ਆਈਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>द‌क्षिणी फ़्राँसीसी क्षेत्र<s n="np"/><s n="top"/></l><r>ਦੱਖਣੀ ਫ੍ਰੈਂਚ ਖੇਤਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फ़्राँसीसी पॉलिनेशिया<s n="np"/><s n="top"/></l><r>ਫਰੈਂਚ ਪੋਲੀਸਨੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>एल‌ साल्वादोर<s n="np"/><s n="top"/></l><r>ਐਲ ਸਾਲਵਾਡੋਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फ़्राँसीसी ग‌याना<s n="np"/><s n="top"/></l><r>ਫ੍ਰੈਂਚ ਗਿਆਨਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फ़ारोअ द्वीप‌<s n="np"/><s n="top"/></l><r>ਫੈਰੋ ਟਾਪੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बुर्कीना फ़ासो<s n="np"/><s n="top"/></l><r>ਬੁਰਕੀਨਾ ਫਾਸੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>लिबियाई अर‌ब‌ ज‌माहीरिया<s n="np"/><s n="top"/></l><r>ਲੀਬੀਆ ਅਰਬ ਜਮਹਿਰੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मार्श‌ल‌ द्वीप‌<s n="np"/><s n="top"/></l><r>ਮਾਰਸ਼ਲ ਟਾਪੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नेद‌र‌लैंड‌ आंतील्स‌<s n="np"/><s n="top"/></l><r>ਨੀਦਰਲੈਂਡਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>न्यू कैलडोनिया<s n="np"/><s n="top"/></l><r>ਨਿਊ ਕੈਲੇਡੋਨੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>नॉर‌फ़ोक‌ द्वीप‌<s n="np"/><s n="top"/></l><r>ਨਾਰਫੋਕ ਆਈਲੈਂਡ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>उत्त‌री मारिआना द्वीप‌<s n="np"/><s n="top"/></l><r>ਉੱਤਰੀ ਮਾਰੀਆਨਾ ਟਾਪੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>फ़िलीस्तीनी क्षेत्र<s n="np"/><s n="top"/></l><r>ਫਲਸਤੀਨੀ ਪ੍ਰਦੇਸ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>प्वेर्तो रीको<s n="np"/><s n="top"/></l><r>ਪੋਰਟੋ ਰੀਕੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>रूसी संघ‌<s n="np"/><s n="top"/></l><r>ਰਸ਼ੀਅਨ ਫੈਡਰੇਸ਼ਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सेंट हेलेना<s n="np"/><s n="top"/></l><r>ਸੰਤ ਹੇਲੇਨਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सेंट‌ लुसिया<s n="np"/><s n="top"/></l><r>ਸੇਂਟ ਲੂਸੀਆ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सान‌ मारीनो<s n="np"/><s n="top"/></l><r>ਸੈਨ ਮਰੀਨੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>स‌ऊदी अर‌ब‌<s n="np"/><s n="top"/></l><r>ਸਾਉਦੀ ਅਰਬ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>स‌र्बिया और‌ मोंटेनीग्रो<s n="np"/><s n="top"/></l><r>ਸਰਬੀਆ ਅਤੇ ਮੋਂਟੇਨੇਗਰੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सियेरा लियोन‌<s n="np"/><s n="top"/></l><r>ਸੀਅਰਾ ਲਿਓਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सोलोम‌न‌ द्वीप‌<s n="np"/><s n="top"/></l><r>ਸੁਲੇਮਾਨ ਆਈਲੈਂਡਜ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>द‌क्षिण‌ अफ़्रीका<s n="np"/><s n="top"/></l><r>ਦੱਖਣੀ ਅਫਰੀਕਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सीरियाई अर‌ब‌ ग‌ण‌राज्य‌<s n="np"/><s n="top"/></l><r>ਸੀਰੀਅਨ ਅਰਬ ਗਣਰਾਜ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ट्रिनिडाड‌ और‌ टोबोगो<s n="np"/><s n="top"/></l><r>ਤ੍ਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੋਗੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>संयुक्त‌ अर‌ब‌ अमीरात‌<s n="np"/><s n="top"/></l><r>ਸੰਯੂਕਤ ਅਰਬ ਅਮੀਰਾਤ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>संयुक्त‌ राज्य‌ अम‌रीका<s n="np"/><s n="top"/></l><r>ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>वैटिक‌न‌ सिटी राज्य‌<s n="np"/><s n="top"/></l><r>ਵੈਟੀਕਨ ਸਿਟੀ ਸਟੇਟਸ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>प‌श्चिमी स‌हारा<s n="np"/><s n="top"/></l><r>ਪੱਛਮੀ ਸਹਾਰਾ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>हिमाचल प्रदेश<s n="np"/><s n="top"/></l><r>ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>जम्मू एण्ड कश्मीर<s n="np"/><s n="top"/></l><r>ਜੰਮੂ ਕਸ਼ਮੀਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>श्रीनगर और जम्मू<s n="np"/><s n="top"/></l><r>ਸ੍ਰੀਨਗਰ ਅਤੇ ਜੰਮੂ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>आंध्र प्रदेश<s n="np"/><s n="top"/></l><r>ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>अरुणाचल प्रदेश<s n="np"/><s n="top"/></l><r>ਅਰੁਣਾਚਲ ਪ੍ਰਦੇਸ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>मध्य प्रदेश<s n="np"/><s n="top"/></l><r>ਮੱਧ ਪ੍ਰਦੇਸ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>दमन और दीव<s n="np"/><s n="top"/></l><r>ਦਮਨ ਅਤੇ ਦਿਉ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>उत्तर प्रदेश<s n="np"/><s n="top"/></l><r>ਉੱਤਰ ਪ੍ਰਦੇਸ਼<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पश्चिम बंगाल<s n="np"/><s n="top"/></l><r>ਪੱਛਮੀ ਬੰਗਾਲ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ग्रेटर लंदन<s n="np"/><s n="top"/></l><r>ਗ੍ਰੇਟਰ ਲੰਡਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>बुर्किना फासो<s n="np"/><s n="top"/></l><r>ਬੁਰਕੀਨਾ ਫਾਸੋ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>प्रशान्त महासागर<s n="np"/><s n="top"/></l><r>ਪ੍ਰਸ਼ਾਂਤ ਮਹਾਸਾਗਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>पोर्ट ब्लैर<s n="np"/><s n="top"/></l><r>ਪੋਰਟ ਬਲੇਅਰ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>ग्रेट ब्रिटेन<s n="np"/><s n="top"/></l><r>ਗ੍ਰੇਟ ਬ੍ਰਿਟੇਨ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सिन्धु घाटी<s n="np"/><s n="top"/></l><r>ਸਿੰਧ ਘਾਟੀ<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>सेन्ट-करोसटोफ़े<s n="np"/><s n="top"/></l><r>ਸੇਂਟ-ਕਰੋਸਟੋਫ<s n="np"/><s n="top"/></r></p></e>
+
     <e c="gUgala"><p><l>गूगल<s n="np"/><s n="org"/></l><r>ਗੂਗਲ<s n="np"/><s n="org"/></r></p></e>
     <e c="vikipIdiyA"><p><l>विकिपीडिया<s n="np"/><s n="org"/></l><r>ਵਿਕੀਪੀਡੀਆ<s n="np"/><s n="org"/></r></p></e>
+
     <e c="akabara"><p><l>अकबर<s n="np"/><s n="ant"/><s n="m"/></l><r>ਅਕਬਰ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="akarama"><p><l>अकरम<s n="np"/><s n="ant"/><s n="m"/></l><r>ਅਕਰਮ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e c="aKila"><p><l>अखिल<s n="np"/><s n="ant"/><s n="m"/></l><r>ਅਖਿਲ<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -12156,6 +12519,19 @@
     <e c="slima"><p><l>स्लिम<s n="np"/><s n="cog"/></l><r>ਸ੍ਲਿਮ<s n="np"/><s n="cog"/></r></p></e>
     <e c="hitalara"><p><l>हिटलर<s n="np"/><s n="cog"/></l><r>ਹਿਟਲਰ<s n="np"/><s n="cog"/></r></p></e>
     <e c="homsa"><p><l>होम्स<s n="np"/><s n="cog"/></l><r>ਹੋਮ੍ਸ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="nyUTan"><p><l>न्यूटन<s n="np"/><s n="cog"/></l><r>ਨਿਊਟਨ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="plEnk"><p><l>प्लैंक<s n="np"/><s n="cog"/></l><r>ਪਲੈਂਕ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="SarmA"><p><l>शर्मा<s n="np"/><s n="cog"/></l><r>ਸ਼ਰਮਾ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="sanXU"><p><l>संधू<s n="np"/><s n="cog"/></l><r>ਸੰਧੂ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="mEkswel"><p><l>मैक्सवेल<s n="np"/><s n="cog"/></l><r>ਮੈਕਸਵੈੱਲ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="swArzCilaD"><p><l>स्च्वार्ज़स्चिल्ड<s n="np"/><s n="cog"/></l><r>ਸ਼ਵਾਰਜ਼ਚਿਲਡ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="nEhrU"><p><l>नेहरू<s n="np"/><s n="cog"/></l><r>ਨਹਿਰੂ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="rAv"><p><l>राव<s n="np"/><s n="cog"/></l><r>ਰਾਓ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="gil"><p><l>गिल<s n="np"/><s n="cog"/></l><r>ਗਿੱਲ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="nobal"><p><l>नोबल<s n="np"/><s n="cog"/></l><r>ਨੋਬਲ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="xohAn"><p><l>दोहान<s n="np"/><s n="cog"/></l><r>ਦੋਹਾਂ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="minkovskI"><p><l>मिंकोवस्की<s n="np"/><s n="cog"/></l><r>ਮਿੰਕੋਵਸਕੀ<s n="np"/><s n="cog"/></r></p></e>
+    <e c="bedI"><p><l>बेदी<s n="np"/><s n="cog"/></l><r>ਬੇਦੀ<s n="np"/><s n="cog"/></r></p></e>
 
     <e c="uwar" w="0.0"><p><l>उत्तर<s n="np"/><s n="al"/></l><r>ਉੱਤਰ<s n="np"/><s n="al"/></r></p></e>
     <e c="uwar" w="1.0"><p><l>उत्तर<s n="np"/><s n="al"/></l><r>ਉਤ੍ਤਰ<s n="np"/><s n="al"/></r></p></e>
@@ -15486,6 +15862,251 @@
     <e c="lambI"><p><l>अवस्थित<s n="adj"/></l><r>ਮੌਜੂਦ<s n="adj"/></r></p></e>
     <e c="sAmundrik"><p><l>सामुद्रिक<s n="adj"/></l><r>ਸਮੁੰਦਰੀ<s n="adj"/></r></p></e>
     <e c="pUravvarwI"><p><l>पूर्ववर्ती<s n="adj"/></l><r>ਪੂਰਵ ਮੌਜੂਦ<s n="adj"/></r></p></e>
+    <e><p><l>रेड<s n="adj"/></l><r>ਲਾਲ<s n="adj"/></r></p></e>
+    <e><p><l>माफ़<s n="adj"/></l><r>ਮਾਫ<s n="adj"/></r></p></e>
+    <e><p><l>तनहा<s n="adj"/></l><r>ਇਕੱਲਾ<s n="adj"/></r></p></e>
+    <e><p><l>भाषांतरित<s n="adj"/></l><r>ਅਨੁਵਾਦ<s n="adj"/></r></p></e>
+    <e><p><l>पसंदी<s n="adj"/></l><r>ਮਨਪਸੰਦ<s n="adj"/></r></p></e>
+    <e><p><l>खेज़<s n="adj"/></l><r>ਖ਼ਜ਼ਾਨਾ<s n="adj"/></r></p></e>
+    <e><p><l>स्वायत्त<s n="adj"/></l><r>ਖੁਦਮੁਖਤਿਆਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>ज़ब्त<s n="adj"/></l><r>ਜ਼ਬਤ<s n="adj"/></r></p></e>
+    <e><p><l>पाबन्द<s n="adj"/></l><r>ਪਾਬੰਦ<s n="adj"/></r></p></e>
+    <e><p><l>कॉम्बैट<s n="adj"/></l><r>ਲੜਾਈ<s n="adj"/></r></p></e>
+    <e><p><l>साढ़े<s n="adj"/></l><r>ਡੇਢ<s n="adj"/></r></p></e>
+    <e><p><l>सुप्रीम<s n="adj"/></l><r>ਸੁਪਰੀਮ<s n="adj"/></r></p></e>
+    <e><p><l>साइलीशियन<s n="adj"/></l><r>ਸਿਲੀਸ਼ੀਅਨ<s n="adj"/></r></p></e>
+    <e><p><l>पुरातत्व<s n="adj"/></l><r>ਪੁਰਾਤੱਤਵ<s n="adj"/></r></p></e>
+    <e><p><l>व्युपत्रित<s n="adj"/></l><r>ਦਰਸਾਇਆ ਗਿਆ<s n="adj"/></r></p></e>
+    <e><p><l>हेली<s n="adj"/></l><r>ਹੈਲੀ<s n="adj"/></r></p></e>
+    <e><p><l>बरपा<s n="adj"/></l><r>ਬੁਰਪਾ<s n="adj"/></r></p></e>
+    <e><p><l>वर्षीय<s n="adj"/></l><r>ਵਰਸ਼ੀ<s n="adj"/></r></p></e>
+    <e><p><l>ऑल<s n="adj"/></l><r>ਸਾਰੇ<s n="adj"/></r></p></e>
+    <e><p><l>खासी<s n="adj"/></l><r>ਖੰਘ<s n="adj"/></r></p></e>
+    <e><p><l>लोअर<s n="adj"/></l><r>ਨੀਵਾਂ<s n="adj"/></r></p></e>
+    <e><p><l>सिपुर्द<s n="adj"/></l><r>ਸਿਪਾਰਡ<s n="adj"/></r></p></e>
+    <e><p><l>अन्वेषणशील<s n="adj"/></l><r>ਜਾਂਚ ਕਰਨ ਵਾਲਾ<s n="adj"/></r></p></e>
+    <e><p><l>उमवी<s n="adj"/></l><r>ਉਮਵੀ<s n="adj"/></r></p></e>
+    <e><p><l>मार्गदर्शी<s n="adj"/></l><r>ਗਾਈਡ<s n="adj"/></r></p></e>
+    <e><p><l>घोषणात्मक<s n="adj"/></l><r>ਘੋਸ਼ਣਾਕਾਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>आपसी<s n="adj"/></l><r>ਆਪਸੀ<s n="adj"/></r></p></e>
+    <e><p><l>करुणाशील<s n="adj"/></l><r>ਦਇਆਵਾਨ<s n="adj"/></r></p></e>
+    <e><p><l>सहचर<s n="adj"/></l><r>ਸਾਥੀ<s n="adj"/></r></p></e>
+    <e><p><l>दख्खन<s n="adj"/></l><r>ਸੈਕਿੰਡੈਂਟ<s n="adj"/></r></p></e>
+    <e><p><l>तटीय<s n="adj"/></l><r>ਸਮੁੰਦਰੀ ਤੱਟ<s n="adj"/></r></p></e>
+    <e><p><l>दफन<s n="adj"/></l><r>ਦਫਨ<s n="adj"/></r></p></e>
+    <e><p><l>दफ़न<s n="adj"/></l><r>ਦਫਨ<s n="adj"/></r></p></e>
+    <e><p><l>लाज़िमी<s n="adj"/></l><r>ਜ਼ਰੂਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>खुशक<s n="adj"/></l><r>ਖੁਸ਼<s n="adj"/></r></p></e>
+    <e><p><l>सैकड़ों<s n="adj"/></l><r>ਸੈਂਕੜੇ<s n="adj"/></r></p></e>
+    <e><p><l>सुनियोजित<s n="adj"/></l><r>ਚੰਗੀ ਯੋਜਨਾਬੱਧ<s n="adj"/></r></p></e>
+    <e><p><l>नवाज़ा<s n="adj"/></l><r>ਮੰਨਿਆ ਗਿਆ<s n="adj"/></r></p></e>
+    <e><p><l>ऐन<s n="adj"/></l><r>ਐਨ<s n="adj"/></r></p></e>
+    <e><p><l>आख़िरी<s n="adj"/></l><r>ਆਖਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>बाएँ<s n="adj"/></l><r>ਖੱਬੇ<s n="adj"/></r></p></e>
+    <e><p><l>बुख़ारी<s n="adj"/></l><r>ਬੁਖ਼ਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>गुल<s n="adj"/></l><r>ਗੁਲ<s n="adj"/></r></p></e>
+    <e><p><l>रूरल<s n="adj"/></l><r>ਪੇਂਡੂ<s n="adj"/></r></p></e>
+    <e><p><l>वेस्ट<s n="adj"/></l><r>ਵੈਸਟ<s n="adj"/></r></p></e>
+    <e><p><l>दफ़ा<s n="adj"/></l><r>ਇਕ ਵਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>सिरी<s n="adj"/></l><r>ਸਿਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>सुर्ख<s n="adj"/></l><r>ਗੰਧਲਾ<s n="adj"/></r></p></e>
+    <e><p><l>शील<s n="adj"/></l><r>ਨਿਮਰਤਾ<s n="adj"/></r></p></e>
+    <e><p><l>मज़बूत<s n="adj"/></l><r>ਮਜ਼ਬੂਤ<s n="adj"/></r></p></e>
+    <e><p><l>तय<s n="adj"/></l><r>ਫੈਸਲਾ ਕਰੋ<s n="adj"/></r></p></e>
+    <e><p><l>बाकायदा<s n="adj"/></l><r>ਜ਼ਰੂਰ<s n="adj"/></r></p></e>
+    <e><p><l>ज़ेली<s n="adj"/></l><r>ਜ਼ੇਲੀ<s n="adj"/></r></p></e>
+    <e><p><l>गिरफ़्तार<s n="adj"/></l><r>ਗਿਰਫਤਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>गिरफ्तार<s n="adj"/></l><r>ਗਿਰਫਤਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>उस्मानी<s n="adj"/></l><r>ਉਸਮਾਨਿ<s n="adj"/></r></p></e>
+    <e><p><l>सउदी<s n="adj"/></l><r>ਸਾਉਦੀ<s n="adj"/></r></p></e>
+    <e><p><l>महफ़ूज़<s n="adj"/></l><r>ਸੁਰੱਖਿਅਤ<s n="adj"/></r></p></e>
+    <e><p><l>शामी<s n="adj"/></l><r>ਸ਼ਾਮੀ<s n="adj"/></r></p></e>
+    <e><p><l>मातृक<s n="adj"/></l><r>ਮਾਂ<s n="adj"/></r></p></e>
+    <e><p><l>जैविक<s n="adj"/></l><r>ਜੈਵਿਕ<s n="adj"/></r></p></e>
+    <e><p><l>उमरी<s n="adj"/></l><r>ਉਮਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>मैनी<s n="adj"/></l><r>ਮੈਨੀ<s n="adj"/></r></p></e>
+    <e><p><l>मदनी<s n="adj"/></l><r>ਮਦਾਨੀ<s n="adj"/></r></p></e>
+    <e><p><l>नज़री<s n="adj"/></l><r>ਦ੍ਰਿਸ਼<s n="adj"/></r></p></e>
+    <e><p><l>ज़मीनी<s n="adj"/></l><r>ਜਮੀਨੀ<s n="adj"/></r></p></e>
+    <e><p><l>सलीबी<s n="adj"/></l><r>ਸੂਝਵਾਨ<s n="adj"/></r></p></e>
+    <e><p><l>नस्ली<s n="adj"/></l><r>ਨਸਲੀ<s n="adj"/></r></p></e>
+    <e><p><l>कबायली<s n="adj"/></l><r>ਕਬਾਇਲੀ<s n="adj"/></r></p></e>
+    <e><p><l>तेज़<s n="adj"/></l><r>ਤੇਜ਼<s n="adj"/></r></p></e>
+    <e><p><l>स्नेहशील<s n="adj"/></l><r>ਪਿਆਰਾ<s n="adj"/></r></p></e>
+    <e><p><l>हाली<s n="adj"/></l><r>ਹਾਲੀ<s n="adj"/></r></p></e>
+    <e><p><l>ज़हनी<s n="adj"/></l><r>ਜੀਭ<s n="adj"/></r></p></e>
+    <e><p><l>कुशी<s n="adj"/></l><r>ਕੁਸ਼ੀ<s n="adj"/></r></p></e>
+    <e><p><l>सदर<s n="adj"/></l><r>ਸਦਰ<s n="adj"/></r></p></e>
+    <e><p><l>नयेनये<s n="adj"/></l><r>ਨਵਾਂ<s n="adj"/></r></p></e>
+    <e><p><l>पीरी<s n="adj"/></l><r>ਪੀਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>कीली<s n="adj"/></l><r>ਕੀਲੀ<s n="adj"/></r></p></e>
+    <e><p><l>नैशनल<s n="adj"/></l><r>ਰਾਸ਼ਟਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>एकत्र<s n="adj"/></l><r>ਇਕੱਤਰ<s n="adj"/></r></p></e>
+    <e><p><l>करदा<s n="adj"/></l><r>ਕਰਾਡਾ<s n="adj"/></r></p></e>
+    <e><p><l>अन्तर्गत<s n="adj"/></l><r>ਅਧੀਨ<s n="adj"/></r></p></e>
+    <e><p><l>क़ाबू<s n="adj"/></l><r>ਨਿਯੰਤਰਣ<s n="adj"/></r></p></e>
+    <e><p><l>आफ़नदीसी<s n="adj"/></l><r>ਅਫਨਦੀਸੀ<s n="adj"/></r></p></e>
+    <e><p><l>आगासी<s n="adj"/></l><r>ਅਗਾਸੀ<s n="adj"/></r></p></e>
+    <e><p><l>परिहासमय<s n="adj"/></l><r>ਸਨਕੀ<s n="adj"/></r></p></e>
+    <e><p><l>आत्मरक्षक<s n="adj"/></l><r>ਸਵੈ-ਸਹਾਇਤਾ<s n="adj"/></r></p></e>
+    <e><p><l>परमाणुक<s n="adj"/></l><r>ਐਟੋਮਿਕ<s n="adj"/></r></p></e>
+    <e><p><l>लोकतान्त्रिक<s n="adj"/></l><r>ਲੋਕਤੰਤਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>सोवीयत<s n="adj"/></l><r>ਸੋਵੀਅਤ<s n="adj"/></r></p></e>
+    <e><p><l>समशीतोष्ण<s n="adj"/></l><r>ਤਪਸ਼<s n="adj"/></r></p></e>
+    <e><p><l>ग्रैन्ड<s n="adj"/></l><r>ਗ੍ਰੈਂਡ<s n="adj"/></r></p></e>
+    <e><p><l>सुपर<s n="adj"/></l><r>ਸੁਪਰ<s n="adj"/></r></p></e>
+    <e><p><l>खोर<s n="adj"/></l><r>ਖੋਰ<s n="adj"/></r></p></e>
+    <e><p><l>कोशिकीय<s n="adj"/></l><r>ਸੈਲੂਲਰ<s n="adj"/></r></p></e>
+    <e><p><l>सॉफ्ट<s n="adj"/></l><r>ਨਰਮ<s n="adj"/></r></p></e>
+    <e><p><l>सैंटी<s n="adj"/></l><r>ਸੈਂਟੀ<s n="adj"/></r></p></e>
+    <e><p><l>देहलवी<s n="adj"/></l><r>ਦੇਹਲਵੀ<s n="adj"/></r></p></e>
+    <e><p><l>उल्या<s n="adj"/></l><r>ਉਲਿਆ<s n="adj"/></r></p></e>
+    <e><p><l>विधिवत<s n="adj"/></l><r>ਵਿਧੀਵੱਧ<s n="adj"/></r></p></e>
+    <e><p><l>सीमान्त<s n="adj"/></l><r>ਹਾਸ਼ੀਏ ਦਾ<s n="adj"/></r></p></e>
+    <e><p><l>गिरामी<s n="adj"/></l><r>ਗਲਤ<s n="adj"/></r></p></e>
+    <e><p><l>असत्य प्रमाणित<s n="adj"/></l><r>ਝੂਠੇ ਪ੍ਰਮਾਣਿਤ<s n="adj"/></r></p></e>
+    <e><p><l>संचालित<s n="adj"/></l><r>ਸੰਚਾਲਿਤ<s n="adj"/></r></p></e>
+    <e><p><l>आंशिक<s n="adj"/></l><r>ਅੰਸ਼ਕ<s n="adj"/></r></p></e>
+    <e><p><l>शाकाहारी<s n="adj"/></l><r>ਸ਼ਾਕਾਹਾਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>अवतरित<s n="adj"/></l><r>ਉਤਰਿਆ<s n="adj"/></r></p></e>
+    <e><p><l>प्राचीनतम<s n="adj"/></l><r>ਪ੍ਰਾਚੀਨਤਮ<s n="adj"/></r></p></e>
+    <e><p><l>दायें<s n="adj"/></l><r>ਸੱਜੇ<s n="adj"/></r></p></e>
+    <e><p><l>ज्ञानवादी<s n="adj"/></l><r>ਗਿਆਨਵਾਨ<s n="adj"/></r></p></e>
+    <e><p><l>हस्तान्तरित<s n="adj"/></l><r>ਹਸਤਾਂਤ੍ਰਿਤ<s n="adj"/></r></p></e>
+    <e><p><l>न्यू<s n="adj"/></l><r>ਨਵਾਂ<s n="adj"/></r></p></e>
+    <e><p><l>सर्वप्रथम<s n="adj"/></l><r>ਸਭ ਤੋਂ ਪਹਿਲਾਂ<s n="adj"/></r></p></e>
+    <e><p><l>सम्बंधित<s n="adj"/></l><r>ਸੰਬੰਧਿਤ<s n="adj"/></r></p></e>
+    <e><p><l>प्रतिष्ठित<s n="adj"/></l><r>ਵੱਖਰਾ<s n="adj"/></r></p></e>
+    <e><p><l>बग़ैर<s n="adj"/></l><r>ਬਿਨਾ<s n="adj"/></r></p></e>
+    <e><p><l>पावन<s n="adj"/></l><r>ਪਵਿੱਤਰ<s n="adj"/></r></p></e>
+    <e><p><l>मज़हबी<s n="adj"/></l><r>ਧਰਮੀ<s n="adj"/></r></p></e>
+    <e><p><l>दाखिल<s n="adj"/></l><r>ਦਾਖਲ<s n="adj"/></r></p></e>
+    <e><p><l>चुनिन्दा<s n="adj"/></l><r>ਚੁਣਿੰਦਾ<s n="adj"/></r></p></e>
+    <e><p><l>जलनदार<s n="adj"/></l><r>ਈਰਖਾ<s n="adj"/></r></p></e>
+    <e><p><l>तुमनदार<s n="adj"/></l><r>ਤੁਸੀਂ<s n="adj"/></r></p></e>
+    <e><p><l>दागदार<s n="adj"/></l><r>ਦਾਗੀ<s n="adj"/></r></p></e>
+    <e><p><l>शाखदार<s n="adj"/></l><r>ਬ੍ਰਾਂਕੀ<s n="adj"/></r></p></e>
+    <e><p><l>मुफ़्तीदार<s n="adj"/></l><r>ਚੁੱਪ<s n="adj"/></r></p></e>
+    <e><p><l>चटखारेदार<s n="adj"/></l><r>ਸਵੱਛ<s n="adj"/></r></p></e>
+    <e><p><l>कारखानादार<s n="adj"/></l><r>ਫੈਕਟਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>ताल्लुकादार<s n="adj"/></l><r>ਜ਼ਿਮੀਂਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>दमदार<s n="adj"/></l><r>ਮਜ਼ਬੂਤ<s n="adj"/></r></p></e>
+    <e><p><l>किलादार<s n="adj"/></l><r>ਮਜ਼ਬੂਤ<s n="adj"/></r></p></e>
+    <e><p><l>नामदार<s n="adj"/></l><r>ਨਾਮਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>परतदार<s n="adj"/></l><r>ਕਮਜ਼ੋਰ<s n="adj"/></r></p></e>
+    <e><p><l>खारदार<s n="adj"/></l><r>ਖਰੜ<s n="adj"/></r></p></e>
+    <e><p><l>पेचदार<s n="adj"/></l><r>ਹੇਲਿਕਲ<s n="adj"/></r></p></e>
+    <e><p><l>पहरादार<s n="adj"/></l><r>ਚੌਕੀਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>छिछड़ेदार<s n="adj"/></l><r>ਗੰਧਲਾ<s n="adj"/></r></p></e>
+    <e><p><l>करारदार<s n="adj"/></l><r>ਠੇਕੇਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>नमूदार<s n="adj"/></l><r>ਧਿਆਨ ਦੇਣ ਯੋਗ<s n="adj"/></r></p></e>
+    <e><p><l>ज़िम्मादार<s n="adj"/></l><r>ਜ਼ਿੰਮੇਵਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>नोकदार<s n="adj"/></l><r>ਖੱਬੇ<s n="adj"/></r></p></e>
+    <e><p><l>चंटदार<s n="adj"/></l><r>ਚੁਸਤੀ<s n="adj"/></r></p></e>
+    <e><p><l>गांठदार<s n="adj"/></l><r>ਨੋਡੂਲਰ<s n="adj"/></r></p></e>
+    <e><p><l>वज़नदार<s n="adj"/></l><r>ਵਜ਼ਨ<s n="adj"/></r></p></e>
+    <e><p><l>खुद्दार<s n="adj"/></l><r>ਖੁਦਰ<s n="adj"/></r></p></e>
+    <e><p><l>सायादार<s n="adj"/></l><r>ਸ਼ੈਡੋ<s n="adj"/></r></p></e>
+    <e><p><l>खास्सादार<s n="adj"/></l><r>ਗੈਰਹਾਜ਼ਰ<s n="adj"/></r></p></e>
+    <e><p><l>खूंटीदार<s n="adj"/></l><r>ਪੈੱਗਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>छत्तेदार<s n="adj"/></l><r>ਛੱਤੇਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>धुआँदार<s n="adj"/></l><r>ਧੂੰਆਂਧਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>समायोजक<s n="adj"/></l><r>ਐਡਜੱਸਟਰ<s n="adj"/></r></p></e>
+    <e><p><l>मसालादार<s n="adj"/></l><r>ਮਸਾਲੇਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>गरजदार<s n="adj"/></l><r>ਗਰਜਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>सुराखदार<s n="adj"/></l><r>ਸੁਰਾਖਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>लैसदार<s n="adj"/></l><r>ਲੈਸਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>बहकदार<s n="adj"/></l><r>ਛਲਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>काज़मादार<s n="adj"/></l><r>ਕਾਜ਼ਮਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>सोलोदार<s n="adj"/></l><r>ਸੋਲੋਡਰ<s n="adj"/></r></p></e>
+    <e><p><l>सीढ़ीदार<s n="adj"/></l><r>ਛੱਤਿਆ ਹੋਇਆ<s n="adj"/></r></p></e>
+    <e><p><l>वक्रदार<s n="adj"/></l><r>ਕਰਵਡ<s n="adj"/></r></p></e>
+    <e><p><l>दुनियादार<s n="adj"/></l><r>ਦੁਨਿਆਵੀ<s n="adj"/></r></p></e>
+    <e><p><l>मंसबदार<s n="adj"/></l><r>ਪ੍ਰਬੰਧਿਤ<s n="adj"/></r></p></e>
+    <e><p><l>तरदार<s n="adj"/></l><r>ਤਰਲ<s n="adj"/></r></p></e>
+    <e><p><l>हड्डीदार<s n="adj"/></l><r>ਬੋਨੀ<s n="adj"/></r></p></e>
+    <e><p><l>खुरतूमदार<s n="adj"/></l><r>ਸਪੋਂਗੀ<s n="adj"/></r></p></e>
+    <e><p><l>काफ़ियादार<s n="adj"/></l><r>ਇਨਫਰਨੇਲ<s n="adj"/></r></p></e>
+    <e><p><l>इलायचीदार<s n="adj"/></l><r>ਇਲਾਇਚੀ<s n="adj"/></r></p></e>
+    <e><p><l>गज़दार<s n="adj"/></l><r>ਗਜ਼ਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>गिरीदार<s n="adj"/></l><r>ਕਰਨਲ<s n="adj"/></r></p></e>
+    <e><p><l>चाकदार<s n="adj"/></l><r>ਕਮਜ਼ੋਰ<s n="adj"/></r></p></e>
+    <e><p><l>जड़दार<s n="adj"/></l><r>ਜੜਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>इशारादार<s n="adj"/></l><r>ਇਸ਼ਾਰਾਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>कुब्बादार<s n="adj"/></l><r>ਕੁੰਬਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>मायदार<s n="adj"/></l><r>ਸਾਵਧਾਨ<s n="adj"/></r></p></e>
+    <e><p><l>कारखानेदार<s n="adj"/></l><r>ਕਾਰਖਾਨਾਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>जलादार<s n="adj"/></l><r>ਜਲਣਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>ऑलदार<s n="adj"/></l><r>ਓਲਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>रोबदार<s n="adj"/></l><r>ਰੋਬਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>मिज़ाजदार<s n="adj"/></l><r>ਮਿਜ਼ਾਜਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>खांचेदार<s n="adj"/></l><r>ਸਲੋਟਡ<s n="adj"/></r></p></e>
+    <e><p><l>कांटेदार<s n="adj"/></l><r>ਕੰਡੇਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>झाड़ीदार<s n="adj"/></l><r>ਝਾੜੀਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>किरायादार<s n="adj"/></l><r>ਕਿਰਾਏਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>बेलनदार<s n="adj"/></l><r>ਸਿਲੰਡਰ<s n="adj"/></r></p></e>
+    <e><p><l>श्वेताभ<s n="adj"/></l><r>ਚਿੱਟਾ<s n="adj"/></r></p></e>
+    <e><p><l>खुश्क<s n="adj"/></l><r>ਖੁਸ਼ਕ<s n="adj"/></r></p></e>
+    <e><p><l>मोहित<s n="adj"/></l><r>ਮੋਹਿਤ<s n="adj"/></r></p></e>
+    <e><p><l>फलदायक<s n="adj"/></l><r>ਫਲਦਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>अंतरतम<s n="adj"/></l><r>ਆਖਰਕਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>वाकिफ<s n="adj"/></l><r>ਜਾਗਰੂਕ<s n="adj"/></r></p></e>
+    <e><p><l>परमार्थी<s n="adj"/></l><r>ਪ੍ਰਮਾਰਥੀ<s n="adj"/></r></p></e>
+    <e><p><l>शोकसंतप्त<s n="adj"/></l><r>ਸਤਾਇਆ ਗਿਆ<s n="adj"/></r></p></e>
+    <e><p><l>शोख<s n="adj"/></l><r>ਸ਼ੋਖ<s n="adj"/></r></p></e>
+    <e><p><l>मौसिमी<s n="adj"/></l><r>ਮੌਸਮੀ<s n="adj"/></r></p></e>
+    <e><p><l>उभयचर<s n="adj"/></l><r>ਆਮਬੀਬੀਅਨ<s n="adj"/></r></p></e>
+    <e><p><l>जखमी<s n="adj"/></l><r>ਜਖਮੀ<s n="adj"/></r></p></e>
+    <e><p><l>आत्मनिष्ठ<s n="adj"/></l><r>ਵਿਅਕਤੀਗਤ<s n="adj"/></r></p></e>
+    <e><p><l>उपचारी<s n="adj"/></l><r>ਉਪਚਾਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>दलित<s n="adj"/></l><r>ਦਲਿਤ<s n="adj"/></r></p></e>
+    <e><p><l>साभिप्राय<s n="adj"/></l><r>ਜਾਣਬੁੱਝ ਕੇ<s n="adj"/></r></p></e>
+    <e><p><l>क्षम<s n="adj"/></l><r>ਕਾਬਲ<s n="adj"/></r></p></e>
+    <e><p><l>रोशन<s n="adj"/></l><r>ਰੋਸ਼ਨ<s n="adj"/></r></p></e>
+    <e><p><l>क्षणभंगुर<s n="adj"/></l><r>ਈਵੈਨਸੈਂਟ<s n="adj"/></r></p></e>
+    <e><p><l>निर्भीक<s n="adj"/></l><r>ਬੋਲਡ<s n="adj"/></r></p></e>
+    <e><p><l>उदीयमान<s n="adj"/></l><r>ਚੜ੍ਹਨਾ<s n="adj"/></r></p></e>
+    <e><p><l>घनीभूत<s n="adj"/></l><r>ਸੰਘਣੇ<s n="adj"/></r></p></e>
+    <e><p><l>असल<s n="adj"/></l><r>ਅਸਲ<s n="adj"/></r></p></e>
+    <e><p><l>वास्त<s n="adj"/></l><r>ਸਚਮੁਚ<s n="adj"/></r></p></e>
+    <e><p><l>टैली<s n="adj"/></l><r>ਟੈਲੀ<s n="adj"/></r></p></e>
+    <e><p><l>हताहत<s n="adj"/></l><r>ਜਾਨੀ<s n="adj"/></r></p></e>
+    <e><p><l>नॉर्थ<s n="adj"/></l><r>ਉੱਤਰ<s n="adj"/></r></p></e>
+    <e><p><l>नेगिटिव<s n="adj"/></l><r>ਨਕਾਰਾਤਮਕ<s n="adj"/></r></p></e>
+    <e><p><l>लम्बी<s n="adj"/></l><r>ਲੰਮੀ<s n="adj"/></r></p></e>
+    <e><p><l>वर्णात्मक<s n="adj"/></l><r>ਵਰਣਨ ਯੋਗ<s n="adj"/></r></p></e>
+    <e><p><l>संपृक्त<s n="adj"/></l><r>ਜੁੜਿਆ<s n="adj"/></r></p></e>
+    <e><p><l>लज्जित<s n="adj"/></l><r>ਸ਼ਰਮ<s n="adj"/></r></p></e>
+    <e><p><l>नगरीय<s n="adj"/></l><r>ਸ਼ਹਿਰੀ<s n="adj"/></r></p></e>
+    <e><p><l>बाँझ<s n="adj"/></l><r>ਨਿਰਜੀਵ<s n="adj"/></r></p></e>
+    <e><p><l>आकाशीय<s n="adj"/></l><r>ਸਵਰਗੀ<s n="adj"/></r></p></e>
+    <e><p><l>संशयात्मक<s n="adj"/></l><r>ਸ਼ੱਕੀ<s n="adj"/></r></p></e>
+    <e><p><l>पर्वतीय<s n="adj"/></l><r>ਪਹਾੜੀ<s n="adj"/></r></p></e>
+    <e><p><l>शक्तिमान<s n="adj"/></l><r>ਸ਼ਕਤੀਮਾਨ<s n="adj"/></r></p></e>
+    <e><p><l>अनभिव्यक्त<s n="adj"/></l><r>ਅਣਜਾਣ<s n="adj"/></r></p></e>
+    <e><p><l>संधित<s n="adj"/></l><r>ਸੰਗਠਿਤ<s n="adj"/></r></p></e>
+    <e><p><l>अवतीर्ण<s n="adj"/></l><r>ਅਵਤਾਰ<s n="adj"/></r></p></e>
+    <e><p><l>अशुभ<s n="adj"/></l><r>ਬੇਅੰਤ<s n="adj"/></r></p></e>
+    <e><p><l>अप्रिय<s n="adj"/></l><r>ਕੋਝਾ<s n="adj"/></r></p></e>
+    <e><p><l>मंगलमय<s n="adj"/></l><r>ਖੁਸ਼ਹਾਲ<s n="adj"/></r></p></e>
+    <e><p><l>बेलनाकार<s n="adj"/></l><r>ਸਿਲੰਡਰ<s n="adj"/></r></p></e>
+    <e><p><l>अर्जित<s n="adj"/></l><r>ਕਮਾਇਆ<s n="adj"/></r></p></e>
+    <e><p><l>बलशाली<s n="adj"/></l><r>ਮਜ਼ਬੂਤ<s n="adj"/></r></p></e>
+    <e><p><l>समानार्थ<s n="adj"/></l><r>ਸਮਾਨਾਰਥੀ<s n="adj"/></r></p></e>
+    <e><p><l>आकर्शक<s n="adj"/></l><r>ਆਕਰਸ਼ਕ<s n="adj"/></r></p></e>
+    <e><p><l>आकर्षक<s n="adj"/></l><r>ਆਕਰਸ਼ਕ<s n="adj"/></r></p></e>
+    <e><p><l>बदतर<s n="adj"/></l><r>ਬਦਤਰ<s n="adj"/></r></p></e>
+    <e><p><l>सशक्त<s n="adj"/></l><r>ਮਜ਼ਬੂਤ<s n="adj"/></r></p></e>
+    <e><p><l>नर्म<s n="adj"/></l><r>ਨਰਮ<s n="adj"/></r></p></e>
+    <e><p><l>पराई<s n="adj"/></l><r>ਪਰਾਈ<s n="adj"/></r></p></e>
+    <e><p><l>वैदिक<s n="adj"/></l><r>ਵੈਦਿਕ<s n="adj"/></r></p></e>
+    <e><p><l>अधुरा<s n="adj"/></l><r>ਅੱਧਾ-ਪੱਕਾ<s n="adj"/></r></p></e>
+    <e><p><l>पद्यात्मक<s n="adj"/></l><r>ਕਾਵਿਕ<s n="adj"/></r></p></e>
+    <e><p><l>ज्यामितीय<s n="adj"/></l><r>ਜਿਓਮੈਟ੍ਰਿਕ<s n="adj"/></r></p></e>
+    <e><p><l>मित्रवत<s n="adj"/></l><r>ਦੋਸਤਾਨਾ<s n="adj"/></r></p></e>
+    <e><p><l>काव्यात्मक<s n="adj"/></l><r>ਕਾਵਿਕ<s n="adj"/></r></p></e>
+    <e><p><l>अत्याचारपूर्ण<s n="adj"/></l><r>ਤਸੀਹੇ ਦਿੱਤੇ<s n="adj"/></r></p></e>
+    <e><p><l>अदंडित<s n="adj"/></l><r>ਅਦੰਡਤ<s n="adj"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
@@ -16019,6 +16640,295 @@
     <e c="khAskar"><p><l>खासकर<s n="adv"/></l><r>ਖ਼ਾਸਕਰ<s n="adv"/></r></p></e>
     <e c="Osawann"><p><l>औसतन<s n="adv"/></l><r>ਔਸਤ<s n="adv"/></r></p></e>
     <e c="apekyakriw"><p><l>अपेक्षाकृत<s n="adv"/></l><r>ਤੁਲਨਾਤਮਕ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e c="AmtOr"><p><l>आमतौर<s n="adv"/></l><r>ਆਮਤੌਰ<s n="adv"/></r></p></e>
+    <e c="prati"><p><l>प्रति<s n="adv"/></l><r>ਪ੍ਰਤੀ<s n="adv"/></r></p></e>
+    <e c="arWAw"><p><l>अर्थात<s n="adv"/></l><r>ਯਾਨਿ<s n="adv"/></r></p></e>
+    <e c="aDiktar"><p><l>अधिकतर<s n="adv"/></l><r>ਜ਼ਿਆਦਾਤਰ<s n="adv"/></r></p></e>
+    <e c="aDiktar"><p><l>अधिकतर<s n="adv"/></l><r>ਜਿਆਦਾਤਰ<s n="adv"/></r></p></e>
+    <e c="jyAxAwar"><p><l>ज्यादातर<s n="adv"/></l><r>ਜਿਆਦਾਤਰ<s n="adv"/></r></p></e>
+    <e c="ikaWe"><p><l>इकट्ठे<s n="adv"/></l><r>ਇਕੱਠੇ<s n="adv"/></r></p></e>
+    <e c="niranwar"><p><l>निरंतर<s n="adv"/></l><r>ਨਿਰੰਤਰ<s n="adv"/></r></p></e>
+    <e c="bajae"><p><l>बजाय<s n="adv"/></l><r>ਬਜਾਏ<s n="adv"/></r></p></e>
+    <e c="hameSA"><p><l>हमेशा<s n="adv"/></l><r>ਹਮੇਸ਼ਾ<s n="adv"/></r></p></e>
+    <e c="sAsAT"><p><l>साथसाथ<s n="adv"/></l><r>ਨਾਲਨਾਲ<s n="adv"/></r></p></e>
+    <e c="xAen"><p><l>दाएं<s n="adv"/></l><r>ਸੱਜੇ<s n="adv"/></r></p></e>
+    <e c="saCmuC"><p><l>सचमुच<s n="adv"/></l><r>ਸੱਚਮੁੱਚ<s n="adv"/></r></p></e>
+    <e c="bilkul"><p><l>बिलकुल<s n="adv"/></l><r>ਬਿਲਕੁਲ<s n="adv"/></r></p></e>
+    <e c="Kapaw"><p><l>खपत<s n="adv"/></l><r>ਖ਼ਪਤ<s n="adv"/></r></p></e>
+    <e c="maxax"><p><l>मदद<s n="adv"/></l><r>ਮੱਦਦ<s n="adv"/></r></p></e>
+    <e c="arWAw"><p><l>अर्थात<s n="adv"/></l><r>ਯਾਨੀ<s n="adv"/></r></p></e>
+    <e><p><l>यानि<s n="adv"/></l><r>ਯਾਨੀ<s n="adv"/></r></p></e>
+    <e><p><l>यानी<s n="adv"/></l><r>ਯਾਨੀ<s n="adv"/></r></p></e>
+    <e><p><l>पश्चात्<s n="adv"/></l><r>ਦੇ ਬਾਅਦ<s n="adv"/></r></p></e>
+    <e><p><l>यकीनन<s n="adv"/></l><r>ਜ਼ਰੂਰ<s n="adv"/></r></p></e>
+    <e><p><l>बखूबी<s n="adv"/></l><r>ਖੈਰ<s n="adv"/></r></p></e>
+    <e><p><l>वास्तव<s n="adv"/></l><r>ਹਕੀਕਤ<s n="adv"/></r></p></e>
+    <e><p><l>बहरहाल<s n="adv"/></l><r>ਪਰ<s n="adv"/></r></p></e>
+    <e><p><l>प्रतिवर्ष<s n="adv"/></l><r>ਪ੍ਰਤੀ ਸਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>बदौलत<s n="adv"/></l><r>ਧੰਨਵਾਦ<s n="adv"/></r></p></e>
+    <e><p><l>खासतौर<s n="adv"/></l><r>ਖ਼ਾਸਕਰ<s n="adv"/></r></p></e>
+    <e><p><l>ज़रूर<s n="adv"/></l><r>ਜਰੂਰ<s n="adv"/></r></p></e>
+    <e><p><l>सरासर<s n="adv"/></l><r>ਸ਼ੀਅਰ<s n="adv"/></r></p></e>
+    <e><p><l>तत्पश्चात<s n="adv"/></l><r>ਓਸ ਤੋਂ ਬਾਦ<s n="adv"/></r></p></e>
+    <e><p><l>यहां<s n="adv"/></l><r>ਇਥੇ<s n="adv"/></r></p></e>
+    <e><p><l>यहीं<s n="adv"/></l><r>ਇੱਥੇ ਹੀ<s n="adv"/></r></p></e>
+    <e><p><l>वहां<s n="adv"/></l><r>ਉੱਥੇ<s n="adv"/></r></p></e>
+    <e><p><l>अवश्य<s n="adv"/></l><r>ਯਕੀਨਨ<s n="adv"/></r></p></e>
+    <e><p><l>तक़रीबन<s n="adv"/></l><r>ਲਗਭਗ<s n="adv"/></r></p></e>
+    <e><p><l>संयोगवश<s n="adv"/></l><r>ਸੰਜੋਗ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>तदनुसार<s n="adv"/></l><r>ਇਸ ਅਨੁਸਾਰ<s n="adv"/></r></p></e>
+    <e><p><l>आरपार<s n="adv"/></l><r>ਪਾਰ<s n="adv"/></r></p></e>
+    <e><p><l>प्रशंसापूर्वक<s n="adv"/></l><r>ਕਦਰਦਾਨੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>भूग्रस्त<s n="adv"/></l><r>ਸਟ੍ਰੈਂਡ<s n="adv"/></r></p></e>
+    <e><p><l>विकल्पत<s n="adv"/></l><r>ਵਿਕਲਪਿਕ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>डरपूर्वक<s n="adv"/></l><r>ਡਰ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>तुरन्त<s n="adv"/></l><r>ਤੁਰੰਤ<s n="adv"/></r></p></e>
+    <e><p><l>अर्द्धसाप्ताहिक<s n="adv"/></l><r>ਅਰਧ-ਹਫਤਾਵਾਰੀ<s n="adv"/></r></p></e>
+    <e><p><l>सशरीर<s n="adv"/></l><r>ਸਰੀਰ<s n="adv"/></r></p></e>
+    <e><p><l>साहसपूर्वक<s n="adv"/></l><r>ਦਲੇਰੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>क्षमतापूर्वक<s n="adv"/></l><r>ਸਮਰੱਥਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>प्रधानतः<s n="adv"/></l><r>ਮੁੱਖ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>निस्सन्देह<s n="adv"/></l><r>ਜ਼ਰੂਰ<s n="adv"/></r></p></e>
+    <e><p><l>स्पष्टतः<s n="adv"/></l><r>ਸਪਸ਼ਟ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>जानबूझकर<s n="adv"/></l><r>ਜਾਣ ਬੁੱਝ ਕੇ<s n="adv"/></r></p></e>
+    <e><p><l>सुविधापूर्वक<s n="adv"/></l><r>ਸਹੂਲਤ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>निर्दयतापूर्वक<s n="adv"/></l><r>ਬੇਰਹਿਮੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>आज-कल<s n="adv"/></l><r>ਅੱਜਕਲ<s n="adv"/></r></p></e>
+    <e><p><l>साधारणतया<s n="adv"/></l><r>ਆਮ ਤੌਰ 'ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>गहरापन<s n="adv"/></l><r>ਗਹਿਰਾਈ<s n="adv"/></r></p></e>
+    <e><p><l>वस्तुत<s n="adv"/></l><r>ਦਰਅਸਲ<s n="adv"/></r></p></e>
+    <e><p><l>आदरपूर्वक<s n="adv"/></l><r>ਸਤਿਕਾਰ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>स्थिरतापूर्वक<s n="adv"/></l><r>ਅਡੋਲਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>कुशलतापूर्वक<s n="adv"/></l><r>ਕੁਸ਼ਲਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>हेयतापूर्ण<s n="adv"/></l><r>ਲਾਭਕਾਰੀ<s n="adv"/></r></p></e>
+    <e><p><l>दुगुना<s n="adv"/></l><r>ਡਬਲ<s n="adv"/></r></p></e>
+    <e><p><l>ससन्देह<s n="adv"/></l><r>ਜ਼ਰੂਰ<s n="adv"/></r></p></e>
+    <e><p><l>निसन्देह<s n="adv"/></l><r>ਬਿਨਾਂ ਸ਼ੱਕ<s n="adv"/></r></p></e>
+    <e><p><l>दक्षतापूर्वक<s n="adv"/></l><r>ਕੁਸ਼ਲਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>भावुकतापूर्वक<s n="adv"/></l><r>ਭਾਵਨਾਤਮਕ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>अतिशय<s n="adv"/></l><r>ਬਹੁਤ ਜ਼ਿਆਦਾ<s n="adv"/></r></p></e>
+    <e><p><l>सम्पूर्णतया<s n="adv"/></l><r>ਪੂਰੀ ਤਰ੍ਹਾਂ<s n="adv"/></r></p></e>
+    <e><p><l>बाहुल्यतापूर्ण<s n="adv"/></l><r>ਗੁਣਾ<s n="adv"/></r></p></e>
+    <e><p><l>आस्थापूर्क<s n="adv"/></l><r>ਅਸਪਸ਼ਟ<s n="adv"/></r></p></e>
+    <e><p><l>भयसहित<s n="adv"/></l><r>ਘਬਰਾਇਆ<s n="adv"/></r></p></e>
+    <e><p><l>निर्भयतापूर्वक<s n="adv"/></l><r>ਨਿਰਭਉ<s n="adv"/></r></p></e>
+    <e><p><l>दृढतापूर्वक<s n="adv"/></l><r>ਦ੍ਰਿੜਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>प्रेमपूर्वक<s n="adv"/></l><r>ਪਿਆਰ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>सदैव<s n="adv"/></l><r>ਹਮੇਸ਼ਾ<s n="adv"/></r></p></e>
+    <e><p><l>बहुधा<s n="adv"/></l><r>ਅਕਸਰ<s n="adv"/></r></p></e>
+    <e><p><l>अत्यन्त<s n="adv"/></l><r>ਬਹੁਤ<s n="adv"/></r></p></e>
+    <e><p><l>प्राय<s n="adv"/></l><r>ਆਮ ਤੌਰ 'ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>आदतन<s n="adv"/></l><r>ਆਦਤ<s n="adv"/></r></p></e>
+    <e><p><l>सफलतापूर्वक<s n="adv"/></l><r>ਸਫਲਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>निष्ठुरतासे<s n="adv"/></l><r>ਬੇਰਹਿਮੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अहंकारपूर्वक<s n="adv"/></l><r>ਹੰਕਾਰੀ<s n="adv"/></r></p></e>
+    <e><p><l>क्रोधपूर्वक<s n="adv"/></l><r>ਗੁੱਸੇ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>जल्दी<s n="adv"/></l><r>ਜਲਦੀ<s n="adv"/></r></p></e>
+    <e><p><l>फिरभी<s n="adv"/></l><r>ਅਜੇ ਵੀ<s n="adv"/></r></p></e>
+    <e><p><l>भूखसे<s n="adv"/></l><r>ਭੁੱਖੇ<s n="adv"/></r></p></e>
+    <e><p><l>आवेगशील<s n="adv"/></l><r>ਭਾਵੁਕ<s n="adv"/></r></p></e>
+    <e><p><l>अन्दर<s n="adv"/></l><r>ਵਿਚ<s n="adv"/></r></p></e>
+    <e><p><l>अचिन्त्यनीयता<s n="adv"/></l><r>ਅਸਕ੍ਰਿਤੀ<s n="adv"/></r></p></e>
+    <e><p><l>अन्धाधुन्धा<s n="adv"/></l><r>ਅੰਨ੍ਹਾ<s n="adv"/></r></p></e>
+    <e><p><l>अनुग्रहपूर्वक<s n="adv"/></l><r>ਕਿਰਪਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>वृथा<s n="adv"/></l><r>ਬੁਢਾਪਾ<s n="adv"/></r></p></e>
+    <e><p><l>अविध्वंसिता<s n="adv"/></l><r>ਅਟੱਲਤਾ<s n="adv"/></r></p></e>
+    <e><p><l>तत्क्षण<s n="adv"/></l><r>ਤੁਰੰਤ<s n="adv"/></r></p></e>
+    <e><p><l>बुद्धिमत्तापूर्वक<s n="adv"/></l><r>ਸਮਝਦਾਰੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>उत्सुकतापूर्वक<s n="adv"/></l><r>ਉਤਸੁਕਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>सर्वदा<s n="adv"/></l><r>ਹਮੇਸ਼ਾ ਲਈ<s n="adv"/></r></p></e>
+    <e><p><l>व्यंग्यपूर्वक<s n="adv"/></l><r>ਕਠੋਰ<s n="adv"/></r></p></e>
+    <e><p><l>कृपापूर्वक<s n="adv"/></l><r>ਪਿਆਰੇ<s n="adv"/></r></p></e>
+    <e><p><l>जीवन्त<s n="adv"/></l><r>ਜੀ<s n="adv"/></r></p></e>
+    <e><p><l>विधि-पूर्वक<s n="adv"/></l><r>ਕਨੂੰਨੀ<s n="adv"/></r></p></e>
+    <e><p><l>उदारतापूर्वक<s n="adv"/></l><r>ਖੁੱਲ੍ਹ ਕੇ<s n="adv"/></r></p></e>
+    <e><p><l>अक्षरश<s n="adv"/></l><r>ਸ਼ਾਬਦਿਕ<s n="adv"/></r></p></e>
+    <e><p><l>चुपचाप<s n="adv"/></l><r>ਚੁੱਪ ਕਰ<s n="adv"/></r></p></e>
+    <e><p><l>दयापूर्वक<s n="adv"/></l><r>ਕਿਰਪਾ ਕਰਕੇ<s n="adv"/></r></p></e>
+    <e><p><l>औसतः<s n="adv"/></l><r>:ਸਤ:<s n="adv"/></r></p></e>
+    <e><p><l>फलस्वरूप<s n="adv"/></l><r>ਫਲਸਰੂਪ<s n="adv"/></r></p></e>
+    <e><p><l>तथापि<s n="adv"/></l><r>ਪਰ<s n="adv"/></r></p></e>
+    <e><p><l>निश्चिंततापूर्वक<s n="adv"/></l><r>ਯਕੀਨਨ<s n="adv"/></r></p></e>
+    <e><p><l>सामान्यत<s n="adv"/></l><r>ਆਮ ਤੌਰ 'ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>नही<s n="adv"/></l><r>ਨਹੀਂ<s n="adv"/></r></p></e>
+    <e><p><l>संख्यानुसार<s n="adv"/></l><r>ਸੰਖਿਆਤਮਕ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>कभीकभी<s n="adv"/></l><r>ਕਦੇ ਕਦੇ<s n="adv"/></r></p></e>
+    <e><p><l>मूलतः<s n="adv"/></l><r>ਅਸਲ ਵਿੱਚ<s n="adv"/></r></p></e>
+    <e><p><l>बाह्यतः<s n="adv"/></l><r>ਬਾਹਰੀ<s n="adv"/></r></p></e>
+    <e><p><l>समयोपरि<s n="adv"/></l><r>ਸਮੇਂ ਦੇ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>धैर्यपूर्वक<s n="adv"/></l><r>ਧੀਰਜ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>स्फष्टतया<s n="adv"/></l><r>ਜ਼ਾਹਰ ਹੈ<s n="adv"/></r></p></e>
+    <e><p><l>सम्भवतः<s n="adv"/></l><r>ਸੰਭਵ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>संभाव्यतः<s n="adv"/></l><r>ਸ਼ਾਇਦ<s n="adv"/></r></p></e>
+    <e><p><l>अपूर्वतासे<s n="adv"/></l><r>ਇਕੱਲੇ<s n="adv"/></r></p></e>
+    <e><p><l>नितान्त<s n="adv"/></l><r>ਬਹੁਤ<s n="adv"/></r></p></e>
+    <e><p><l>उत्तरोत्तर<s n="adv"/></l><r>ਹੌਲੀ ਹੌਲੀ<s n="adv"/></r></p></e>
+    <e><p><l>खुलेआम<s n="adv"/></l><r>ਖੁਲੇਆਮ<s n="adv"/></r></p></e>
+    <e><p><l>बार-बार<s n="adv"/></l><r>ਬਾਰ-ਬਾਰ<s n="adv"/></r></p></e>
+    <e><p><l>क्रमशः<s n="adv"/></l><r>ਸਤਿਕਾਰ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>कटुतापूर्वक<s n="adv"/></l><r>ਕੁੜੱਤਣ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>छिपकर<s n="adv"/></l><r>ਫੜ 'ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>प्रतीयमानतः<s n="adv"/></l><r>ਜਾਪਦਾ ਹੈ<s n="adv"/></r></p></e>
+    <e><p><l>संवेदनापूर्वक<s n="adv"/></l><r>ਸੰਵੇਦਨਸ਼ੀਲਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>वाक्यगत<s n="adv"/></l><r>ਸਿੰਟੈਕਟਿਕ<s n="adv"/></r></p></e>
+    <e><p><l>क्रमश:<s n="adv"/></l><r>ਸਤਿਕਾਰ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>क्रमश<s n="adv"/></l><r>ਸਤਿਕਾਰ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अविलम्ब<s n="adv"/></l><r>ਬਿਨਾਂ ਦੇਰੀ ਦੇ<s n="adv"/></r></p></e>
+    <e><p><l>पटकना<s n="adv"/></l><r>ਟੌਸਿੰਗ<s n="adv"/></r></p></e>
+    <e><p><l>निरर्थकतापूर्वक<s n="adv"/></l><r>ਮਾਮੂਲੀ<s n="adv"/></r></p></e>
+    <e><p><l>मरणोपरांत<s n="adv"/></l><r>ਮੌਤ ਤੋਂ ਬਾਅਦ<s n="adv"/></r></p></e>
+    <e><p><l>मुख्यतः<s n="adv"/></l><r>ਮੁੱਖ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>मुख्यत<s n="adv"/></l><r>ਮੁੱਖ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>विस्तारपूर्वक<s n="adv"/></l><r>ਵਿਸਤਾਰ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>कातरतापूर्वक<s n="adv"/></l><r>ਥੋੜੇ ਜਿਹੇ<s n="adv"/></r></p></e>
+    <e><p><l>कर्कशतापूर्वक<s n="adv"/></l><r>ਧੱਕੇ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>प्रलापी<s n="adv"/></l><r>ਫਲਾਬੀ<s n="adv"/></r></p></e>
+    <e><p><l>पश्चात्तापपूर्वक<s n="adv"/></l><r>ਅਫਸੋਸ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अप्रसन्नतापूर्वक<s n="adv"/></l><r>ਦੁਖੀ<s n="adv"/></r></p></e>
+    <e><p><l>उग्रतापूर्वक<s n="adv"/></l><r>ਕਠੋਰ<s n="adv"/></r></p></e>
+    <e><p><l>परिश्रमपूर्वक<s n="adv"/></l><r>ਲਗਨ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>वरणक्षमतापूर्वक<s n="adv"/></l><r>ਚੋਣਵੇਂ<s n="adv"/></r></p></e>
+    <e><p><l>एवमेव<s n="adv"/></l><r>ਈਵਮੇਵ<s n="adv"/></r></p></e>
+    <e><p><l>सीधे<s n="adv"/></l><r>ਸਿੱਧੇ<s n="adv"/></r></p></e>
+    <e><p><l>धीरे-धीरे<s n="adv"/></l><r>ਹੌਲੀ-ਹੌਲੀ<s n="adv"/></r></p></e>
+    <e><p><l>दुर्भावनापूर्वक<s n="adv"/></l><r>ਗਲਤ ਤਰੀਕੇ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>विनम्रतापूर्वक<s n="adv"/></l><r>ਨਿਮਰਤਾ ਸਹਿਤ<s n="adv"/></r></p></e>
+    <e><p><l>एकाएक<s n="adv"/></l><r>ਅਚਾਨਕ ਹੀ<s n="adv"/></r></p></e>
+    <e><p><l>उपर्युक्त<s n="adv"/></l><r>ਉੱਪਰ ਜ਼ਿਕਰ ਕੀਤਾ<s n="adv"/></r></p></e>
+    <e><p><l>दसगुना<s n="adv"/></l><r>ਦਸ ਵਾਰ<s n="adv"/></r></p></e>
+    <e><p><l>आतुरतापूर्वक<s n="adv"/></l><r>ਬੇਰਹਿਮੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>कपटपूर्ण	<s n="adv"/></l><r>ਧੋਖਾਧੜੀ<s n="adv"/></r></p></e>
+    <e><p><l>निष्ठुरतापूर्वक<s n="adv"/></l><r>ਬੇਰਹਿਮੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अकृतज्ञतापूर्वक<s n="adv"/></l><r>ਸ਼ੁਕਰ ਹੈ<s n="adv"/></r></p></e>
+    <e><p><l>वीरतापूर्वक<s n="adv"/></l><r>ਬਹਾਦਰੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>यथा<s n="adv"/></l><r>ਜਿਵੇਂ<s n="adv"/></r></p></e>
+    <e><p><l>विलासितापूर्वक<s n="adv"/></l><r>ਆਰਾਮ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>सतर्कतापूर्वक<s n="adv"/></l><r>ਚੌਕਸੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>प्रायः<s n="adv"/></l><r>ਆਮ ਤੌਰ 'ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>विक्षिप्ततापूर्वक<s n="adv"/></l><r>ਪਾਗਲ<s n="adv"/></r></p></e>
+    <e><p><l>उत्तरपूर्व<s n="adv"/></l><r>ਉੱਤਰ ਪੂਰਬ<s n="adv"/></r></p></e>
+    <e><p><l>उत्तरपश्चिम<s n="adv"/></l><r>ਉੱਤਰ ਪੱਛਮ<s n="adv"/></r></p></e>
+    <e><p><l>विशेषकर<s n="adv"/></l><r>ਖ਼ਾਸਕਰ<s n="adv"/></r></p></e>
+    <e><p><l>अश्लीलतापूर्वक<s n="adv"/></l><r>ਅਸ਼ਲੀਲ<s n="adv"/></r></p></e>
+    <e><p><l>हठपूर्वक<s n="adv"/></l><r>ਹੱਠਪੂਰ੍ਵਕ<s n="adv"/></r></p></e>
+    <e><p><l>मूर्खतापूर्वक<s n="adv"/></l><r>ਬੇਵਕੂਫਾ<s n="adv"/></r></p></e>
+    <e><p><l>अपतट<s n="adv"/></l><r>ਸਮੁੰਦਰੀ ਜ਼ਹਾਜ਼<s n="adv"/></r></p></e>
+    <e><p><l>खुल्लम-खुल्ला<s n="adv"/></l><r>ਖੁੱਲ੍ਹਮ ਖੁੱਲ੍ਹਾ<s n="adv"/></r></p></e>
+    <e><p><l>सारे<s n="adv"/></l><r>ਸਾਰੇ<s n="adv"/></r></p></e>
+    <e><p><l>यत्र-तत्र<s n="adv"/></l><r>ਇੱਥੇ-ਉਥੇ<s n="adv"/></r></p></e>
+    <e><p><l>प्रसंगवश<s n="adv"/></l><r>ਇਤਫਾਕਨ<s n="adv"/></r></p></e>
+    <e><p><l>निष्क्रियतापूर्वक<s n="adv"/></l><r>ਪੈਸਿਵ<s n="adv"/></r></p></e>
+    <e><p><l>प्रत्ययकारितापूर्वक<s n="adv"/></l><r>ਪ੍ਰਮਾਣਿਕਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>सदाचारितापूर्वक<s n="adv"/></l><r>ਵਿਸ਼ਵਾਸ ਵਿੱਚ<s n="adv"/></r></p></e>
+    <e><p><l>शांतिपूर्वक<s n="adv"/></l><r>ਸ਼ਾਂਤੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>आनन्दपूर्वक<s n="adv"/></l><r>ਖ਼ੁਸ਼ੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>असारतापूर्वक<s n="adv"/></l><r>ਅਣ-ਸੁਭਾਅ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अल्पव्ययितापूर्वक<s n="adv"/></l><r>ਸਸਤਾ<s n="adv"/></r></p></e>
+    <e><p><l>डरते-डरते<s n="adv"/></l><r>ਡਰ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>खुशी-खुशी<s n="adv"/></l><r>ਖੁਸ਼ੀ ਖੁਸ਼ੀ<s n="adv"/></r></p></e>
+    <e><p><l>प्रसन्नतापूर्वक<s n="adv"/></l><r>ਖੁਸ਼ੀ ਖੁਸ਼ੀ<s n="adv"/></r></p></e>
+    <e><p><l>धाराप्रवाह<s n="adv"/></l><r>ਤਜ਼ਰਬੇਕਾਰ<s n="adv"/></r></p></e>
+    <e><p><l>नम्रतापूर्वक<s n="adv"/></l><r>ਨਿਮਰਤਾ ਸਹਿਤ<s n="adv"/></r></p></e>
+    <e><p><l>आदर्शतः<s n="adv"/></l><r>ਆਦਰਸ਼ਕ<s n="adv"/></r></p></e>
+    <e><p><l>अनभिज्ञतापूर्वक<s n="adv"/></l><r>ਅਣਜਾਣ<s n="adv"/></r></p></e>
+    <e><p><l>कल्पनात्मकतापूर्वक<s n="adv"/></l><r>ਕਲਪਨਾਤਮਕ<s n="adv"/></r></p></e>
+    <e><p><l>सन्निकटतापूर्वक<s n="adv"/></l><r>ਧਿਆਨ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अनैतिकतापूर्वक<s n="adv"/></l><r>ਅਨੈਤਿਕ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>भावशून्यतापूर्वक<s n="adv"/></l><r>ਅਸੰਵੇਦਨਸ਼ੀਲਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>असावधानीवश<s n="adv"/></l><r>ਅਣਜਾਣੇ ਵਿਚ<s n="adv"/></r></p></e>
+    <e><p><l>अयोग्यतापूर्वक<s n="adv"/></l><r>ਅਯੋਗਤਾ<s n="adv"/></r></p></e>
+    <e><p><l>असफलतापूर्वक<s n="adv"/></l><r>ਬਿਨਾ ਅਸਫਲ<s n="adv"/></r></p></e>
+    <e><p><l>कभी-कभार<s n="adv"/></l><r>ਕਈ ਵਾਰੀ<s n="adv"/></r></p></e>
+    <e><p><l>प्रवीणतापूर्वक<s n="adv"/></l><r>ਮਾਹਰ<s n="adv"/></r></p></e>
+    <e><p><l>क्रूरतापूर्वक<s n="adv"/></l><r>ਬੇਰਹਿਮੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अंतःस्थलीय<s n="adv"/></l><r>ਅੰਤਰਜਾਮੀ<s n="adv"/></r></p></e>
+    <e><p><l>जिज्ञासापूर्वक<s n="adv"/></l><r>ਉਤਸੁਕਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>जिज्ञसापूर्वक<s n="adv"/></l><r>ਉਤਸੁਕਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>जटिलतापूर्वक<s n="adv"/></l><r>ਗੁੰਝਲਦਾਰ<s n="adv"/></r></p></e>
+    <e><p><l>प्रङुल्लतापूर्वक<s n="adv"/></l><r>ਖੁਸ਼ੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>ईर्ष्यापूर्वक<s n="adv"/></l><r>ਈਰਖਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>पुर्णतया<s n="adv"/></l><r>ਪੂਰੀ ਤਰਾਂ<s n="adv"/></r></p></e>
+    <e><p><l>बाद में<s n="adv"/></l><r>ਬਾਅਦ ਵਿਚ<s n="adv"/></r></p></e>
+    <e><p><l>स्व्च्छंदतापूर्वक<s n="adv"/></l><r>ਖੁੱਲ੍ਹ ਕੇ<s n="adv"/></r></p></e>
+    <e><p><l>छोटी<s n="adv"/></l><r>ਨਿੱਕੀ<s n="adv"/></r></p></e>
+    <e><p><l>वैभवपूर्वक<s n="adv"/></l><r>ਸ਼ਾਨਦਾਰ<s n="adv"/></r></p></e>
+    <e><p><l>पवित्रतापूर्वक<s n="adv"/></l><r>ਨਿਰਮਲ<s n="adv"/></r></p></e>
+    <e><p><l>आत्मटुष्टिपूर्वक<s n="adv"/></l><r>ਸ਼ਿਕਾਇਤ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>साथ-साथ<s n="adv"/></l><r>ਨਾਲ-ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>संतुष्टिपूर्वक<s n="adv"/></l><r>ਸੰਤੁਸ਼ਟੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>विलोमतः<s n="adv"/></l><r>ਉਲਟ<s n="adv"/></r></p></e>
+    <e><p><l>खेदपूर्वक<s n="adv"/></l><r>ਅਫਸੋਸ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अवज्ञापूर्वक<s n="adv"/></l><r>ਅਣਆਗਿਆਕਾਰੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>सहयोगपूर्वक<s n="adv"/></l><r>ਸਹਿਯੋਗ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>शिष्टतापूर्वक<s n="adv"/></l><r>ਸ਼ਿਸ਼ਟਾਚਾਰ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>धूर्ततापूर्वक<s n="adv"/></l><r>ਚਲਾਕ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>आड़े-तिरछे<s n="adv"/></l><r>ਕਰਾਸਵਾਈਸ<s n="adv"/></r></p></e>
+    <e><p><l>कठोरतापूर्वक<s n="adv"/></l><r>ਕਠੋਰਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>सरसरी<s n="adv"/></l><r>ਕਰਸਰ<s n="adv"/></r></p></e>
+    <e><p><l>गंभीरतापूर्वक<s n="adv"/></l><r>ਗੰਭੀਰਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>निराशापूर्वक<s n="adv"/></l><r>ਨਿਰਾਸ਼ਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अत्यावश्यकतापूर्वक<s n="adv"/></l><r>ਜਲਦੀ<s n="adv"/></r></p></e>
+    <e><p><l>संकोचपूर्वक<s n="adv"/></l><r>ਬੇਤੁਕੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>खिन्नतापूर्वक<s n="adv"/></l><r>ਕੁੜੱਤਣ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अधोगामी<s n="adv"/></l><r>ਹੇਠਾਂ ਵੱਲ<s n="adv"/></r></p></e>
+    <e><p><l>पवनाभिमुख<s n="adv"/></l><r>ਚਿਹਰਾ ਮੁਖੀ<s n="adv"/></r></p></e>
+    <e><p><l>अनिश्चिततापूर्वक<s n="adv"/></l><r>ਬੇਸ਼ਕ<s n="adv"/></r></p></e>
+    <e><p><l>उत्साहपूर्वक<s n="adv"/></l><r>ਉਤਸ਼ਾਹ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>स्थिर्तचित्तापूर्वक<s n="adv"/></l><r>ਸਿਥਤੀ<s n="adv"/></r></p></e>
+    <e><p><l>साथ-ही-साथ<s n="adv"/></l><r>ਨਾਲ-ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>कामुकतापूर्वक<s n="adv"/></l><r>ਅਚਾਨਕ<s n="adv"/></r></p></e>
+    <e><p><l>आशापूर्वक<s n="adv"/></l><r>ਆਸ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>आशु<s n="adv"/></l><r>ਆਸ਼ੂ<s n="adv"/></r></p></e>
+    <e><p><l>अस्पष्टतः<s n="adv"/></l><r>ਅਸਪਸ਼ਟਤਾ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>झूठ-मूठ<s n="adv"/></l><r>ਝੂਠ-ਮੂਠ<s n="adv"/></r></p></e>
+    <e><p><l>कट्टरतापूर्वक<s n="adv"/></l><r>ਮਨਘੜਤ<s n="adv"/></r></p></e>
+    <e><p><l>इसके बाद<s n="adv"/></l><r>ਇਸ ਦੇ ਬਾਅਦ<s n="adv"/></r></p></e>
+    <e><p><l>कम से कम<s n="adv"/></l><r>ਘੱਟ ਤੋਂ ਘੱਟ<s n="adv"/></r></p></e>
+    <e><p><l>तेज़ी<s n="adv"/></l><r>ਤੇਜੀ<s n="adv"/></r></p></e>
+    <e><p><l>अंतर्गत<s n="adv"/></l><r>ਅਧੀਨ<s n="adv"/></r></p></e>
+    <e><p><l>सब जगह<s n="adv"/></l><r>ਹਰ ਥਾਂ<s n="adv"/></r></p></e>
+    <e><p><l>सर्वत्र<s n="adv"/></l><r>ਹਰ ਥਾਂ<s n="adv"/></r></p></e>
+    <e><p><l>निर्दयतासे<s n="adv"/></l><r>ਬੇਰਹਿਮੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>लस्टमपस्टम<s n="adv"/></l><r>ਲਸਟਪਸਟਮ<s n="adv"/></r></p></e>
+    <e><p><l>उजान<s n="adv"/></l><r>ਉਜ਼ਾਨ<s n="adv"/></r></p></e>
+    <e><p><l>साफ़-साफ़<s n="adv"/></l><r>ਵੱਖਰਾ<s n="adv"/></r></p></e>
+    <e><p><l>ठसाठस<s n="adv"/></l><r>ਠਸਾਠਸ<s n="adv"/></r></p></e>
+    <e><p><l>उत्तर-पूर्व<s n="adv"/></l><r>ਉੱਤਰ ਪੂਰਬ<s n="adv"/></r></p></e>
+    <e><p><l>अनुमानतः<s n="adv"/></l><r>ਸ਼ਾਇਦ<s n="adv"/></r></p></e>
+    <e><p><l>अकेले<s n="adv"/></l><r>ਇਕੱਲੇ<s n="adv"/></r></p></e>
+    <e><p><l>दृढ़तापूर्वक<s n="adv"/></l><r>ਪੱਕਾ<s n="adv"/></r></p></e>
+    <e><p><l>डटकर<s n="adv"/></l><r>ਡਟਕਰ<s n="adv"/></r></p></e>
+    <e><p><l>निश्चित तौर पर<s n="adv"/></l><r>ਪੱਕਾ<s n="adv"/></r></p></e>
+    <e><p><l>निश्चित रूप<s n="adv"/></l><r>ਜ਼ਰੂਰ<s n="adv"/></r></p></e>
+    <e><p><l>पूर्णतः<s n="adv"/></l><r>ਪੂਰੀ ਤਰਾਂ<s n="adv"/></r></p></e>
+    <e><p><l>दरअसल<s n="adv"/></l><r>ਅਸਲ ਵਿੱਚ<s n="adv"/></r></p></e>
+    <e><p><l>आम तौर<s n="adv"/></l><r>ਆਮ ਤੌਰ<s n="adv"/></r></p></e>
+    <e><p><l>अर्थपूर्णतासे<s n="adv"/></l><r>ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਰੰਗ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अन्धाधुन्ध<s n="adv"/></l><r>ਅੰਨ੍ਹਾ<s n="adv"/></r></p></e>
+    <e><p><l>उच्छानुरूप<s n="adv"/></l><r>ਸਸਪੈਂਸ<s n="adv"/></r></p></e>
+    <e><p><l>कठोरतासे<s n="adv"/></l><r>ਹਰਸ਼ਲੀ<s n="adv"/></r></p></e>
+    <e><p><l>चोरी-चोरी<s n="adv"/></l><r>ਗੁਪਤ<s n="adv"/></r></p></e>
+    <e><p><l>उससे<s n="adv"/></l><r>ਉਸ ਤੋਂ<s n="adv"/></r></p></e>
+    <e><p><l>अत<s n="adv"/></l><r>ਇਸ ਲਈ<s n="adv"/></r></p></e>
+    <e><p><l>उसमे<s n="adv"/></l><r>ਇਸ ਵਿੱਚ<s n="adv"/></r></p></e>
+    <e><p><l>पूर्णत<s n="adv"/></l><r>ਪੂਰੀ ਤਰਾਂ<s n="adv"/></r></p></e>
+    <e><p><l>विचारपूर्वक<s n="adv"/></l><r>ਸੋਚ ਕੇ<s n="adv"/></r></p></e>
+    <e><p><l>अकस्मात्<s n="adv"/></l><r>ਅਚਾਨਕ ਹੀ<s n="adv"/></r></p></e>
+    <e><p><l>असामान्यतः<s n="adv"/></l><r>ਅਚਾਨਕ<s n="adv"/></r></p></e>
+    <e><p><l>सामान्यतः<s n="adv"/></l><r>ਆਮ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>दुर्भाग्यवश<s n="adv"/></l><r>ਬਦਕਿਸਮਤੀ ਨਾਲ<s n="adv"/></r></p></e>
+    <e><p><l>अभद्रपूर्ण<s n="adv"/></l><r>ਬੇਹੋਸ਼<s n="adv"/></r></p></e>
+    <e><p><l>व्याकरण-विरुद्ध<s n="adv"/></l><r>ਵਿਆਕਰਣ ਸੰਬੰਧੀ<s n="adv"/></r></p></e>
+    <e><p><l>दागरहित<s n="adv"/></l><r>ਬੇਲੋੜਾ<s n="adv"/></r></p></e>
+    <e><p><l>अनाधिकारिक<s n="adv"/></l><r>ਗੈਰ ਸਰਕਾਰੀ<s n="adv"/></r></p></e>
+    <e><p><l>अनजाने<s n="adv"/></l><r>ਅਣਜਾਣੇ<s n="adv"/></r></p></e>
+    <e><p><l>असमान्यतः<s n="adv"/></l><r>ਅਸਧਾਰਨ ਤੌਰ ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>रिहाइशी<s n="adv"/></l><r>ਰਿਹਾਇਸ਼ੀ<s n="adv"/></r></p></e>
+    <e><p><l>साधारणतयः<s n="adv"/></l><r>ਆਮ ਤੌਰ 'ਤੇ<s n="adv"/></r></p></e>
+    <e><p><l>शब्दशः<s n="adv"/></l><r>ਵਚਨ<s n="adv"/></r></p></e>
+    <e><p><l>गलतपूर्ण<s n="adv"/></l><r>ਗ਼ਲਤ<s n="adv"/></r></p></e>
+    <e><p><l>आड़ा<s n="adv"/></l><r>ਕਰਾਸਵਾਈਸ<s n="adv"/></r></p></e>
+    <e><p><l>लयवर्धन<s n="adv"/></l><r>ਪ੍ਰਸਾਰ<s n="adv"/></r></p></e>
 
     <!-- SECTION: Verbs -->
 
@@ -16236,14 +17146,15 @@
     <e c="KIJa"><p><l>खीझ<s n="vblex"/></l><r>ਜਿਚ੍ਚ ਹੋ<s n="vblex"/></r></p></e>
     <e c="KIJa"><p><l>खीझ<s n="vblex"/></l><r>ਜਿਚ੍ਚ ਰਹਿ<s n="vblex"/></r></p></e>
     <e c="KIJa"><p><l>खीझ<s n="vblex"/></l><r>ਝੀਖ<s n="vblex"/></r></p></e>
-    <e c="KIMca"><p><l>खींच<s n="vblex"/></l><r>ਉਲੀਕ<s n="vblex"/></r></p></e>
-    <e c="KIMca"><p><l>खींच<s n="vblex"/></l><r>ਕਡ੍ਢ<s n="vblex"/></r></p></e>
-    <e c="KIMca"><p><l>खींच<s n="vblex"/></l><r>ਖਿਚ<s n="vblex"/></r></p></e>
-    <e c="KIMca"><p><l>खींच<s n="vblex"/></l><r>ਖਿਚ੍ਚ ਪਾਉ<s n="vblex"/></r></p></e>
-    <e c="KIMca"><p><l>खींच<s n="vblex"/></l><r>ਝੁਟ੍ਟੀ ਮਾਰ<s n="vblex"/></r></p></e>
-    <e c="KIMca"><p><l>खींच<s n="vblex"/></l><r>ਟੇਰ<s n="vblex"/></r></p></e>
-    <e c="KIMca"><p><l>खींच<s n="vblex"/></l><r>ਧੂਹ<s n="vblex"/></r></p></e>
-    <e c="KIMca"><p><l>खींच<s n="vblex"/></l><r>ਵਾਹ<s n="vblex"/></r></p></e>
+    <e c="KIMca" w="1.0"><p><l>खींच<s n="vblex"/></l><r>ਉਲੀਕ<s n="vblex"/></r></p></e>
+    <e c="KIMca" w="1.0"><p><l>खींच<s n="vblex"/></l><r>ਕਡ੍ਢ<s n="vblex"/></r></p></e>
+    <e c="KIMca" w="1.0"><p><l>खींच<s n="vblex"/></l><r>ਖਿਚ<s n="vblex"/></r></p></e>
+    <e c="KIMca" w="1.0"><p><l>खींच<s n="vblex"/></l><r>ਖਿਚ੍ਚ ਪਾ<s n="vblex"/></r></p></e>
+    <e c="KIMca" w="1.0"><p><l>खींच<s n="vblex"/></l><r>ਝੁਟ੍ਟੀ ਮਾਰ<s n="vblex"/></r></p></e>
+    <e c="KIMca" w="1.0"><p><l>खींच<s n="vblex"/></l><r>ਟੇਰ<s n="vblex"/></r></p></e>
+    <e c="KIMca" w="1.0"><p><l>खींच<s n="vblex"/></l><r>ਧੂਹ<s n="vblex"/></r></p></e>
+    <e c="KIMca" w="1.0"><p><l>खींच<s n="vblex"/></l><r>ਵਾਹ<s n="vblex"/></r></p></e>
+    <e c="KIMca" w="0.0"><p><l>खींच<s n="vblex"/></l><r>ਖਿੱਚ<s n="vblex"/></r></p></e>
     <e c="KujalA"><p><l>खुजला<s n="vblex"/></l><r>ਖੁਜਲਾਉ<s n="vblex"/></r></p></e>
     <e c="KujalA"><p><l>खुजला<s n="vblex"/></l><r>ਖੁਰਕ<s n="vblex"/></r></p></e>
     <e c="Kuraca"><p><l>खुरच<s n="vblex"/></l><r>ਖੁਰਚ<s n="vblex"/></r></p></e>
@@ -16871,15 +17782,15 @@
     <e c="nakAra"><p><l>नकार<s n="vblex"/></l><r>ਨਕਾਰ<s n="vblex"/></r></p></e>
     <e c="nakAra"><p><l>नकार<s n="vblex"/></l><r>ਨਨ੍ਨਾ ਪੜ<s n="vblex"/></r></p></e>
     <e c="nacA"><p><l>नचा<s n="vblex"/></l><r>ਨਚਾ<s n="vblex"/></r></p></e>
-    <e c="nahA"><p><l>नहा<s n="vblex"/></l><r>ਇਸ਼ਨਾਨ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="nahA"><p><l>नहा<s n="vblex"/></l><r>ਨਹਾ<s n="vblex"/></r></p></e>
+    <e c="nahA" w="1.0"><p><l>नहा<s n="vblex"/></l><r>ਇਸ਼ਨਾਨ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="nahA" w="0.0"><p><l>नहा<s n="vblex"/></l><r>ਨਹਾ<s n="vblex"/></r></p></e>
     <e c="nAca"><p><l>नाच<s n="vblex"/></l><r>ਨਚ੍ਚ<s n="vblex"/></r></p></e>
     <e c="nAca"><p><l>नाच<s n="vblex"/></l><r>ਨਾਚ ਕਰ<s n="vblex"/></r></p></e>
     <e c="nAca"><p><l>नाच<s n="vblex"/></l><r>ਪੈਲਾਂ ਪਾ<s n="vblex"/></r></p></e>
-    <e c="nApa"><p><l>नाप<s n="vblex"/></l><r>ਕਚ੍ਛ<s n="vblex"/></r></p></e>
-    <e c="nApa"><p><l>नाप<s n="vblex"/></l><r>ਜੋਖ<s n="vblex"/></r></p></e>
-    <e c="nApa"><p><l>नाप<s n="vblex"/></l><r>ਨਪ<s n="vblex"/></r></p></e>
-    <e c="nApa"><p><l>नाप<s n="vblex"/></l><r>ਨਾਪ<s n="vblex"/></r></p></e>
+    <e c="nApa" w="1.0"><p><l>नाप<s n="vblex"/></l><r>ਕਚ੍ਛ<s n="vblex"/></r></p></e>
+    <e c="nApa" w="1.0"><p><l>नाप<s n="vblex"/></l><r>ਜੋਖ<s n="vblex"/></r></p></e>
+    <e c="nApa" w="1.0"><p><l>नाप<s n="vblex"/></l><r>ਨਪ<s n="vblex"/></r></p></e>
+    <e c="nApa" w="0.0"><p><l>नाप<s n="vblex"/></l><r>ਨਾਪ<s n="vblex"/></r></p></e>
     <e c="nikala" w="1.0"><p><l>निकल<s n="vblex"/></l><r>ਕਟਕ ਚੜ੍ਹ<s n="vblex"/></r></p></e>
     <e c="nikala" w="1.0"><p><l>निकल<s n="vblex"/></l><r>ਛੁਟ<s n="vblex"/></r></p></e>
     <e c="nikala" w="1.0"><p><l>निकल<s n="vblex"/></l><r>ਤੂਸ ਨਿਕਲਣੀ<s n="vblex"/></r></p></e>
@@ -16887,7 +17798,8 @@
     <e c="nikala" w="1.0"><p><l>निकल<s n="vblex"/></l><r>ਨਿਕਲ ਆ<s n="vblex"/></r></p></e>
     <e c="nikala" w="1.0"><p><l>निकल<s n="vblex"/></l><r>ਬਾਹਰ ਆ<s n="vblex"/></r></p></e>
     <e c="nikAla" w="1.0"><p><l>निकाल<s n="vblex"/></l><r>ਕਡ੍ਢ<s n="vblex"/></r></p></e>
-    <e c="nikAla" w="0.0"><p><l>निकाल<s n="vblex"/></l><r>ਕਢ<s n="vblex"/></r></p></e>
+    <e c="nikAla" w="1.0"><p><l>निकाल<s n="vblex"/></l><r>ਕਢ<s n="vblex"/></r></p></e>
+    <e c="nikAla" w="0.0"><p><l>निकाल<s n="vblex"/></l><r>ਕੱਢ<s n="vblex"/></r></p></e>
     <e c="nikAla" w="1.0"><p><l>निकाल<s n="vblex"/></l><r>ਖੋਲ੍ਹ<s n="vblex"/></r></p></e>
     <e c="nigala"><p><l>निगल<s n="vblex"/></l><r>ਹਪ<s n="vblex"/></r></p></e>
     <e c="nigala"><p><l>निगल<s n="vblex"/></l><r>ਗੜਪ<s n="vblex"/></r></p></e>
@@ -16908,16 +17820,16 @@
     <e c="nipatA" w="1.0"><p><l>निपटा<s n="vblex"/></l><r>ਰਫਾ ਦਫਾ ਕਰ<s n="vblex"/></r></p></e>
     <e c="nipatA" w="1.0"><p><l>निपटा<s n="vblex"/></l><r>ਲਿਬੇੜ<s n="vblex"/></r></p></e>
     <e c="niBA"><p><l>निभा<s n="vblex"/></l><r>ਨਿਭਾ<s n="vblex"/></r></p></e>
-    <e c="paka"><p><l>पक<s n="vblex"/></l><r>ਸਿਕ<s n="vblex"/></r></p></e>
-    <e c="paka"><p><l>पक<s n="vblex"/></l><r>ਪਕ<s n="vblex"/></r></p></e>
-    <e c="paka"><p><l>पक<s n="vblex"/></l><r>ਪਕ੍ਕ ਜਾ<s n="vblex"/></r></p></e>
-    <e c="paka"><p><l>पक<s n="vblex"/></l><r>ਰਸ<s n="vblex"/></r></p></e>
-    <e c="paka"><p><l>पक<s n="vblex"/></l><r>ਰਸ ਪੈ<s n="vblex"/></r></p></e>
-    <e c="paka"><p><l>पक<s n="vblex"/></l><r>ਰਿਝ<s n="vblex"/></r></p></e>
-    <e c="pakA"><p><l>पका<s n="vblex"/></l><r>ਚਾੜ੍ਹ<s n="vblex"/></r></p></e>
-    <e c="pakA"><p><l>पका<s n="vblex"/></l><r>ਪਕਾ<s n="vblex"/></r></p></e>
-    <e c="pakA"><p><l>पका<s n="vblex"/></l><r>ਰਿਝਾ<s n="vblex"/></r></p></e>
-    <e c="pakA"><p><l>पका<s n="vblex"/></l><r>ਰਿਨ੍ਨ੍ਹਣ<s n="vblex"/></r></p></e>
+    <e c="paka" w="1.0"><p><l>पक<s n="vblex"/></l><r>ਸਿਕ<s n="vblex"/></r></p></e>
+    <e c="paka" w="0.0"><p><l>पक<s n="vblex"/></l><r>ਪਕ<s n="vblex"/></r></p></e>
+    <e c="paka" w="1.0"><p><l>पक<s n="vblex"/></l><r>ਪਕ੍ਕ ਜਾ<s n="vblex"/></r></p></e>
+    <e c="paka" w="1.0"><p><l>पक<s n="vblex"/></l><r>ਰਸ<s n="vblex"/></r></p></e>
+    <e c="paka" w="1.0"><p><l>पक<s n="vblex"/></l><r>ਰਸ ਪੈ<s n="vblex"/></r></p></e>
+    <e c="paka" w="1.0"><p><l>पक<s n="vblex"/></l><r>ਰਿਝ<s n="vblex"/></r></p></e>
+    <e c="pakA" w="1.0"><p><l>पका<s n="vblex"/></l><r>ਚਾੜ੍ਹ<s n="vblex"/></r></p></e>
+    <e c="pakA" w="0.0"><p><l>पका<s n="vblex"/></l><r>ਪਕਾ<s n="vblex"/></r></p></e>
+    <e c="pakA" w="1.0"><p><l>पका<s n="vblex"/></l><r>ਰਿਝਾ<s n="vblex"/></r></p></e>
+    <e c="pakA" w="1.0"><p><l>पका<s n="vblex"/></l><r>ਰਿਨ੍ਨ੍ਹਣ<s n="vblex"/></r></p></e>
     <e c="pacA"><p><l>पचा<s n="vblex"/></l><r>ਹਜ਼ਮ ਕਰ<s n="vblex"/></r></p></e>
     <e c="pacA"><p><l>पचा<s n="vblex"/></l><r>ਗੁੜ੍ਹ<s n="vblex"/></r></p></e>
     <e c="pacA"><p><l>पचा<s n="vblex"/></l><r>ਡਕਾਰ<s n="vblex"/></r></p></e>
@@ -16927,13 +17839,14 @@
     <e c="paCawA" w="1.0"><p><l>पछता<s n="vblex"/></l><r>ਝੀਖ<s n="vblex"/></r></p></e>
     <e c="paCawA" w="0.0"><p><l>पछता<s n="vblex"/></l><r>ਪਛਤਾ<s n="vblex"/></r></p></e>
     <e c="paCawA" w="1.0"><p><l>पछता<s n="vblex"/></l><r>ਪਛਤਾਵਾ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="pataka"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕ<s n="vblex"/></r></p></e>
-    <e c="pataka"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕਾ<s n="vblex"/></r></p></e>
-    <e c="pataka"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕਾਉਣਾ<s n="vblex"/></r></p></e>
-    <e c="pataka"><p><l>पटक<s n="vblex"/></l><r>ਲੈ ਮਾਰ<s n="vblex"/></r></p></e>
+    <e c="pataka" w="0.0"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕ<s n="vblex"/></r></p></e>
+    <e c="pataka" w="1.0"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕਾ<s n="vblex"/></r></p></e>
+    <e c="pataka" w="1.0"><p><l>पटक<s n="vblex"/></l><r>ਪਟਕਾਉਣਾ<s n="vblex"/></r></p></e>
+    <e c="pataka" w="1.0"><p><l>पटक<s n="vblex"/></l><r>ਲੈ ਮਾਰ<s n="vblex"/></r></p></e>
     <e c="paraKa"><p><l>परख<s n="vblex"/></l><r>ਪਰਖ<s n="vblex"/></r></p></e>
     <e c="parosa"><p><l>परोस<s n="vblex"/></l><r>ਪ੍ਰੋਸ<s n="vblex"/></r></p></e>
-    <e c="palata"><p><l>पलट<s n="vblex"/></l><r>ਪਲਟ<s n="vblex"/></r></p></e>
+    <e c="palata" w="0.0"><p><l>पलट<s n="vblex"/></l><r>ਪਲਟ<s n="vblex"/></r></p></e>
+    <e c="palata" w="1.0"><p><l>पलट<s n="vblex"/></l><r>ਪਰਤਣ<s n="vblex"/></r></p></e>
     <e c="pahacAna" w="1.0"><p><l>पहचान<s n="vblex"/></l><r>ਸਿਆਣ<s n="vblex"/></r></p></e>
     <e c="pahacAna" w="1.0"><p><l>पहचान<s n="vblex"/></l><r>ਸਿਂਵਾਣ<s n="vblex"/></r></p></e>
     <e c="pahacAna" w="1.0"><p><l>पहचान<s n="vblex"/></l><r>ਸੰਵਾਣ<s n="vblex"/></r></p></e>
@@ -17373,18 +18286,19 @@
     <e c="lA"><p><l>ला<s n="vblex"/></l><r>ਲਿਆ<s n="vblex"/></r></p></e>
     <e c="lAxa"><p><l>लाद<s n="vblex"/></l><r>ਲਦ<s n="vblex"/></r></p></e>
     <e c="lAMGa"><p><l>लांघ<s n="vblex"/></l><r>ਟਪ<s n="vblex"/></r></p></e>
-    <e c="liKa"><p><l>लिख<s n="vblex"/></l><r>ਉਕ੍ਕਰ<s n="vblex"/></r></p></e>
-    <e c="liKa"><p><l>लिख<s n="vblex"/></l><r>ਕਲਮ ਘਸਾਉ<s n="vblex"/></r></p></e>
-    <e c="liKa"><p><l>लिख<s n="vblex"/></l><r>ਕਲਮਬੰਦ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="liKa"><p><l>लिख<s n="vblex"/></l><r>ਕਾਗਜ਼ ਕਾਲੇ ਕਰ<s n="vblex"/></r></p></e>
-    <e c="liKa"><p><l>लिख<s n="vblex"/></l><r>ਰਚਾਉ<s n="vblex"/></r></p></e>
-    <e c="liKa"><p><l>लिख<s n="vblex"/></l><r>ਲਿਖ<s n="vblex"/></r></p></e>
+    <e c="liKa" w="1.0"><p><l>लिख<s n="vblex"/></l><r>ਉਕ੍ਕਰ<s n="vblex"/></r></p></e>
+    <e c="liKa" w="1.0"><p><l>लिख<s n="vblex"/></l><r>ਕਲਮ ਘਸਾ<s n="vblex"/></r></p></e>
+    <e c="liKa" w="1.0"><p><l>लिख<s n="vblex"/></l><r>ਕਲਮਬੰਦ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="liKa" w="1.0"><p><l>लिख<s n="vblex"/></l><r>ਕਾਗਜ਼ ਕਾਲੇ ਕਰ<s n="vblex"/></r></p></e>
+    <e c="liKa" w="1.0"><p><l>लिख<s n="vblex"/></l><r>ਰਚਾ<s n="vblex"/></r></p></e>
+    <e c="liKa" w="0.0"><p><l>लिख<s n="vblex"/></l><r>ਲਿਖ<s n="vblex"/></r></p></e>
     <e c="lipata"><p><l>लिपट<s n="vblex"/></l><r>ਲਿਪਟ<s n="vblex"/></r></p></e>
-    <e c="lUta"><p><l>लूट<s n="vblex"/></l><r>ਹਥ ਮਾਰ<s n="vblex"/></r></p></e>
-    <e c="lUta"><p><l>लूट<s n="vblex"/></l><r>ਕਪੜੇ ਲਾਹੁ<s n="vblex"/></r></p></e>
-    <e c="lUta"><p><l>लूट<s n="vblex"/></l><r>ਧਾੜਾ ਮਾਰ<s n="vblex"/></r></p></e>
-    <e c="lUta"><p><l>लूट<s n="vblex"/></l><r>ਰਾਹ ਮਾਰ<s n="vblex"/></r></p></e>
-    <e c="lUta"><p><l>लूट<s n="vblex"/></l><r>ਲੁਟ<s n="vblex"/></r></p></e>
+    <e c="lUta" w="1.0"><p><l>लूट<s n="vblex"/></l><r>ਹਥ ਮਾਰ<s n="vblex"/></r></p></e>
+    <e c="lUta" w="1.0"><p><l>लूट<s n="vblex"/></l><r>ਕਪੜੇ ਲਾਹੁ<s n="vblex"/></r></p></e>
+    <e c="lUta" w="1.0"><p><l>लूट<s n="vblex"/></l><r>ਧਾੜਾ ਮਾਰ<s n="vblex"/></r></p></e>
+    <e c="lUta" w="1.0"><p><l>लूट<s n="vblex"/></l><r>ਰਾਹ ਮਾਰ<s n="vblex"/></r></p></e>
+    <e c="lUta" w="1.0"><p><l>लूट<s n="vblex"/></l><r>ਲੁਟ<s n="vblex"/></r></p></e>
+    <e c="lUta" w="0.0"><p><l>लूट<s n="vblex"/></l><r>ਲੁੱਟ<s n="vblex"/></r></p></e>
     <e c="le" w="1.0"><p><l>ले<s n="vblex"/></l><r>ਘਿਂਨ<s n="vblex"/></r></p></e>
     <e c="le" w="1.0"><p><l>ले<s n="vblex"/></l><r>ਲੇ<s n="vblex"/></r></p></e>
     <e c="le" w="0.0"><p><l>ले<s n="vblex"/></l><r>ਲੈ<s n="vblex"/></r></p></e>
@@ -17454,38 +18368,40 @@
     <e c="suna"><p><l>सुन<s n="vblex"/></l><r>ਸੁਣ<s n="vblex"/></r></p></e>
     <e c="baDa़"><p><l>बढ़<s n="vblex"/></l><r>ਵਧ<s n="vblex"/></r></p></e>
     <e c="baDa़A"><p><l>बढ़ा<s n="vblex"/></l><r>ਵਧਾ<s n="vblex"/></r></p></e>
-    <e c="subaka"><p><l>सुबक<s n="vblex"/></l><r>ਸਿਸਕ<s n="vblex"/></r></p></e>
-    <e c="subaka"><p><l>सुबक<s n="vblex"/></l><r>ਕੁਰਲਾ<s n="vblex"/></r></p></e>
-    <e c="subaka"><p><l>सुबक<s n="vblex"/></l><r>ਕੂਕ<s n="vblex"/></r></p></e>
-    <e c="subaka"><p><l>सुबक<s n="vblex"/></l><r>ਠੁਣਕ<s n="vblex"/></r></p></e>
-    <e c="subaka"><p><l>सुबक<s n="vblex"/></l><r>ਵਿਲਕ<s n="vblex"/></r></p></e>
+    <e c="subaka" w="0.0"><p><l>सुबक<s n="vblex"/></l><r>ਸਿਸਕ<s n="vblex"/></r></p></e>
+    <e c="subaka" w="1.0"><p><l>सुबक<s n="vblex"/></l><r>ਕੁਰਲਾ<s n="vblex"/></r></p></e>
+    <e c="subaka" w="1.0"><p><l>सुबक<s n="vblex"/></l><r>ਕੂਕ<s n="vblex"/></r></p></e>
+    <e c="subaka" w="1.0"><p><l>सुबक<s n="vblex"/></l><r>ਠੁਣਕ<s n="vblex"/></r></p></e>
+    <e c="subaka" w="1.0"><p><l>सुबक<s n="vblex"/></l><r>ਵਿਲਕ<s n="vblex"/></r></p></e>
     <e c="sulaga"><p><l>सुलग<s n="vblex"/></l><r>ਧੁਖ<s n="vblex"/></r></p></e>
     <e c="sulagA"><p><l>सुलगा<s n="vblex"/></l><r>ਸੁਲਗਾ<s n="vblex"/></r></p></e>
     <e c="sulagA"><p><l>सुलगा<s n="vblex"/></l><r>ਧੁਖਾ<s n="vblex"/></r></p></e>
-    <e c="sulaJa"><p><l>सुलझ<s n="vblex"/></l><r>ਸੁਲਝ<s n="vblex"/></r></p></e>
-    <e c="sulaJa"><p><l>सुलझ<s n="vblex"/></l><r>ਨਿਪਟ<s n="vblex"/></r></p></e>
-    <e c="sulaJa"><p><l>सुलझ<s n="vblex"/></l><r>ਨਿਬੜ<s n="vblex"/></r></p></e>
+    <e c="sulaJa" w="0.0"><p><l>सुलझ<s n="vblex"/></l><r>ਸੁਲਝ<s n="vblex"/></r></p></e>
+    <e c="sulaJa" w="1.0"><p><l>सुलझ<s n="vblex"/></l><r>ਨਿਪਟ<s n="vblex"/></r></p></e>
+    <e c="sulaJa" w="1.0"><p><l>सुलझ<s n="vblex"/></l><r>ਨਿਬੜ<s n="vblex"/></r></p></e>
     <e c="suswA"><p><l>सुस्ता<s n="vblex"/></l><r>ਅਲਸਾ<s n="vblex"/></r></p></e>
-    <e c="sUKa"><p><l>सूख<s n="vblex"/></l><r>ਖ਼ੁਸ਼ਕ ਹੋ<s n="vblex"/></r></p></e>
-    <e c="sUKa"><p><l>सूख<s n="vblex"/></l><r>ਸੁਕ<s n="vblex"/></r></p></e>
-    <e c="sUKa"><p><l>सूख<s n="vblex"/></l><r>ਕੁੜਕ<s n="vblex"/></r></p></e>
-    <e c="sUKa"><p><l>सूख<s n="vblex"/></l><r>ਝੁਰ<s n="vblex"/></r></p></e>
-    <e c="sUKa"><p><l>सूख<s n="vblex"/></l><r>ਝੌਂ ਜਾ<s n="vblex"/></r></p></e>
-    <e c="sUja"><p><l>सूज<s n="vblex"/></l><r>ਉਭਰ<s n="vblex"/></r></p></e>
-    <e c="sUja"><p><l>सूज<s n="vblex"/></l><r>ਉਮੜ੍ਹ<s n="vblex"/></r></p></e>
-    <e c="sUja"><p><l>सूज<s n="vblex"/></l><r>ਸੁਜ<s n="vblex"/></r></p></e>
-    <e c="sUja"><p><l>सूज<s n="vblex"/></l><r>ਫੁਲ<s n="vblex"/></r></p></e>
+    <e c="sUKa" w="1.0"><p><l>सूख<s n="vblex"/></l><r>ਖ਼ੁਸ਼ਕ ਹੋ<s n="vblex"/></r></p></e>
+    <e c="sUKa" w="1.0"><p><l>सूख<s n="vblex"/></l><r>ਸੁਕ<s n="vblex"/></r></p></e>
+    <e c="sUKa" w="0.0"><p><l>सूख<s n="vblex"/></l><r>ਸੁੱਕ<s n="vblex"/></r></p></e>
+    <e c="sUKa" w="1.0"><p><l>सूख<s n="vblex"/></l><r>ਕੁੜਕ<s n="vblex"/></r></p></e>
+    <e c="sUKa" w="1.0"><p><l>सूख<s n="vblex"/></l><r>ਝੁਰ<s n="vblex"/></r></p></e>
+    <e c="sUKa" w="1.0"><p><l>सूख<s n="vblex"/></l><r>ਝੌਂ ਜਾ<s n="vblex"/></r></p></e>
+    <e c="sUja" w="1.0"><p><l>सूज<s n="vblex"/></l><r>ਉਭਰ<s n="vblex"/></r></p></e>
+    <e c="sUja" w="1.0"><p><l>सूज<s n="vblex"/></l><r>ਉਮੜ੍ਹ<s n="vblex"/></r></p></e>
+    <e c="sUja" w="1.0"><p><l>सूज<s n="vblex"/></l><r>ਸੁਜ<s n="vblex"/></r></p></e>
+    <e c="sUja" w="0.0"><p><l>सूज<s n="vblex"/></l><r>ਸੁੱਜ<s n="vblex"/></r></p></e>
+    <e c="sUja" w="1.0"><p><l>सूज<s n="vblex"/></l><r>ਫੁਲ<s n="vblex"/></r></p></e>
     <e c="sUJa"><p><l>सूझ<s n="vblex"/></l><r>ਔਹੜ<s n="vblex"/></r></p></e>
     <e c="sUJa"><p><l>सूझ<s n="vblex"/></l><r>ਸੁਝ<s n="vblex"/></r></p></e>
     <e c="sU~Ga"><p><l>सूँघ<s n="vblex"/></l><r>ਸੁਂਘ<s n="vblex"/></r></p></e>
     <e c="so"><p><l>सो<s n="vblex"/></l><r>ਸੋ<s n="vblex"/></r></p></e>
     <e c="so"><p><l>सो<s n="vblex"/></l><r>ਸੌਂ<s n="vblex"/></r></p></e>
-    <e c="soca"><p><l>सोच<s n="vblex"/></l><r>ਸੋਚ<s n="vblex"/></r></p></e>
-    <e c="soca"><p><l>सोच<s n="vblex"/></l><r>ਕਲਪ<s n="vblex"/></r></p></e>
-    <e c="soca"><p><l>सोच<s n="vblex"/></l><r>ਗੌਲ<s n="vblex"/></r></p></e>
-    <e c="soca"><p><l>सोच<s n="vblex"/></l><r>ਘੋਖ<s n="vblex"/></r></p></e>
-    <e c="soca"><p><l>सोच<s n="vblex"/></l><r>ਚਿਤਵ<s n="vblex"/></r></p></e>
-    <e c="soca"><p><l>सोच<s n="vblex"/></l><r>ਵਿਚਾਰ<s n="vblex"/></r></p></e>
+    <e c="soca" w="0.0"><p><l>सोच<s n="vblex"/></l><r>ਸੋਚ<s n="vblex"/></r></p></e>
+    <e c="soca" w="1.0"><p><l>सोच<s n="vblex"/></l><r>ਕਲਪ<s n="vblex"/></r></p></e>
+    <e c="soca" w="1.0"><p><l>सोच<s n="vblex"/></l><r>ਗੌਲ<s n="vblex"/></r></p></e>
+    <e c="soca" w="1.0"><p><l>सोच<s n="vblex"/></l><r>ਘੋਖ<s n="vblex"/></r></p></e>
+    <e c="soca" w="1.0"><p><l>सोच<s n="vblex"/></l><r>ਚਿਤਵ<s n="vblex"/></r></p></e>
+    <e c="soca" w="1.0"><p><l>सोच<s n="vblex"/></l><r>ਵਿਚਾਰ<s n="vblex"/></r></p></e>
     <e c="sOMpa"><p><l>सौंप<s n="vblex"/></l><r>ਸੌਂਪ<s n="vblex"/></r></p></e>
     <e c="sOMpa"><p><l>सौंप<s n="vblex"/></l><r>ਹਵਾਲੇ ਕਰ<s n="vblex"/></r></p></e>
     <e c="sOMpa"><p><l>सौंप<s n="vblex"/></l><r>ਮੜ੍ਹ<s n="vblex"/></r></p></e>
@@ -17531,6 +18447,8 @@
     <e c="klika"><p><l>क्लिक<s n="vblex"/></l><r>ਕਲਿੱਕ<s n="vblex"/></r></p></e>
     <e c="raha"><p><l>रह<s n="vaux"/></l><r>ਰਹ<s n="vaux"/></r></p></e>
     <e c="paDhA"><p><l>पढ़ा<s n="vblex"/></l><r>ਪੜ੍ਹਾ<s n="vblex"/></r></p></e>
+    <e c="CoD"><p><l>छोड़<s n="vblex"/></l><r>ਛੱਡ<s n="vblex"/></r></p></e>
+    <e c="juD"><p><l>जुड़<s n="vblex"/></l><r>ਜੁੜ<s n="vblex"/></r></p></e>
 
     <e c="ho"><p><l>हो<s n="vbser"/></l><r>ਹੋ<s n="vbser"/></r></p></e>
     <e c="honA"><p><l>होना<s n="vblex"/></l><r>ਹੋਣਾ<s n="vblex"/></r></p></e>
