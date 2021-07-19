@@ -1,0 +1,8 @@
+[SlUaswFaH4uL#0] ^डाक्टर<n><m><sg><nom>/حکیم<n><m><sg><nom>$
+[/SlUaswFaH4uL]
+[YFigVLzifIyx#0] ^दोस्त<n><m><sg><nom>/یار<n><m><sg><nom>$
+[/YFigVLzifIyx]
+[q2xWUKLC7FPv#0] ^दोस्त<n><m><pl><obl>/یار<n><m><pl><obl>$
+[/q2xWUKLC7FPv]
+[yEvxhsOkg3gh#0] ^दोस्त<n><m><pl><obl>/یار<n><m><pl><obl>$
+[/yEvxhsOkg3gh]

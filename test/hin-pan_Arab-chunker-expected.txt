@@ -1,0 +1,8 @@
+[SlUaswFaH4uL#0] ^default<default>{^حکیم<n><m><sg><nom>$}$
+[/SlUaswFaH4uL]
+[YFigVLzifIyx#0] ^default<default>{^یار<n><m><sg><nom>$}$
+[/YFigVLzifIyx]
+[q2xWUKLC7FPv#0] ^default<default>{^یار<n><m><pl><obl>$}$
+[/q2xWUKLC7FPv]
+[yEvxhsOkg3gh#0] ^default<default>{^یار<n><m><pl><obl>$}$
+[/yEvxhsOkg3gh]

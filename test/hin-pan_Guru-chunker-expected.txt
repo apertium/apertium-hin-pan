@@ -1,0 +1,12 @@
+[QbgF6nrAFOI1#0] ^sent<SENT>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[VibmOoUvJEXD#0] ^unknown<unknown>{^*ध्वंस$}$
+[/VibmOoUvJEXD]
+[cGAECp096GmT#0] ^unknown<unknown>{^*दमॊमेबो्तीो$}$
+[/cGAECp096GmT]
+[j2iKsYJiD_Xy#0] ^unknown<unknown>{^*एकतमर्$}$
+[/j2iKsYJiD_Xy]
+[lOmU3ZE0Mpn2#0] ^default<default>{^ਛੇ<num>$}$
+[/lOmU3ZE0Mpn2]
+[u3IIvJtdfATx#0] ^sent<SENT>{^!<sent>$}$
+[/u3IIvJtdfATx]

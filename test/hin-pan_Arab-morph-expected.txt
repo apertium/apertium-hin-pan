@@ -1,0 +1,8 @@
+[SlUaswFaH4uL#0] ^डाक्टर/डाक्टर<n><m><sg><nom>/डाक्टर<n><m><sg><obl>/डाक्टर<n><m><pl><nom>$
+[/SlUaswFaH4uL]
+[YFigVLzifIyx#0] ^दॊस्त/दोस्त<n><m><sg><nom>/दोस्त<n><m><sg><obl>/दोस्त<n><m><pl><nom>$
+[/YFigVLzifIyx]
+[q2xWUKLC7FPv#0] ^दॊस्तॊं/दोस्त<n><m><pl><obl>$
+[/q2xWUKLC7FPv]
+[yEvxhsOkg3gh#0] ^दॊस्तों/दोस्त<n><m><pl><obl>$
+[/yEvxhsOkg3gh]

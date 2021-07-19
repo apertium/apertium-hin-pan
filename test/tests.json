@@ -1,0 +1,14 @@
+{
+    "hin-pan_Arab": {
+        "input": "hin-pan_Arab-input.txt",
+        "mode": "hin-pan_Arab"
+    },
+    "hin-pan_Guru": {
+        "input": "hin-pan_Guru-input.txt",
+        "mode": "hin-pan_Guru"
+    },
+    "pan_Guru-hin": {
+        "input": "pan_Guru-hin-input.txt",
+        "mode": "pan_Guru-hin"
+    }
+}

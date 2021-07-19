@@ -1,0 +1,12 @@
+[QbgF6nrAFOI1#0] ^;<sent>/;<sent>$
+[/QbgF6nrAFOI1]
+[VibmOoUvJEXD#0] ^*ध्वंस/*ध्वंस$
+[/VibmOoUvJEXD]
+[cGAECp096GmT#0] ^*दमॊमेबो्तीो/*दमॊमेबो्तीो$
+[/cGAECp096GmT]
+[j2iKsYJiD_Xy#0] ^*एकतमर्/*एकतमर्$
+[/j2iKsYJiD_Xy]
+[lOmU3ZE0Mpn2#0] ^छह<num>/ਛੇ<num>$
+[/lOmU3ZE0Mpn2]
+[u3IIvJtdfATx#0] ^!<sent>/!<sent>$
+[/u3IIvJtdfATx]
