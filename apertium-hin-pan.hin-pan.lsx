@@ -100,11 +100,11 @@
 
   <pardefs>
         <pardef n="adj"> <!-- to represent all adjectives -->
-            <e><i><w/><s n="adj"/><j/></i></e> <!-- word only has the adj tag -->
-            <e><i><w/><s n="adj"/><t/><j/></i></e> <!-- word has the adj tag followed by one or more other tags -->
+            <e><i><w/><s n="adj"/><d/></i></e> <!-- word only has the adj tag -->
+            <e><i><w/><s n="adj"/><t/><d/></i></e> <!-- word has the adj tag followed by one or more other tags -->
         </pardef>
         <pardef n="n"> #to represent all nouns
-            <e><i><w/><s n="n"/><t/><j/></i></e> <!-- word has the n tag followed by one or more other tags -->
+            <e><i><w/><s n="n"/><t/><d/></i></e> <!-- word has the n tag followed by one or more other tags -->
         </pardef>
         <pardef n="SN"> #to represent all noun phrases
             <e><par n="n"/></e>
@@ -112,10 +112,10 @@
             <e><par n="adj"/><par n="adj"/><par n="n"/></e> <!-- word phrase is comprised of two adjectives followed by a noun -->
         </pardef>
         <pardef n="post-adv">
-            <e><i>के<s n="adv"/><j/></i></e> <!-- i.e. ^के<adv>$ -->
+            <e><i>के<s n="adv"/><d/></i></e> <!-- i.e. ^के<adv>$ -->
         </pardef>
         <pardef n="adv">
-            <e><i><w/><s n="adv"/><j/></i></e>
+            <e><i><w/><s n="adv"/><d/></i></e>
         </pardef>
         <pardef n="SAdv">
             <e><par n="adv"/></e>
@@ -125,14 +125,14 @@
   <section id="main" type="standard">
     <e lm="के पास">
         <p>
-            <l>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="obl"/><j/>का<s n="post"/><s n="gen"/><s n="mf"/><s n="sg"/><j/>पास<s n="adv"/><j/></l>
-            <r>के<b/>पास<s n="post"/><j/></r>
+            <l>यह<s n="prn"/><s n="dem"/><s n="p3"/><s n="mf"/><s n="sg"/><s n="dist"/><s n="obl"/><d/>का<s n="post"/><s n="gen"/><s n="mf"/><s n="sg"/><d/>पास<s n="adv"/><d/></l>
+            <r>के<b/>पास<s n="post"/><d/></r>
         </p>
     </e>
     <e lm="के_पास">
         <p>
-            <l>का<s n="post"/><s n="gen"/><s n="m"/><s n="pl"/><j/>पास<s n="adv"/><j/></l>
-            <r>के<b/>पास<s n="post"/><j/></r>
+            <l>का<s n="post"/><s n="gen"/><s n="m"/><s n="pl"/><d/>पास<s n="adv"/><d/></l>
+            <r>के<b/>पास<s n="post"/><d/></r>
         </p>
     </e>
   </section>
